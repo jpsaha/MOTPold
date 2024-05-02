@@ -1,7 +1,7 @@
 # Site settings
 course_name: MOTP
 course_description: "This has the  aim  of "
-course_semester: "2024"
+course_semester: "202224"
 
 baseurl: "/MOTP" # the subpath of your site, e.g. /blog/
 url: "http://jpsaha.github.io/" # the base hostname & protocol for your site
