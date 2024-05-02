@@ -116,7 +116,6 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 ## References
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
-* ~~Art and Craft of Problem-Solving by Paul Zeitz is a good *first book* for all the fields.~~ Not available in India
 * Euclidean Geometry in Mathematical Olympiads (EGMO) by Evan Chen.
 * OTIS Excerpts by Evan Chen for non-geometry.
 * Olympiad Combinatorics, by Pranav A. Sriram, is an intermediate-advanced textbook. 
