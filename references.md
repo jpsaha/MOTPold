@@ -8,7 +8,15 @@ permalink: /references/
 
 ## Book
 
-EGMO
+
+* Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
+* Euclidean Geometry in Mathematical Olympiads (EGMO) by Evan Chen.
+* OTIS Excerpts by Evan Chen for non-geometry.
+* Olympiad Combinatorics, by Pranav A. Sriram, is an intermediate-advanced textbook. 
+* Olympiad NT through Challenging Problems, by Justin Stevens, is an introductory olympiad number theory text. 
+* Modern Olympiad Number Theory, by Aditya Khurmi, olympiad-oriented number theory textbook.
+* Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
+
 
 ## Additional Course Materials
 
