@@ -11,6 +11,14 @@ items:
   name: Combinatorics
   icon_class: fas fa-book-reader
 
+- url: /geometry/
+  name: Geometry
+  icon_class: fas fa-book-reader
+
+- url: /numbertheory/
+  name: Number Theory
+  icon_class: fas fa-book-reader
+
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
