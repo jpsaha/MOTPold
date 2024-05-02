@@ -10,6 +10,8 @@ permalink: /materials/
 
 Alan Turing and Noam Chomsky: Very Famous Book
 
+EGMO
+
 ## Additional Course Materials
 
 * If you are not familiar with Python programming, use any online tutorial to get a handle of it.
