@@ -1,6 +1,6 @@
 # Site settings
 course_name: 1MOTP
-course_description: "This has the  aim  of "
+course_description: "It is located in _config.yml in MOTP repo. This has the  aim  of "
 course_semester: "a2024"
 
 baseurl: "/MOTP" # the subpath of your site, e.g. /blog/
