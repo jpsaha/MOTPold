@@ -6,8 +6,8 @@ permalink: /combinatorics/
 You can download the combinatorics lectures here. 
 
 ## Pigeonhole principle
-* a
-  * b
+* a immediate
+  * b not so
 
 ## Inclusion-exclusion principle
 * a
