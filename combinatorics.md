@@ -5,18 +5,22 @@ permalink: /combinatorics/
 ---
 You can download the combinatorics lectures here. 
 
-# Pigeonhole principle
+## Pigeonhole principle
 * a
   * b
-# Inclusion-exclusion principle
+
+## Inclusion-exclusion principle
 * a
   * b
-# Coloring problems
+
+## Coloring problems
 * a
   * b
-# Counting in two different ways
+
+## Counting in two different ways
 * a
   * b
-# Introduce an auxiliary structure
+
+## Introduce an auxiliary structure
 * a
   * b
