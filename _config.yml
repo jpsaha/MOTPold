@@ -1,12 +1,12 @@
 # Site settings
-course_name: MOTP
+course_name: 1MOTP
 course_description: "This has the  aim  of "
-course_semester: "202224"
+course_semester: "a2024"
 
 baseurl: "/MOTP" # the subpath of your site, e.g. /blog/
 url: "http://jpsaha.github.io/" # the base hostname & protocol for your site
 
-schoolname: "MOTP"
+schoolname: "2MOTP"
 schoolurl: # "https://hogwarts.edu"
 twitter_username: # username 
 
