@@ -5,13 +5,15 @@ title: Sample Lecture
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
-      name: slides
+    - url: /static_files/presentations/pro.pdf
+      name: Problem
+    - url: /static_files/presentations/sol.pdf
+      name: Solution
+    - url: https://github.com/topics/python-course
+      name: python
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Algera](https://jpsaha.github.io/MOTP/algebra/)
+- [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)
+- [Geometry](https://jpsaha.github.io/MOTP/geometry/)
+- [ghj](/static_files/presentations/ghj.pdf)
