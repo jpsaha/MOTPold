@@ -11,6 +11,14 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
+- url: /algebra/
+  name: Algebra
+  icon_class: fas fa-book-reader
+
+- url: /combinatorics/
+  name: Combinatorics
+  icon_class: fas fa-book-reader
+
 - url: /assignments/
   name: Assignments
   icon_class: fas fa-user-graduate
