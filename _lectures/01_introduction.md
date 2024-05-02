@@ -7,8 +7,12 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/pro.pdf
       name: Problem
+    - url: /static_files/presentations/pro.tex
+      name: tex
     - url: /static_files/presentations/sol.pdf
       name: Solution
+    - url: /static_files/presentations/sol.tex
+      name: tex
     - url: https://github.com/topics/python-course
       name: python
 ---
