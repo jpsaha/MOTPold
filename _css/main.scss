@@ -7,14 +7,14 @@ $header-background-invert: 0%;
 @import "user_vars";
 
 // Our variables
-$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   .95em;
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #24292e;
 $background-color: #fff;
 $brand-color:      $primary-color;
 // $gameday-sky: #109dc0;
