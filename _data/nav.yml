@@ -3,6 +3,10 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
+- url: /lectures/
+  name: Lectures
+  icon_class: fas fa-book-reader
+
 - url: /algebra/
   name: Algebra
   icon_class: fas fa-book-reader
@@ -22,10 +26,6 @@ items:
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
-
-- url: /lectures/
-  name: Lectures
-  icon_class: fas fa-book-reader
 
 - url: /assignments/
   name: Assignments
