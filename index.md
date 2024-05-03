@@ -2,11 +2,6 @@
 layout: home
 ---
 
-**Index.md** contains the following sentence only. 
-
-
-
-
 ## Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
