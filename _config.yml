@@ -1,6 +1,6 @@
 # Site settings
 course_name:  # MOTP #second top most item next to the logo
-course_description: "This sentence is located in _config.yml in MOTP repo. Write down a description."
+course_description: # "This sentence is located in _config.yml in MOTP repo. Write down a description."
 course_semester: "" #"2024" #third top most item next to the logo
 
 baseurl: "/MOTP" # the subpath of your site, e.g. /blog/
