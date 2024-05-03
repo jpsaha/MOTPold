@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-bahahh
-
 ## Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
@@ -134,5 +132,3 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 <!-- **_data/previous_offering.yml** contains the details of the previous offerings. -->
 <!-- **_data/people.yml** contains the details of instructor and TAs. -->
-
-
