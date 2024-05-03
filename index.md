@@ -122,7 +122,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 
 ## AoPS
-* On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Competition, together with community-contributed solutions.
+* On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Contest, together with community-contributed solutions.
 
 ## Problem Solving Sessions at IISER Bhopal
 
