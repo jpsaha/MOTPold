@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 ## Problem Solving Sessions at IISER Bhopal
