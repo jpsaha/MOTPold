@@ -110,7 +110,8 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 ## Evan Chen
 * Olympiad Training for Individual Study (OTIS) by Evan Chen.
-  * Pranjal Srivastava is an alumni of OTIS. 
+  * Pranjal Srivastava is an alumni of OTIS.
+  * Anant Mudgal is also an alumni of OTIS. 
 
 
 ## References
