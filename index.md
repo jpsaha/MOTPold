@@ -110,8 +110,9 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 ## Evan Chen
 * Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)) by Evan Chen.
-  * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated at IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G), is an alumni of OTIS.
   * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated at IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), is also an alumni of OTIS.
+  * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated at IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G), is an alumni of OTIS.
+  * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), participated in IMO 2022 (B), 2023 (B), is an alumni of OTIS. 
   * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), obtained bronze medals in EGMO three times, has also been an alumni of OTIS. 
 
 
