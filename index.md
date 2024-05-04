@@ -21,19 +21,20 @@ title: Home
 ## Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
-  * The aim is to develop an interest for mathematics among the students, through encouraging them to work on problems, falling broadly within the scope of Mathematical Olympiad.
-  * The first session will tentatively take place in August, 2024.
+  * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
+  * The first session will tentatively take place in August 2024.
   * Please feel free to get in touch!
  
 
 ## Mathematical Olympiad
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
+
 > It is the aim of the IMO to bring young people together from all over the world to enjoy the challenges of mathematics in a spirit of friendly competition. This provides a stimulus for Mathematics in each of the participating countries as young people strive for selection. Whist clearly it is a competitive event, for most participants, it is the people that they meet and the shared joy of discovery that is what they regard as most worthwhile. It is common that lifelong friendships are forged at IMO events.
 
 * The first IMO was held in Romania in 1959, with seven countries participating.
 * It has since been held annually, except in 1980 and 2020. 
-* Currently, it has expanded to over 100 contries accross the globe.
+* Currently, it has expanded to over 100 countries across the globe.
 * Each country sends a team of up to six students. 
 * In the recent past,
   * Japan was the host for [IMO2023](https://imo2023.jp/en/),
@@ -44,12 +45,12 @@ title: Home
   * IMO2025 will be [held](https://www.imo-official.org/organizers.aspx) in Australia.
   * IMO2026 will be [held](https://www.imo-official.org/organizers.aspx) in People's Republic of China.
   * IMO2027 will be [held](https://www.imo-official.org/organizers.aspx) in Hungary. 
-* IMO is held over two consecutive days with 3 problems each. Each day the contestants have four-and-a-half hours to solve three problems. Each problem is worth 7 points for a maximum total score of 42 points.
+* IMO is held over two consecutive days with 3 problems each. Each day, the contestants have four-and-a-half hours to solve three problems. Each problem is worth 7 points for a maximum total score of 42 points.
 * The problems are arranged so that the order in increasing difficulty is Q1, Q4, Q2, Q5, Q3 and Q6, where the Day 1 problems Q1, Q2, and Q3 are in increasing difficulty, and the Day 2 problems Q4, Q5, and Q6 are in increasing difficulty. 
 
 ## Participation of India in IMO
-* [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in 1996.
-* India has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and there were 28 Honourable mentions.
+* [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in the year 1996.
+* India has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and 28 Honourable mentions.
 * India [ranked](https://www.imo-official.org/country_team_r.aspx?code=IND)
   * 7th in 1998 (G, G, G, S, S, S),
   * 7th in 2001 (G, G, S, S, B, B),
@@ -71,7 +72,7 @@ title: Home
  He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). 
 
 <!--
-* Some of the golden years has been
+* Some of the golden years have been
   * 1990 - [Rina Panigrahy](https://www.imo-official.org/participant_r.aspx?id=2407)
   * 1996 - [Ajay C. Ramdoss](https://www.imo-official.org/participant_r.aspx?id=4219)
   * 1998 - Chetan Balwe, Abhinav Kumar, N.Venkataramana Tejaswi
