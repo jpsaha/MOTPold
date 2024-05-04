@@ -17,11 +17,15 @@ title: Home
 * It has since been held annually, except in 1980 and 2020. 
 * Currently, it has expanded to over 100 contries accross the globe.
 * Each country sends a team of up to six students. 
-* [IMO2024](https://www.imo2024.uk/), the 65th IMO, will take place in UK during July, 2024.
 * In the recent past,
   * Japan was the host for IMO2023,
   * Norway was the host for IMO2022,
   * Russian Federation was the host for IMO2020, IMO2021. 
+* The upcoming IMOs have been scheduled.
+  * [IMO2024](https://www.imo2024.uk/) will take place in UK during July, 2024.
+  * IMO2025 will be held in Australia.
+  * IMO2026 will be held in People's Republic of China.
+  * IMO2027 will be held in Hungary. 
 * IMO is held over two consecutive days with 3 problems each. Each day the contestants have four-and-a-half hours to solve three problems. Each problem is worth 7 points for a maximum total score of 42 points.
 * The problems are arranged so that the order in increasing difficulty is Q1, Q4, Q2, Q5, Q3 and Q6, where the Day 1 problems Q1, Q2, and Q3 are in increasing difficulty, and the Day 2 problems Q4, Q5, and Q6 are in increasing difficulty. 
 
