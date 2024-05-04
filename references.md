@@ -6,7 +6,7 @@ permalink: /references/
 
 {% include image.html url="/_images/pp/G19.jpg" width=175 align="right" %}
 
-## Book
+## Books
 
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
@@ -18,8 +18,6 @@ permalink: /references/
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 
 
-## Additional Course Materials
+## Additional resources
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
+* 
