@@ -3,6 +3,24 @@ layout: page
 title: Home
 ---
 
+
+### Table of contents
+* [Problem Solving Sessions at IISER Bhopal](#Problem-Solving-Sessions-at-IISER-Bhopal)
+* [Mathematical Olympiad](#Mathematical-Olympiad)
+* [Participation of India in IMO](#Participation-of-India-in-IMO)
+* [Participation of India in Mathematical Olympiads](#Participation-of-India-in-Mathematical-Olympiads)
+* [Mathematical Olympiad program in India](#Mathematical-Olympiad-program-in-India)
+  * [Eligibility and its stages](#Eligibility-and-its-stages)
+  * [From Madhya Pradesh](#From-Madhya-Pradesh)
+  * [Syllabus](#Syllabus)
+* [Let's go through a few problems](#Let's-go-through-a-few-problems)
+* [Preparation](#Preparation)
+* [Evan Chen](#Evan-Chen)
+* [References](#References)
+* [AoPS](#AoPS)
+* 
+
+
 ## Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
