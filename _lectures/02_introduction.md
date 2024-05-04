@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2018-09-26T8:00:00+4:30
 title: Sample Lecture 02
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: #/static_files/presentations/lec.jpg
@@ -17,7 +17,7 @@ links:
       name: python
 ---
 **Suggested Readings:**
-- [Algera](https://jpsaha.github.io/MOTP/algebra/)
+- [Algebra](https://jpsaha.github.io/MOTP/algebra/)
 - [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)
 - [Geometry](https://jpsaha.github.io/MOTP/geometry/)
-- [ghj](..//static_files/presentations/ghj.pdf)
+- [ghj](../static_files/presentations/ghj.pdf)
