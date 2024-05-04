@@ -17,7 +17,7 @@ links:
       name: python
 ---
 **Suggested Readings:**
-- [Algera](https://jpsaha.github.io/MOTP/algebra/)
+- [Algebra](https://jpsaha.github.io/MOTP/algebra/)
 - [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)
 - [Geometry](https://jpsaha.github.io/MOTP/geometry/)
 - [ghj](..//static_files/presentations/ghj.pdf)
