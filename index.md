@@ -18,9 +18,9 @@ title: Home
 * Currently, it has expanded to over 100 contries accross the globe.
 * Each country sends a team of up to six students. 
 * In the recent past,
-  * Japan was the host for IMO2023,
-  * Norway was the host for IMO2022,
-  * Russian Federation was the host for IMO2020, IMO2021. 
+  * Japan was the host for [IMO2023](https://imo2023.jp/en/),
+  * Norway was the host for [IMO2022](https://www.imo2022.org/),
+  * Russian Federation was the host for [IMO2020](https://imo2020.ru/), IMO2021. 
 * The upcoming IMOs have been scheduled.
   * [IMO2024](https://www.imo2024.uk/) will take place in UK during July, 2024.
   * IMO2025 will be [held](https://www.imo-official.org/organizers.aspx) in Australia.
@@ -83,7 +83,6 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * Indian National Mathematical Olympiad (INMO), held on the third Sunday of January.
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for IMO.
-
 
 ### From Madhya Pradesh
 * 144 students qualified in IOQM 2023
