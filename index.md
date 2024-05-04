@@ -23,9 +23,9 @@ title: Home
   * Russian Federation was the host for IMO2020, IMO2021. 
 * The upcoming IMOs have been scheduled.
   * [IMO2024](https://www.imo2024.uk/) will take place in UK during July, 2024.
-  * IMO2025 will be held in Australia.
-  * IMO2026 will be held in People's Republic of China.
-  * IMO2027 will be held in Hungary. 
+  * IMO2025 will be [held](https://www.imo-official.org/organizers.aspx) in Australia.
+  * IMO2026 will be [held](https://www.imo-official.org/organizers.aspx) in People's Republic of China.
+  * IMO2027 will be [held](https://www.imo-official.org/organizers.aspx) in Hungary. 
 * IMO is held over two consecutive days with 3 problems each. Each day the contestants have four-and-a-half hours to solve three problems. Each problem is worth 7 points for a maximum total score of 42 points.
 * The problems are arranged so that the order in increasing difficulty is Q1, Q4, Q2, Q5, Q3 and Q6, where the Day 1 problems Q1, Q2, and Q3 are in increasing difficulty, and the Day 2 problems Q4, Q5, and Q6 are in increasing difficulty. 
 
