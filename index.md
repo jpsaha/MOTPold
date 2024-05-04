@@ -32,14 +32,14 @@ title: Home
 ## Participation of India in IMO
 * [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in 1996.
 * India has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and there were 28 Honourable mentions.
-* India ranked 
+* India [ranked](https://www.imo-official.org/country_team_r.aspx?code=IND)
   * 7th in 1998 (G, G, G, S, S, S),
   * 7th in 2001 (G, G, S, S, B, B),
   * 9th in 2002 (G, S, S, S, B, B),
   * 11th in 2012 (G, G, S, S, S, HM),
   * 9th in 2023 (G, G, S, S, B, B).
 <!-- ~~In 1991 - 1995, 1999 - 2000, 2003 - 2010, 2013 - 2018, there were no Gold medalists.~~ -->
-* In each IMO held during 2019 - 2023, at least one participant from India obtained a Gold medal. 
+* In each IMO held during 2019 - 2023, at least one participant from India [obtained](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
 * Some of the past contestants are
   * Riddhipratim Basu
   * Chetan Balwe
