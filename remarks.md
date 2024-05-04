@@ -6,7 +6,7 @@ all the pages on MOTP, when browsed, shows Algebra - MO / 20, Geometry - MO / 20
     But it removed the slash from MO/20 as shown below.
     
 <p float="left">
-<img src="https://jpsaha.github.io/MOTP/_images/screenshots/LearningSyntax/FrmTopOfHome-SlashRemoved.png" width="300">
+<img src="_images/screenshots/LearningSyntax/FrmTopOfHome-SlashRemoved.png" width="300">
 </p>
 
 * Slashing once again
