@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Assignment #1 - Sample Assignment'
+title: 'Assignment J #1 - Coloring problems'
 pdf: /static_files/assignments/AddCommute.pdf
 attachment: # /static_files/assignments/asg.zip
 solutions: /static_files/assignments/AddCommuteSol.pdf
