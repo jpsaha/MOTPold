@@ -1,4 +1,6 @@
-# Features
+* TOC {:toc}
+
+* # Features
 - Individual page for assignments, lectures, course material, course schedule
 - Auto generated Course schedule Page
 - Auto generated course updates section (for each new lectures and assignments) + custom/manual announcements 
