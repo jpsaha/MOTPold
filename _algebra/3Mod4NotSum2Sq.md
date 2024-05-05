@@ -1,5 +1,5 @@
 ---
-type: algebrass
+type: assignment
 date: 2019-09-26T4:00:00+4:30
 title: 'Alg ssignment J #1 - 3 mod 4 not sum of two sq'
 pdf: /static_files/algebra/alg.pdf
