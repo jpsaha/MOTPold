@@ -116,7 +116,9 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * Number Theory
 
 ## Let's go through a few problems
-[here](/MOTP/slides/3Mod4NotSumOfTwoSq.pdf)
+
+* [A1](/MOTP/slides/3Mod4NotSumOfTwoSq.pdf)
+* [C1](/MOTP/slides/putnam.pdf)
 
 ## Preparation 
 * Pick up any standard textbook to work through, so you learn some of the standard theory that is tested in math contests. 
