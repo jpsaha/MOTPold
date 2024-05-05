@@ -50,3 +50,8 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+  - scope:
+      path: ""
+      type: "algebra"
+    values:
+      layout: "algebrass"
