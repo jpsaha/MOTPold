@@ -10,4 +10,4 @@ due_event:
     date: 2020-12-13T23:59:00+3:30
     description: 'Assignment #1 due'
 ---
-This is a sample algebra ex.
+This is a sample algebra eeex.
