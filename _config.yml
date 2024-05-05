@@ -11,7 +11,7 @@ schoolurl: # "https://hogwarts.edu"
 twitter_username: # username 
 
 address: |
-    MOTP
+    # MOTP
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -37,6 +37,8 @@ collections:
     lectures:
         output: true
     assignments:
+        output: true
+    algebra:
         output: true
     announcements:
         output: false
