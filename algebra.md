@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: algebra
 title: Algebra
 permalink: /algebra/
 ---
