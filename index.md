@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-
+<!--
 ### Table of contents
 * [Problem Solving Sessions at IISER Bhopal](#Problem-Solving-Sessions-at-IISER-Bhopal)
 * [Mathematical Olympiad](#Mathematical-Olympiad)
@@ -17,6 +17,7 @@ title: Home
 * [Evan Chen](#Evan-Chen)
 * [References](#References)
 * [AoPS](#AoPS)
+-->
 
 ## Problem Solving Sessions at IISER Bhopal
 
