@@ -27,3 +27,13 @@ by
 ---
 <title>{% if page.title %} {{ page.title }} {% else %}{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}{% endif %}</title>
 ```
+
+* If you go to the Assignments page (by clicking on Assignments tab), and click on an individual Assignment (say, Assignment 1),
+**(Notice the difference between Assignments and Assignment, this helps to understand what Assignments.html and Assignment.html could be about)**
+then you will be redirected to the page of that individual Assignment, which includes a Late Policy.
+This can be removed by commenting the Late policy in `_layouts/assignment.html`.
+
+<p float="left">
+<img src="_images/screenshots/LearningSyntax/Assignmnt1.png" width="300">
+<img src="_images/screenshots/LearningSyntax/Assignmnt2.png" width="300">
+</p>
