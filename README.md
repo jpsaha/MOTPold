@@ -1,5 +1,4 @@
-* 
-{:toc}
+
 
 * # Features
 - Individual page for assignments, lectures, course material, course schedule
