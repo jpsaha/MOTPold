@@ -1,0 +1,23 @@
+% !BIB program = biber
+\documentclass[paper=6.125in:9.25in,twoside,openright,pagesize=pdftex,10pt]{scrbook}
+
+\input{preamble.sty}
+
+\newcommand{\alertb}[1]{\textbf{\color{blue} #1}}
+
+\begin{document}
+
+
+\begin{problem}
+[Putnam 2002]
+\index{Putnam!2002}
+Given any five points on a sphere, show that some four of them must lie on a closed hemisphere.
+\end{problem}
+
+\begin{soln}
+Consider a great circle passing through at least two of the five points. Then at least one closed hemisphere contains at least two of the remaining three points. This concludes the proof. 
+% See \cite[Example 3.2]{CharmingProofs}.
+\end{soln}
+
+\printbibliography
+\end{document}
