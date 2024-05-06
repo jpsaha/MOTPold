@@ -52,7 +52,7 @@ title: Home
 
 ## Participation of India in IMO
 * [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in the year 1996.
-* India has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and 28 Honourable mentions.
+* [India](https://www.imo-official.org/country_info.aspx?code=IND) has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and 28 Honourable mentions.
 * India [ranked](https://www.imo-official.org/country_team_r.aspx?code=IND)
   * 7th in 1998 (G, G, G, S, S, S),
   * 7th in 2001 (G, G, S, S, B, B),
