@@ -137,11 +137,19 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 > The above are some of the suggestions from Evan Chen.
 
 ## Evan Chen
-* Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)) by Evan Chen. Some of its alums are 
-  * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated at IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S).
-  * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated at IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G). 
-  * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), who participated in IMO 2022 (B), 2023 (B). 
-  * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who obtained bronze medals in EGMO in 2019, 2020, 2022. 
+* Evan Chen is a graduate student at MIT and a math olympiad coach.
+* There are a lot of useful material, posted on his [webpage](https://web.evanchen.cc/).
+  * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them)
+  * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
+  * Math olympiad beginner's [page](https://web.evanchen.cc/wherestart.html)
+  * Math olympiad coach's [page](https://web.evanchen.cc/coaches.html)
+  * [Recommended Readings](https://web.evanchen.cc/recommend.html)
+(includes handouts by Evan Chen, Yufei Zhao, Po-Shen Loh, Alex Remorov, and suggests references)
+  * Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)), a proof-based olympiad training program, by Evan Chen. Some of its alums are 
+    * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated at IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S).
+    * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated at IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G). 
+    * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), who participated in IMO 2022 (B), 2023 (B). 
+    * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who obtained bronze medals in EGMO in 2019, 2020, 2022. 
 
 
 ## References
