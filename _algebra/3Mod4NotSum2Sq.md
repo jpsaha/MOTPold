@@ -6,7 +6,7 @@ pdf: /static_files/algebra/3Mod4NotSumOfTwoSq.pdf
 tex: /static_files/algebra/3Mod4NotSumOfTwoSq.tex
 solutions: /static_files/algebra/3Mod4NotSumOfTwoSq.pdf
 ---
-This is a sample algebra eeex.
+
 
 
 <!--
