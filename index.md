@@ -65,8 +65,8 @@ title: Home
 <!-- ~~In 1991 - 1995, 1999 - 2000, 2003 - 2010, 2013 - 2018, there were no Gold medalists.~~ -->
 * In each IMO held during 2019 - 2023, at least one participant from India [obtained](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
 * Some of the past [contestants](https://www.imo-official.org/country_individual_r.aspx?code=IND) are
-  * Riddhipratim Basu
   * Chetan Balwe
+  * Riddhipratim Basu
   * Ashay Burungale
   * Subhash Ajit Khot
   * Abhinav Kumar
