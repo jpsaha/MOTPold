@@ -88,7 +88,7 @@ title: Home
   * 2023 
 -->
 
-## Participation of India in Mathematical Olympiads
+# Participation of India in Mathematical Olympiads
 * [IMO](https://www.imo-official.org/) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
@@ -122,7 +122,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * [C1](slides/putnam.pdf)
 * [C2](slides/MMO2015.pdf)
 
-## Preparation 
+# Preparation 
 * Pick up any standard textbook to work through, so you learn some of the standard theory that is tested in math contests. 
 * Go through some past problems from previous contests. 
 * Rope some friends into learning with you. It’s more fun that way, and you can learn from each other. 
@@ -133,7 +133,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 > [!NOTE]
 > The above are some of the suggestions from Evan Chen.
 
-## Evan Chen
+# Evan Chen
 * Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)) by Evan Chen. Some of its alums are 
   * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated at IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S).
   * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated at IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G). 
@@ -141,7 +141,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
   * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who obtained bronze medals in EGMO in 2019, 2020, 2022. 
 
 
-## References
+# References
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
 * Euclidean Geometry in Mathematical Olympiads ([EGMO](https://web.evanchen.cc/geombook.html)) by Evan Chen.
@@ -151,10 +151,10 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by Aditya Khurmi, is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 
-## AoPS
+# AoPS
 * On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Contest, together with community-contributed solutions.
 
-## Problem Solving Sessions at IISER Bhopal
+# Problem Solving Sessions at IISER Bhopal
 
 
 
