@@ -19,20 +19,3 @@ You can download the lectures here. We will try to upload lectures prior to thei
   * This is level 2
     * This is level 3
       * This is level 4
-
-## Inclusion-exclusion principle
-* a
-  * b
-
-## Coloring problems
-* a
-  * b
-
-## Counting in two different ways
-* a
-  * b
-
-## Introduce an auxiliary structure
-* a
-  * b
-
