@@ -73,7 +73,7 @@ title: Home
   * Kartik Prasanna
   * Sucharit Sarkar
   * K Soundararajan
-* [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249) is the first participant from India who received three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI2021](https://stats.ioinformatics.org/people/7475). 
+* [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249) is the first participant from India who received three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). 
  He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). 
 
 <!--
