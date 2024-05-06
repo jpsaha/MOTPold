@@ -111,7 +111,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 ### From Madhya Pradesh
 * 144 students qualified in IOQM 2023
-* 39 students qualified in RMO 2023
+* [39 students](https://olympiads.hbcse.tifr.res.in/rmo-2023-results/) qualified in RMO 2023
 
 ### Syllabus
 * Algebra
