@@ -101,9 +101,9 @@ title: Home
 The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.tifr.res.in/)) organizes the Mathematical Olympiad program in India. 
 
 ### [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and its [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
-* Indian Olympiad Qualifier in Mathematics (IOQM) is a three hour examination with 30 questions.
 * The students enrolled in the 8th, 9th, 10th, 11th or 12th standard may participate. [^1]
-  [^1]: provided certain additional conditions are met. The precise details are available at the [webpage](https://olympiads.hbcse.tifr.res.in/) of the Homi Bhabha Centre for Science Education (HBCSE). 
+  [^1]: provided certain additional conditions are met. The precise details are available at the [webpage](https://olympiads.hbcse.tifr.res.in/) of the Homi Bhabha Centre for Science Education (HBCSE).
+  Indian Olympiad Qualifier in Mathematics (IOQM) is a three hour examination with 30 questions. 
 * Regional Mathematical Olympiad (RMO) is a three-hour examination with six problems.
 * Indian National Mathematical Olympiad (INMO), held on the third Sunday of January.
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
