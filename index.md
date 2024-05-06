@@ -25,6 +25,7 @@ title: Home
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The first session will tentatively take place in August 2024.
   * Please feel free to get in touch!
+  * **Put the email(s) for contact.**
  
 
 ## Mathematical Olympiad
