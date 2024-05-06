@@ -10,8 +10,7 @@ schoolname: # "1MOTP" #top most item next to the logo
 schoolurl: # "https://hogwarts.edu"
 twitter_username: # username 
 
-address: |
-    # MOTP
+address: | # MOTP
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
