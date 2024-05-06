@@ -24,13 +24,10 @@ title: Home
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The first session will tentatively take place in August 2024.
-  * Please feel free to get in touch!
-    * A
-    * B
-    * C
-  * **Put the email(s) for contact.**
+  * For more information, you may write to
+    * Kartick Adhikari (kartick@iiserb.ac.in).
+    * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
  
-
 ## IMO
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
