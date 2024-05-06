@@ -25,7 +25,7 @@ title: Home
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The first session will tentatively take place in August 2024.
   * For more information, you may write to
-    * Kartick Adhikari (kartick@iiserb.ac.in).
+    * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
  
 ## IMO
