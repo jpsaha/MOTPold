@@ -165,8 +165,6 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 ## AoPS
 * On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Contest, together with community-contributed solutions.
 
-## Problem Solving Sessions at IISER Bhopal
-
 
 
 
