@@ -1,6 +1,6 @@
 ---
 type: algebrass
-date: 2024-05-11T00:00:00+18:30
+date: 2024-05-11T10:00:00+5:30
 title: 'The integers congruent to 3 mod 4 are not the sum of two squares'
 pdf: /static_files/algebra/3Mod4NotSumOfTwoSq.pdf
 tex: /static_files/algebra/3Mod4NotSumOfTwoSq.tex
