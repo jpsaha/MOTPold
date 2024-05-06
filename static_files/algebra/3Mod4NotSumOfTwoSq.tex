@@ -1,0 +1,50 @@
+
+\documentclass[paper=6.125in:9.25in,twoside,openright,pagesize=pdftex,10pt]{scrbook}
+
+\input{preamble.sty}
+
+\newcommand{\alertb}[1]{\textbf{\color{blue} #1}}
+
+\begin{document}
+
+\begin{problem}
+Show that the positive integers of the form $4n+3$, that is, the integers
+\[
+3, 7, 11, 15, 19, \dots
+\]
+cannot be written as the sum of two perfect squares. 
+\end{problem}
+
+
+\begin{walk}
+	\ii Consider the integers
+	\begin{align*}
+	0^2 + 1^2, 0^2 + 2^2, 0^2 + 3^2, 0^2 + 4^2, \dots, \\
+	1^2 + 1^2, 1^2 + 2^2, 1^2 + 3^2, 1^2 + 4^2, \dots, \\
+	2^2 + 1^2, 2^2 + 2^2, 2^2 + 3^2, 2^2 + 4^2, \dots, \\
+	3^2 + 1^2, 3^2 + 2^2, 3^2 + 3^2, 3^2 + 4^2, \dots, \\
+	4^2 + 1^2, 4^2 + 2^2, 4^2 + 3^2, 4^2 + 4^2, \dots. \\
+	\end{align*}
+
+	
+\end{walk}
+
+\begin{enumerate}[\bfseries (a)]
+  \setcounter{enumi}{1}
+\item 
+Observe that upon division by $4$, they leave the integers $0, 1, 2$ as remainders. 
+	\begin{align*}
+	0^2 + 1^2 \rightsquigarrow \alertb{1}, 0^2 + 2^2 \rightsquigarrow \alertb{0}, 0^2 + 3^2 \rightsquigarrow \alertb{1}, 0^2 + 4^2 \rightsquigarrow \alertb{0}, \dots, \\
+	1^2 + 1^2 \rightsquigarrow \alertb{2}, 1^2 + 2^2 \rightsquigarrow \alertb{1}, 1^2 + 3^2 \rightsquigarrow \alertb{2}, 1^2 + 4^2 \rightsquigarrow \alertb{1}, \dots, \\
+	2^2 + 1^2 \rightsquigarrow \alertb{1}, 2^2 + 2^2 \rightsquigarrow \alertb{0}, 2^2 + 3^2 \rightsquigarrow \alertb{1}, 2^2 + 4^2 \rightsquigarrow \alertb{0}, \dots, \\
+	3^2 + 1^2 \rightsquigarrow \alertb{2}, 3^2 + 2^2 \rightsquigarrow \alertb{1}, 3^2 + 3^2 \rightsquigarrow \alertb{2}, 3^2 + 4^2 \rightsquigarrow \alertb{1}, \dots, \\
+	4^2 + 1^2 \rightsquigarrow \alertb{1}, 4^2 + 2^2 \rightsquigarrow \alertb{0}, 4^2 + 3^2 \rightsquigarrow \alertb{1}, 4^2 + 4^2 \rightsquigarrow \alertb{0}, \dots, \\
+	\end{align*}
+
+\item Show that it is \alertb{always} the case, namely, upon division by $4$,  the sum of two perfect squares leaves one of $0, 1, 2$ as the remainder. 
+\item 
+Conclude that no integer, which leaves the remainder of $3$ \textbf{\color{magenta}upon division by $4$}, 
+can be written as the sum of two squares.
+
+\end{enumerate}
+\end{document}
