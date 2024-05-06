@@ -24,6 +24,9 @@ title: Home
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The first session will tentatively take place in August 2024.
+  * Applications to be accepted during June, 2024 through a Google form.
+  * A problem set will be available through the form. While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
+  * The students, selected for participation in the session, will be informed in July 15, 2024. 
   * For more information, you may write to
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
