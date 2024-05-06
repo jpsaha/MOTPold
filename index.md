@@ -19,7 +19,7 @@ title: Home
 * [AoPS](#AoPS)
 -->
 
-## Problem Solving Sessions at IISER Bhopal
+# Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal.
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
@@ -28,7 +28,7 @@ title: Home
   * **Put the email(s) for contact.**
  
 
-## Mathematical Olympiad
+# Mathematical Olympiad
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
 
@@ -50,7 +50,7 @@ title: Home
 * IMO is held over two consecutive days with 3 problems each. Each day, the contestants have four-and-a-half hours to solve three problems. Each problem is worth 7 points for a maximum total score of 42 points.
 * The problems are arranged so that the order in increasing difficulty is Q1, Q4, Q2, Q5, Q3 and Q6, where the Day 1 problems Q1, Q2, and Q3 are in increasing difficulty, and the Day 2 problems Q4, Q5, and Q6 are in increasing difficulty. 
 
-## Participation of India in IMO
+# Participation of India in IMO
 * [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in the year 1996.
 * India has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and 28 Honourable mentions.
 * India [ranked](https://www.imo-official.org/country_team_r.aspx?code=IND)
@@ -93,11 +93,11 @@ title: Home
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
 
-## Mathematical Olympiad program in India
+# Mathematical Olympiad program in India
 
 The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.tifr.res.in/)) organizes the Mathematical Olympiad program in India. 
 
-### Eligibility and its stages
+## Eligibility and its stages
 * Indian Olympiad Qualifier in Mathematics (IOQM) is a three hour examination with 30 questions.
 * The students enrolled in the 8th, 9th, 10th, 11th or 12th standard may participate. [^1]
   [^1]: provided certain additional conditions are met. The precise details are available at the [webpage](https://olympiads.hbcse.tifr.res.in/) of the Homi Bhabha Centre for Science Education (HBCSE). 
@@ -106,17 +106,17 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for IMO.
 
-### From Madhya Pradesh
+## From Madhya Pradesh
 * 144 students qualified in IOQM 2023
 * 39 students qualified in RMO 2023
 
-### Syllabus
+## Syllabus
 * Algebra
 * Combinatorics
 * Geometry
 * Number Theory
 
-## Let's go through a few problems
+# Let's go through a few problems
 
 * [A1](slides/3Mod4NotSumOfTwoSq.pdf)
 * [C1](slides/putnam.pdf)
