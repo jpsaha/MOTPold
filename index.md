@@ -138,7 +138,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 ## Evan Chen
 * Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. 
-* There are a lot of useful material, posted on his [webpage](https://web.evanchen.cc/).
+* There are a lot of useful material available on his [webpage](https://web.evanchen.cc/).
   * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them)
   * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
   * Math olympiad beginner's [page](https://web.evanchen.cc/wherestart.html)
