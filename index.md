@@ -121,9 +121,9 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 ## Let's go through a few problems
 
-* [A1](slides/3Mod4NotSumOfTwoSq.pdf)
-* [C1](slides/putnam.pdf)
-* [C2](slides/MMO2015.pdf)
+* [A1](static_files/slides/3Mod4NotSumOfTwoSq.pdf)
+* [C1](static_files/slides/putnam.pdf)
+* [C2](static_files/slides/MMO2015.pdf)
 
 ## Preparation 
 * Pick up any standard textbook to work through, so you learn some of the standard theory that is tested in math contests. 
