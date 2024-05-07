@@ -54,3 +54,8 @@ defaults:
       type: "algebra"
     values:
       layout: "algebrass"
+  - scope:
+      path: ""
+      type: "slides"
+    values:
+      layout: "slide"
