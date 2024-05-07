@@ -7,6 +7,10 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
+- url: /slides/
+  name: Slides
+  icon_class: fas fa-user-graduate
+
 - url: /algebra/
   name: Algebra
   icon_class: fas fa-book-reader
