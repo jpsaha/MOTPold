@@ -39,6 +39,8 @@ collections:
         output: true
     algebra:
         output: true
+    slides:
+        output: true
     announcements:
         output: false
 
