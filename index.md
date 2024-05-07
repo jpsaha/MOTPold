@@ -110,7 +110,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * Pre-Departure Camp (PDC) held before leaving for IMO.
 
 ### From Madhya Pradesh
-* 144 students qualified in IOQM 2023
+* [144 students](https://www.mtai.org.in/ioqm-2023/) qualified in IOQM 2023
 * [39 students](https://olympiads.hbcse.tifr.res.in/rmo-2023-results/) qualified in RMO 2023
 
 ### Syllabus
