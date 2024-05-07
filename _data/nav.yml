@@ -19,6 +19,10 @@ items:
   name: Number Theory
   icon_class: fas fa-book-reader
 
+- url: /references/
+  name: References
+  icon_class: fas fa-book
+
 - url: /slides/
   name: Slides
   icon_class: fas fa-user-graduate
@@ -26,10 +30,6 @@ items:
 - url: /lectures/
   name: Lectures
   icon_class: fas fa-book-reader
-
-- url: /references/
-  name: References
-  icon_class: fas fa-book
 
 - url: /schedule/
   name: Schedule
