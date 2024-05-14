@@ -24,4 +24,4 @@ permalink: /references/
 * [Online Math Club](https://www.youtube.com/@omath)
   * An interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=OwZ8nx54a20), September 2022
   * Interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=HSuWLw4l_yY), July 2023
-  * 
+  
