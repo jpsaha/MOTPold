@@ -21,5 +21,4 @@ permalink: /references/
 ## Additional resources/links
 
 * [The Sophie Fellowship](https://www.sophiefellowship.in/home)
-* [Online Math Club](
-https://youtube.com/@omath?si=oEbKGS1KYaj9Fiw1)
+* [Online Math Club](https://www.youtube.com/@omath)
