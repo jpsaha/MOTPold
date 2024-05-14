@@ -18,6 +18,7 @@ permalink: /references/
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 
 
-## Additional resources
+## Additional resources/links
 
-* 
+* [The Sophie Fellowship](https://www.sophiefellowship.in/home)
+* Online Math Open
