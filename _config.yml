@@ -39,6 +39,8 @@ collections:
         output: true
     algebra:
         output: true
+    combinatorics:
+        output: true
     slides:
         output: true
     announcements:
@@ -56,6 +58,11 @@ defaults:
       type: "algebra"
     values:
       layout: "algebrass"
+  - scope:
+      path: ""
+      type: "combinatorics"
+    values:
+      layout: "combinatoric"
   - scope:
       path: ""
       type: "slides"
