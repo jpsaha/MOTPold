@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: combinatorics
 title: Combinatorics
 permalink: /combinatorics/
 ---
