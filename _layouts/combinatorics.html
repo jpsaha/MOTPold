@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for combi in site.combinatorics %}
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="{{ combi.url | prepend: site.baseurl}}">{{ combi.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download pdf (pdf)" href="{{ combi.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
+{% if combi.tex %}
+&nbsp; <a title="Download tex (tex)" href="{{ combi.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% endif %}
+</strong> 
+      </li>
+{% endfor %}
+</ul>
