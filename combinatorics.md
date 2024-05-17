@@ -15,4 +15,3 @@ permalink: /combinatorics/
 * [OTIS Excerpts](https://web.evanchen.cc/excerpts.html) by Evan Chen.
 
 <br>
-e
