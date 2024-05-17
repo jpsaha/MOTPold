@@ -8,7 +8,6 @@ permalink: /references/
 
 ## Resources
 
-
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
 * Euclidean Geometry in Mathematical Olympiads ([EGMO](https://web.evanchen.cc/geombook.html)) by Evan Chen. The [Automatically Generated EGMO Solutions Treasury](https://web.evanchen.cc/upload/AGEST.pdf) contains updated solutions to a significant number of the sourced problems.
 * [OTIS Excerpts](https://web.evanchen.cc/excerpts.html) by Evan Chen for non-geometry.
@@ -18,6 +17,8 @@ permalink: /references/
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 * Recommendations from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books) and [contests](https://web.evanchen.cc/recommend.html#contests).
 * [Handouts](https://yufeizhao.com/olympiad/) and [book recommendations](https://yufeizhao.com/olympiad/#book-recommendations) by [Yufei Zhao](https://yufeizhao.com/).
+* [Olympiad Problems and Solutions](https://web.evanchen.cc/problems.html) by [Evan Chen](https://web.evanchen.cc/).
+* [Contest collections](https://artofproblemsolving.com/community/c13_contests) at [AoPS](https://artofproblemsolving.com/).
 
 ## Additional resources/links
 
