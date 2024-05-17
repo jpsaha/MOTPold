@@ -5,7 +5,7 @@ permalink: /combinatorics/
 ---
 
 
-{% include image.html url="/_images/pp/Bishop.jpg" width=175 align="right" %}
+{% include image.html url="/_images/pp/Bishop.png" width=175 align="right" %}
 
 ## References/Resources
 
