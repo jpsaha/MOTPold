@@ -35,7 +35,7 @@ permalink: /references/
   * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
     * [For beginners](https://web.evanchen.cc/wherestart.html)
     * [For coaches](https://web.evanchen.cc/coaches.html)
-  * [Recommended Readings]([Recommended Readings)](https://web.evanchen.cc/recommend.html))
+  * [Recommended Readings](https://web.evanchen.cc/recommend.html)
   
 ## Some links
 * A post by [Terence Tao](https://terrytao.wordpress.com/2009/07/20/imo-2009-q6-as-a-mini-polymath-project/) related to IMO 2009 P6
