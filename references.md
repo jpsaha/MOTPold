@@ -6,7 +6,7 @@ permalink: /references/
 
 {% include image.html url="/_images/pp/G19.jpg" width=175 align="right" %}
 
-## Books
+## Resources
 
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
@@ -16,7 +16,8 @@ permalink: /references/
 * [Olympiad NT through Challenging Problems](https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf), by Justin Stevens, is an introductory olympiad text on number theory. 
 * [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by Aditya Khurmi, is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
-
+* Recommendations from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books) and [contests](https://web.evanchen.cc/recommend.html#contests).
+* [Handouts](https://yufeizhao.com/olympiad/) and [book recommendations](https://yufeizhao.com/olympiad/#book-recommendations) by [Yufei Zhao](https://yufeizhao.com/).
 
 ## Additional resources/links
 
