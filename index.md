@@ -134,7 +134,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * Be aware that you will see many, many problems which you can’t solve, where you read the solution and ask, “how was I supposed to think of that?”. This is okay and expected: it’s not because you’re dumb, it’s because you are learning.
 
 > [!NOTE]
-> The above are some of the suggestions from Evan Chen.
+> The above are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from Evan Chen.
 
 ## Evan Chen
 * Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. 
