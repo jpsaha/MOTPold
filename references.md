@@ -18,7 +18,9 @@ permalink: /references/
 * Recommendations from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books) and [contests](https://web.evanchen.cc/recommend.html#contests).
 * [Handouts](https://yufeizhao.com/olympiad/) and [book recommendations](https://yufeizhao.com/olympiad/#book-recommendations) by [Yufei Zhao](https://yufeizhao.com/).
 * [Olympiad Problems and Solutions](https://web.evanchen.cc/problems.html) by [Evan Chen](https://web.evanchen.cc/).
-* Rustam Turdibaev and Olimjon Olimov compiled a [336-problem index](https://drive.google.com/file/d/1G9a5f6EW9cIDw5rTMI46iLlc4UMs6KRW/view) of recent problems by subject and [MOHS rating](https://web.evanchen.cc/problems.html#mohs) ([devised](https://web.evanchen.cc/upload/MOHS-hardness.pdf) by Evan Chen). 
+* [IMO Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/IMO_Problems_and_Solutions)
+* Rustam Turdibaev and Olimjon Olimov compiled a [336-problem index](https://drive.google.com/file/d/1G9a5f6EW9cIDw5rTMI46iLlc4UMs6KRW/view) of recent problems by subject and [MOHS rating](https://web.evanchen.cc/problems.html#mohs) ([devised](https://web.evanchen.cc/upload/MOHS-hardness.pdf) by Evan Chen).
+* [IMO Shortlisted Problems](https://www.imo-official.org/problems.aspx).
 * [Contest collections](https://artofproblemsolving.com/community/c13_contests) at [AoPS](https://artofproblemsolving.com/).
 
 ## Additional resources/links
