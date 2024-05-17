@@ -30,12 +30,19 @@ permalink: /references/
 * [Online Math Club](https://www.youtube.com/@omath)
   * An interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=OwZ8nx54a20), September 2022
   * Interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=HSuWLw4l_yY), July 2023
-* The [webpage](https://web.evanchen.cc/) of Evan Chen has a lot of useful material.
-  * [Math Contest FAQs](https://web.evanchen.cc/faq-contest.html)
+
+* Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
+  * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them.
   * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
     * [For beginners](https://web.evanchen.cc/wherestart.html)
     * [For coaches](https://web.evanchen.cc/coaches.html)
   * [Recommended Readings](https://web.evanchen.cc/recommend.html)
+(includes handouts by Evan Chen, Yufei Zhao, Po-Shen Loh, Alex Remorov, and suggests references)
+  * He runs the Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)), a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world. Some of its alums are 
+    * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated at IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S).
+    * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated at IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G). 
+    * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), who participated in IMO in 2022 (B), 2023 (G). 
+    * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who obtained bronze medals in EGMO in 2019, 2020, 2022. 
   
 ## Some links
 * A post by [Terence Tao](https://terrytao.wordpress.com/2009/07/20/imo-2009-q6-as-a-mini-polymath-project/) related to IMO 2009 P6
