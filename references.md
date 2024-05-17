@@ -30,6 +30,12 @@ permalink: /references/
 * [Online Math Club](https://www.youtube.com/@omath)
   * An interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=OwZ8nx54a20), September 2022
   * Interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=HSuWLw4l_yY), July 2023
+* The [webpage](https://web.evanchen.cc/) of Evan Chen has a lot of useful material.
+  * [Math Contest FAQs](https://web.evanchen.cc/faq-contest.html)
+  * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
+    * [For beginners](https://web.evanchen.cc/wherestart.html)
+    * [For coaches](https://web.evanchen.cc/coaches.html)
+  * [Recommended Readings](Recommended Readings)
   
 ## Some links
 * A post by [Terence Tao](https://terrytao.wordpress.com/2009/07/20/imo-2009-q6-as-a-mini-polymath-project/) related to IMO 2009 P6
