@@ -63,7 +63,7 @@ title: Home
   * 11th in 2012 (G, G, S, S, S, HM),
   * 9th in 2023 (G, G, S, S, B, B).
 <!-- ~~In 1991 - 1995, 1999 - 2000, 2003 - 2010, 2013 - 2018, there were no Gold medalists.~~ -->
-* In each IMO held during 2019 - 2023, at least one participant from India [obtained](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
+* In each IMO held during 2019 - 2023, at least one participant from India [received](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
 * Some of the past [contestants](https://www.imo-official.org/country_individual_r.aspx?code=IND) are
   * Chetan Balwe
   * Riddhipratim Basu
