@@ -1,7 +1,7 @@
 ---
 type: slide
 date: 2024-05-08T10:00:00+5:30
-title: 'Outreach program held at IISER Bhopal on 08 May, 2024'
+title: 'Outreach program, IISER Bhopal, 08 May, 2024'
 pdf: /static_files/slides/slides.pdf
 ---
 
