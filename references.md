@@ -15,7 +15,7 @@ permalink: /references/
 * [Olympiad NT through Challenging Problems](https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf), by Justin Stevens, is an introductory olympiad text on number theory. 
 * [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by Aditya Khurmi, is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
-* Recommendations from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books) and [contests](https://web.evanchen.cc/recommend.html#contests).
+* [Recommendations](https://web.evanchen.cc/recommend.html) from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books) and [contests](https://web.evanchen.cc/recommend.html#contests).
 * [Handouts](https://yufeizhao.com/olympiad/) and [book recommendations](https://yufeizhao.com/olympiad/#book-recommendations) by [Yufei Zhao](https://yufeizhao.com/).
 * Rustam Turdibaev and Olimjon Olimov compiled a [336-problem index](https://drive.google.com/file/d/1G9a5f6EW9cIDw5rTMI46iLlc4UMs6KRW/view) of recent problems by subject and [MOHS rating](https://web.evanchen.cc/problems.html#mohs) ([devised](https://web.evanchen.cc/upload/MOHS-hardness.pdf) by Evan Chen).
 * [Olympiad Problems and Solutions](https://web.evanchen.cc/problems.html) by [Evan Chen](https://web.evanchen.cc/).
