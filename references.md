@@ -30,7 +30,7 @@ permalink: /references/
 * [The Sophie Fellowship](https://www.sophiefellowship.in/home)
 * [Online Math Club](https://www.youtube.com/@omath)
   * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team](https://www.imo-official.org/team_r.aspx?code=IND&year=2022), September 2022
-  * [Interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team](https://www.imo-official.org/team_r.aspx?code=IND&year=2023), July 2023
+  * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team](https://www.imo-official.org/team_r.aspx?code=IND&year=2023), July 2023
 
 * Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
   * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them.
