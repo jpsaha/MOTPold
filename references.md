@@ -44,7 +44,7 @@ permalink: /references/
     * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated in IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G). 
     * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), who participated in IMO in 2022 (B), 2023 (G). 
     * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who received bronze medals in EGMO in 2019, 2020, 2022.
-* He [runs](https://web.evanchen.cc/videos.html) a [Twitch stream](https://www.twitch.tv/vEnhance), where he primarily live-solves math problems.
+  * He [runs](https://web.evanchen.cc/videos.html) a [Twitch stream](https://www.twitch.tv/vEnhance), where he primarily live-solves math problems.
   
 ## Some links
 * A post by [Terence Tao](https://terrytao.wordpress.com/2009/07/20/imo-2009-q6-as-a-mini-polymath-project/) related to IMO 2009 P6
