@@ -22,14 +22,15 @@ permalink: /references/
 * [Olympiad Problems and Solutions](https://web.evanchen.cc/problems.html) by [Evan Chen](https://web.evanchen.cc/).
 * [IMO Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/IMO_Problems_and_Solutions) at [AoPS](https://artofproblemsolving.com/).
 * [IMO Shortlisted Problems](https://www.imo-official.org/problems.aspx).
+* The IMO compendium by Djukić, Janković, Matić, Petrović
 * [Contest collections](https://artofproblemsolving.com/community/c13_contests) at [AoPS](https://artofproblemsolving.com/).
 
 ## Additional resources/links
 
 * [The Sophie Fellowship](https://www.sophiefellowship.in/home)
 * [Online Math Club](https://www.youtube.com/@omath)
-  * An interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=OwZ8nx54a20), September 2022
-  * Interview with the Indian IMO team [YT](https://www.youtube.com/watch?v=HSuWLw4l_yY), July 2023
+  * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the Indian IMO team, September 2022
+  * [Interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the Indian IMO team, July 2023
 
 * Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
   * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them.
