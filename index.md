@@ -153,7 +153,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 
 <!--* [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), who participated in IMO in 2022 (B), 2023 (B).  -->
 
-## References
+## [References](https://jpsaha.github.io/MOTP/references/)
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
 * Euclidean Geometry in Mathematical Olympiads ([EGMO](https://web.evanchen.cc/geombook.html)) by Evan Chen.
