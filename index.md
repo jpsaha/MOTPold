@@ -96,9 +96,14 @@ title: Home
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
 
-Here is a quote from the foreword by Geoff Smith to the olympiad text [Infinity]() written by Hojoo Lee, Tom  and 
+Geoff Smith remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
 
-
+>The nations which do consistently well at this competition must have at least one (and probably at least two) of the following attributes:
+> * A large population.
+> * A significant proportion of its population in receipt of a good education.
+> * A well-organized training infrastructure to support mathematics competi- tions.
+> * A culture which values intellectual achievement.
+> Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 ## Mathematical Olympiad program in India
 
