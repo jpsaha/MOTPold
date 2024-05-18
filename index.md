@@ -96,6 +96,10 @@ title: Home
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
 
+Here is a quote from the foreword by Geoff Smith to the olympiad text [Infinity]() written by Hojoo Lee, Tom  and 
+
+
+
 ## Mathematical Olympiad program in India
 
 The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.tifr.res.in/)) organizes the Mathematical Olympiad program in India. 
