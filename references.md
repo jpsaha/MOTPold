@@ -6,6 +6,11 @@ permalink: /references/
 
 {% include image.html url="/_images/pp/G19.jpg" width=175 align="right" %}
 
+
+## Training progrem
+* The [OTIS](https://web.evanchen.cc/otis.html) program by Evan Chen and [people](https://web.evanchen.cc/otis.html#people).
+* The [OTIS](https://web.evanchen.cc/otis.html) program, i.e. Olympiad Training for Individual Study, run by Evan Chen, is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**.
+
 ## Resources
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
@@ -15,7 +20,6 @@ permalink: /references/
 * [Olympiad NT through Challenging Problems](https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf), by Justin Stevens, is an introductory olympiad text on number theory. 
 * [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by Aditya Khurmi, is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
-* The [OTIS](https://web.evanchen.cc/otis.html) program by Evan Chen and [people](https://web.evanchen.cc/otis.html#people). 
 * [Recommendations](https://web.evanchen.cc/recommend.html) from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books) and [contests](https://web.evanchen.cc/recommend.html#contests).
 * [Handouts](https://yufeizhao.com/olympiad/) and [book recommendations](https://yufeizhao.com/olympiad/#book-recommendations) by [Yufei Zhao](https://yufeizhao.com/).
 
