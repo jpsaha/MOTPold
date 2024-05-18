@@ -103,7 +103,7 @@ title: Home
 > * A significant proportion of its population in receipt of a good education.
 > * A well-organized training infrastructure to support mathematics competitions.
 > * A culture which values intellectual achievement.
-
+>
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 ## Mathematical Olympiad program in India
