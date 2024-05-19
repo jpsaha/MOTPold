@@ -7,7 +7,7 @@ permalink: /references/
 {% include image.html url="/_images/pp/G19.jpg" width=175 align="right" %}
 
 
-## Training program
+## A training program
 
 * The [OTIS](https://web.evanchen.cc/otis.html) program, i.e. Olympiad Training for Individual Study, run by Evan Chen and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**.
 
