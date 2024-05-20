@@ -21,7 +21,7 @@ title: Home
 
 ## Problem Solving Sessions at IISER Bhopal
 
-* A series of Problem Solving Sessions will be organized at IISER Bhopal.
+* A series of Problem Solving Sessions will be organized at IISER Bhopal in person.
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The first session will tentatively take place in August 2024.
   * Applications to be accepted during June, 2024 through a Google form.
@@ -55,7 +55,7 @@ title: Home
 
 ## Participation of India in IMO
 * [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in the year 1996.
-* [India](https://www.imo-official.org/country_info.aspx?code=IND) has received 16 Gold medals, 73 Silver medals, 79 Bronze medals, and 28 Honourable mentions.
+* [India](https://www.imo-official.org/country_info.aspx?code=IND) has received 16 Gold medals (G), 73 Silver medals (S), 79 Bronze medals (B), and 28 Honourable mentions (HM).
 * India [ranked](https://www.imo-official.org/country_team_r.aspx?code=IND)
   * 7th in 1998 (G, G, G, S, S, S),
   * 7th in 2001 (G, G, S, S, B, B),
@@ -119,6 +119,9 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for IMO.
 
+The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the **only one** leading to participation in the International Mathematical Olympiads. **No other contests are recognized.**
+
+
 ### From Madhya Pradesh
 * [144 students](https://www.mtai.org.in/ioqm-2023/) qualified in IOQM 2023
 * [39 students](https://olympiads.hbcse.tifr.res.in/rmo-2023-results/) qualified in RMO 2023
@@ -147,7 +150,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 > The above are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from Evan Chen.
 
 ## Evan Chen
-* Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. 
+* [Evan Chen](https://web.evanchen.cc/) is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. 
 * There are a lot of useful material available on his [webpage](https://web.evanchen.cc/).
   * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them)
   * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
