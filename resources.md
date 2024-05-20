@@ -18,13 +18,12 @@ permalink: /resources/
 * [OTIS Excerpts](https://web.evanchen.cc/excerpts.html) by [Evan Chen](https://web.evanchen.cc/) for non-geometry.
 * Olympiad Combinatorics, by [Pranav A. Sriram](https://x.com/PranavSriram1), is an intermediate-advanced textbook. Its chapters are available in posts \#1, \#11, \#49 of [here](https://artofproblemsolving.com/community/c6h601134). There is a [forum](https://artofproblemsolving.com/community/c575226_olympiad_combinatorics_pranav_sriram) for solutions of the problems which are not in the [contest collections](https://artofproblemsolving.com/community/c13_contests) but from this book. 
 * [Olympiad NT through Challenging Problems](https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf), by Justin Stevens, is an introductory olympiad text on number theory. 
-* [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by Aditya Khurmi, is olympiad-oriented. 
+* [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by [Aditya Khurmi](https://www.linkedin.com/in/adityakhurmi), is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 * [Recommendations](https://web.evanchen.cc/recommend.html) from [Evan Chen](https://web.evanchen.cc/) for [handouts](https://web.evanchen.cc/recommend.html#handouts), [books](https://web.evanchen.cc/recommend.html#books). 
 * [Handouts](https://yufeizhao.com/olympiad/) and [book recommendations](https://yufeizhao.com/olympiad/#book-recommendations) by [Yufei Zhao](https://yufeizhao.com/).
 
 ## Problems and Solutions
-
 
 * Rustam Turdibaev and Olimjon Olimov compiled a [336-problem index](https://drive.google.com/file/d/1G9a5f6EW9cIDw5rTMI46iLlc4UMs6KRW/view) of recent problems by subject and [MOHS rating](https://web.evanchen.cc/problems.html#mohs) ([devised](https://web.evanchen.cc/upload/MOHS-hardness.pdf) by Evan Chen).
 * [Olympiad Problems and Solutions](https://web.evanchen.cc/problems.html) by [Evan Chen](https://web.evanchen.cc/).
