@@ -18,21 +18,9 @@ address: | # MOTP
 ### Do not change the followings unless you know what you are doing ###
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 
-# The release of Jekyll Now that you're using
-version: v1.1.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
+# Is the suggestion for updating config.yml available at https://github.com/barryclark/jekyll-now useful? 
     
 # Other options
 permalink: blog/:year/:month/:title
