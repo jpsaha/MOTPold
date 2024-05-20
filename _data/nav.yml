@@ -19,8 +19,8 @@ items:
   name: Number Theory
   icon_class: fas fa-book-reader
 
-- url: /references/
-  name: References
+- url: /resources/
+  name: Resources
   icon_class: fas fa-book
 
 - url: /slides/
