@@ -11,7 +11,7 @@ permalink: /resources/
 
 * The [OTIS](https://web.evanchen.cc/otis.html) program, i.e. Olympiad Training for Individual Study, run by [Evan Chen](https://web.evanchen.cc/) and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**.
 
-## Resources
+## References
 
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
 * Euclidean Geometry in Mathematical Olympiads ([EGMO](https://web.evanchen.cc/geombook.html)) by [Evan Chen](https://web.evanchen.cc/). The [Automatically Generated EGMO Solutions Treasury](https://web.evanchen.cc/upload/AGEST.pdf) contains updated solutions to a significant number of the sourced problems.
