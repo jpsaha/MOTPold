@@ -30,7 +30,7 @@ permalink: /resources/
 * [Recommendations](https://web.evanchen.cc/recommend.html) from [Evan Chen](https://web.evanchen.cc/) for [contests](https://web.evanchen.cc/recommend.html#contests).
 * [IMO Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/IMO_Problems_and_Solutions) at [AoPS](https://artofproblemsolving.com/).
 * [IMO Shortlisted Problems](https://www.imo-official.org/problems.aspx).
-* The IMO compendium by Djukić, Janković, Matić, Petrović
+* The IMO compendium by Djukić, Janković, Matić, Petrović.
 * [Contest collections](https://artofproblemsolving.com/community/c13_contests) at [AoPS](https://artofproblemsolving.com/).
 
 ## Additional resources/links
