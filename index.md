@@ -144,7 +144,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * [C2](static_files/slides/MMO2015.pdf)
 
 ## Preparation 
-Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from Evan Chen.
+Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from [Evan Chen](https://web.evanchen.cc/).
 
 > * Pick up any standard textbook to work through, so you learn some of the standard theory that is tested in math contests. 
 > * Go through some past problems from previous contests. 
