@@ -30,7 +30,13 @@ title: Home
   * For more information, you may write to
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
- 
+
+The provides some information about 
+* ***<ins>THE</ins>*** **International Mathematical Olympiad ([IMO](https://www.imo-official.org/))**,
+* Participation of India in IMO, and other **International** Mathematical Olympiads,
+* 
+* ##  The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <ins>*only one*</ins> leading to participation in the International Mathematical Olympiads. <ins>*No other contests are recognized.*</ins>
+
 ## IMO
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
@@ -91,7 +97,7 @@ title: Home
   * 2023 
 -->
 
-## Participation of India in Mathematical Olympiads
+## Participation of India in **International** Mathematical Olympiads
 * [IMO](https://www.imo-official.org/) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
