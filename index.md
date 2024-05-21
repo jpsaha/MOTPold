@@ -119,7 +119,7 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for IMO.
 
-# The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <ins>only one</ins> leading to participation in the International Mathematical Olympiads. **No other contests are recognized.**
+# The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <ins>only one</ins> leading to participation in the International Mathematical Olympiads. <ins>No other contests are recognized.</ins>
 
 
 ### From Madhya Pradesh
