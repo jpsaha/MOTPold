@@ -34,7 +34,8 @@ title: Home
 The provides some information about 
 * ***<ins>THE</ins>*** **International Mathematical Olympiad ([IMO](https://www.imo-official.org/))**,
 * Participation of India in IMO, and other **<ins>International</ins>** Mathematical Olympiads,
-* ### The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), ## which is the <ins>*only one*</ins> leading to participation in the International Mathematical Olympiads. <ins>*No other contests are recognized.*</ins>
+* ### The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf),
+  * ## which is the <ins>*only one*</ins> leading to participation in the International Mathematical Olympiads. <ins>*No other contests are recognized.*</ins>
 
 ## IMO
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
