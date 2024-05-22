@@ -45,6 +45,8 @@ collections:
         output: true
     slides:
         output: true
+    pssb:
+        output: true
     announcements:
         output: false
 
@@ -70,3 +72,8 @@ defaults:
       type: "slides"
     values:
       layout: "slide"
+  - scope:
+      path: ""
+      type: "pssb"
+    values:
+      layout: "pssbl"
