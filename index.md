@@ -98,7 +98,7 @@ The following provides some information about
   * 2023 
 -->
 
-## Participation of India in **<ins>International</ins>** Mathematical Olympiads
+## Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiads
 * [IMO](https://www.imo-official.org/) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
