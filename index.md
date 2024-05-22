@@ -185,6 +185,7 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 
 ## [References](https://jpsaha.github.io/MOTP/references/)
 
+* Mathematical circles (Russian experience) by Fomin, Genkin, Itenberg.
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
 * Euclidean Geometry in Mathematical Olympiads ([EGMO](https://web.evanchen.cc/geombook.html)) by [Evan Chen](https://web.evanchen.cc/). The [Automatically Generated EGMO Solutions Treasury](https://web.evanchen.cc/upload/AGEST.pdf) contains updated solutions to a significant number of the sourced problems.
 * [OTIS Excerpts](https://web.evanchen.cc/excerpts.html) by [Evan Chen](https://web.evanchen.cc/) for non-geometry.
