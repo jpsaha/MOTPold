@@ -37,7 +37,7 @@ title: Home
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
 
-The following provides some information about 
+## The following provides some information about 
 * <span style="color: green"> **THE** </span> **International Mathematical Olympiad ([IMO](https://www.imo-official.org/))**,
 * Participation of India in IMO, and other <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>.
 
