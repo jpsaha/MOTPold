@@ -27,6 +27,10 @@ items:
   name: Slides
   icon_class: fas fa-user-graduate
 
+- url: /pssb/
+  name: PSSB
+  icon_class: fas fa-user-graduate
+
 #- url: /lectures/
 #  name: Lectures
 #  icon_class: fas fa-book-reader
