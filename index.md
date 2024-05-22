@@ -79,7 +79,7 @@ The following provides some information about
   * Kartik Prasanna
   * Sucharit Sarkar
   * K Soundararajan
-* [Pranjal Srivastava](https://www.npskrm.com/hall-of-fame-pranjal.html)(https://www.imo-official.org/participant_r.aspx?id=28249) is the first participant from India who [received](https://www.imo-official.org/participant_r.aspx?id=28249) three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). 
+* [Pranjal Srivastava](https://www.npskrm.com/hall-of-fame-pranjal.html) is the first participant from India who [received](https://www.imo-official.org/participant_r.aspx?id=28249) three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). 
 
 <!--
 * Some of the golden years have been
