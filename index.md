@@ -33,7 +33,7 @@ title: Home
 
 The following provides some information about 
 * <span style="color: green"> **THE** </span> **International Mathematical Olympiad ([IMO](https://www.imo-official.org/))**,
-* Participation of India in IMO, and other <span style="color: green"> International </span> Mathematical Olympiads.
+* Participation of India in IMO, and other <span style="color: green"> **International** </span> Mathematical Olympiads.
 
 # The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <span style="color: red"> only one </span> leading to participation in the <span style="color: green"> International </span> Mathematical Olympiads. <span style="color: red"> No other contests are recognized. </span>
 
