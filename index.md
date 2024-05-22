@@ -31,7 +31,8 @@ title: Home
   * The meetings will be held during 9:00am to 12:00pm.
   * Applications to be accepted during June, 2024 through a Google form.
   * A problem set will be available through the form. While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
-  * The students, selected for participation in the session, will be informed in July 15, 2024. 
+  * The students, selected for participation in the session, will be informed in July 15, 2024.
+  * Further details are available [here](https://jpsaha.github.io/MOTP/pssb/).
   * For more information, you may write to
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
