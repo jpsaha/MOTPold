@@ -18,7 +18,7 @@ title: Home
 * [References](#References)
 * [AoPS](#AoPS)
 -->
-<span style="color: green"> Some green text </span>
+
 ## Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal in person.
@@ -36,7 +36,7 @@ The following provides some information about
 * Participation of India in IMO, and other **<ins>International</ins>** Mathematical Olympiads.
 
 # The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <ins>*only one*</ins> leading to participation in the International Mathematical Olympiads. <ins>*No other contests are recognized.*</ins>
-
+<span style="color: blue"> Some green text </span>
 ## IMO
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
