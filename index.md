@@ -18,7 +18,7 @@ title: Home
 * [References](#References)
 * [AoPS](#AoPS)
 -->
-
+<span style="color: green"> Some green text </span>
 ## Problem Solving Sessions at IISER Bhopal
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal in person.
