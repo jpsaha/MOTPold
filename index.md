@@ -38,8 +38,8 @@ title: Home
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
 
 ## The following provides some information about 
-* **THE** <span style="color: green"> **International** </span> **Mathematical Olympiad**<span style="color: green">**s**</span>,
-* Participation of India in these <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>, and 
+* **THE** <span style="color: green"> **International** </span> **Mathematical Olympiad**<span style="color: green">**s**</span>, <br>
+* Participation of India in these <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>, and <br>
 * # The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the <span style="color: green"> International </span> Mathematical Olympiads. <span style="color: red"> No other contests are recognized. </span>
 
 ## Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
@@ -245,7 +245,7 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 * [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by [Aditya Khurmi](https://www.linkedin.com/in/adityakhurmi), is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
 
-## AoPS
+## [AoPS](https://artofproblemsolving.com/)
 * On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Contest, together with community-contributed solutions.
 
 
