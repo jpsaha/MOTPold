@@ -154,16 +154,16 @@ title: Home
 * In [2024](https://www.egmo.org/egmos/egmo13/), 54 countries participated in EGMO.
 * The EGMO is held annually.
 * In the recent past,
- * Georgia was the host for [EGMO2024](https://www.egmo.org/egmos/egmo13/),
- * Slovenia was the host for [EGMO2023](https://www.egmo.org/egmos/egmo12/),
- * Hungary was the host for [EGMO2023](https://www.egmo.org/egmos/egmo11/).
+  * Georgia was the host for [EGMO2024](https://www.egmo.org/egmos/egmo13/),
+  * Slovenia was the host for [EGMO2023](https://www.egmo.org/egmos/egmo12/),
+  * Hungary was the host for [EGMO2023](https://www.egmo.org/egmos/egmo11/).
 * The forthcoming EGMOs have been scheduled.
- * [EGMO2025](https://www.egmo.org/egmos/egmo14/) will take place in Kosovo.
- * [EGMO2026](https://www.egmo.org/egmos/egmo14/) will take place in France.
+  * [EGMO2025](https://www.egmo.org/egmos/egmo14/) will take place in Kosovo.
+  * [EGMO2026](https://www.egmo.org/egmos/egmo14/) will take place in France.
 * [EGMO](https://www.egmo.org/) is held over two days. Since 2013, 
- * each of the two contest papers consists of three problems,
- * each day, the contest lasts for four-and-a-half hours,
- * each problem is worth 7 points for a maximum total score of 42 points.  
+  * each of the two contest papers consists of three problems,
+  * each day, the contest lasts for four-and-a-half hours,
+  * each problem is worth 7 points for a maximum total score of 42 points.  
   
 ## [Participation of India in EGMO](https://www.egmo.org/countries/country35/)
 
