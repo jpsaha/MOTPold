@@ -13,7 +13,7 @@ permalink: /resources/
     * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), and in APMO in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
     * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), participated in IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G), and in APMO in [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G), 
     * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in IMO in 2022 (B), 2023 (G), and in APMO in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
-    * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who received bronze medals in EGMO in 2019, 2020, 2022. 
+    * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in EGMO in 2019 (B), 2020 (B), 2022 (B). 
 
 ## References
 
