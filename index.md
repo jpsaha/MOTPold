@@ -177,7 +177,9 @@ Participation of India in <span style="color: green"> **International** </span> 
 ## [Participation of India in EGMO](https://www.egmo.org/countries/country35/)
 
 * India has been participating in EGMO since [2015](https://www.egmo.org/countries/country35/).
-
+* India has received 6 Silver medals (S), 15 Bronze medals (B), and 4 Honourable mentions (HM).
+* Some of the past contestants are
+  * 
 ## Mathematical Olympiad program in India
 
 The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.tifr.res.in/)) organizes the Mathematical Olympiad program in India. 
