@@ -49,7 +49,10 @@ title: Home
 * Participation of India in these <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>, and <br>
 * ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the <span style="color: green"> International </span> Mathematical Olympiads. <span style="color: red"> No other contests are recognized. </span>
 -->
-## Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
+<!--
+Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
+-->
+## Participation of India in [International]() Mathematical Olympiad[s]()
 * [IMO](https://www.imo-official.org/) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
 * [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
