@@ -165,6 +165,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 * The [first](https://www.egmo.org/egmos/) EGMO was held in 2012, with [19](https://www.egmo.org/egmos/egmo1/) countries participating.
 * In [2024](https://www.egmo.org/egmos/egmo13/), 54 countries participated in EGMO.
 * The EGMO is held annually.
+* Participation in the EGMO is by invitation only. Each invited country sends a team consisting of up to four contestants. 
 * In the recent past,
   * Georgia was the host for [EGMO2024](https://www.egmo.org/egmos/egmo13/),
   * Slovenia was the host for [EGMO2023](https://www.egmo.org/egmos/egmo12/),
