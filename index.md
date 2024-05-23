@@ -198,7 +198,8 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * Indian National Mathematical Olympiad (INMO), held on the third Sunday of January.
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for [IMO](https://www.imo-official.org/).
-* These also apply to participation in the [EGMO](https://www.egmo.org/) and [APMO](https://www.apmo-official.org/). 
+* These also apply to participation in the [EGMO](https://www.egmo.org/) and [APMO](https://www.apmo-official.org/).
+* [INMOTC](https://olympiads.hbcse.tifr.res.in/faq/) is organized before INMO. 
 
 ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <span style="color: red"> only one </span> leading to participation in the <span style="color: green"> International </span> Mathematical Olympiads. <span style="color: red"> No other contests are recognized. </span>
 
