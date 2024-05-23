@@ -96,6 +96,15 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 9th in 2023 (G, G, S, S, B, B).
 <!-- ~~In 1991 - 1995, 1999 - 2000, 2003 - 2010, 2013 - 2018, there were no Gold medalists.~~ -->
 * In each IMO held during 2019 - 2023, at least one participant from India [received](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
+* Some of the participants of the recent IMOs are
+  * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), 
+  * [Pranjal Srivastava](https://www.npskrm.com/hall-of-fame-pranjal.html) is the first participant from India who [received](https://www.imo-official.org/participant_r.aspx?id=28249) three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx).
+  * [Atul Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in 2022 (B), 2023 (G), 
+  * [Arjun Gupta](https://www.imo-official.org/participant_r.aspx?id=31722), participated in 2022 (B), 2023 (G), 
+  * [Ananda Bhaduri](https://www.imo-official.org/participant_r.aspx?id=33405), participated in 2023 (S),
+  * [Siddharth Choppara](https://www.imo-official.org/participant_r.aspx?id=33406), participated in 2023 (S),
+  * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), participated in 2022 (B), 2023 (B).
+  
 * Some of the past [contestants](https://www.imo-official.org/country_individual_r.aspx?code=IND) are
   * Chetan Balwe
   * Riddhipratim Basu
@@ -105,7 +114,6 @@ Participation of India in <span style="color: green"> **International** </span> 
   * Kartik Prasanna
   * Sucharit Sarkar
   * K Soundararajan
-* [Pranjal Srivastava](https://www.npskrm.com/hall-of-fame-pranjal.html) is the first participant from India who [received](https://www.imo-official.org/participant_r.aspx?id=28249) three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). 
 
 <!--
 * Some of the golden years have been
