@@ -179,10 +179,10 @@ Participation of India in <span style="color: green"> **International** </span> 
 * India has been participating in EGMO since [2015](https://www.egmo.org/countries/country35/).
 * India has received 6 Silver medals (S), 15 Bronze medals (B), and 4 Honourable mentions (HM).
 * Some of the past contestants are
-  * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in 2019 (B), 2020 (B), 2022 (B).
-  * [Ananya Rajas Ranade](https://www.egmo.org/people/person1866/), participated in 2021 (S), 2022 (B). 
-  * [Gunjan Aggarwal](https://www.egmo.org/people/person1867/), participated in 2022 (B), 2023 (S), 2024 (S).
-  * [Sanjana Philo Chacko](https://www.egmo.org/people/person2283/), participated in 2023 (B), 2024 (S).
+  * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in 2019 (B), 2020 (B), 2022 (B),
+  * [Ananya Rajas Ranade](https://www.egmo.org/people/person1866/), participated in 2021 (S), 2022 (B),
+  * [Gunjan Aggarwal](https://www.egmo.org/people/person1867/), participated in 2022 (B), 2023 (S), 2024 (S),
+  * [Sanjana Philo Chacko](https://www.egmo.org/people/person2283/), participated in 2023 (B), 2024 (S),
   * [Sunaina Pati](https://www.egmo.org/people/person2282/), participated in 2023 (S).
  
   
@@ -243,9 +243,9 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
   * [Recommended Readings](https://web.evanchen.cc/recommend.html)
 (includes handouts by Evan Chen, Yufei Zhao, Po-Shen Loh, Alex Remorov, and books, and a list of contests)
   * He runs the Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)), **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**. Some of its [alums](https://web.evanchen.cc/otis.html#staff) are 
-    * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S).
-    * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated in IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G). 
-    * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), who participated in IMO in 2022 (B), 2023 (G). 
+    * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), who participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S),
+    * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), who participated in IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G), and in APMO in [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G), 
+    * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), who participated in IMO in 2022 (B), 2023 (G), and in APMO in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
     * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who received bronze medals in EGMO in 2019, 2020, 2022. 
 
 <!--* [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), who participated in IMO in 2022 (B), 2023 (B).  -->
