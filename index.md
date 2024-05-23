@@ -75,7 +75,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 
 * The [first IMO](https://www.imo-official.org/year_country_r.aspx?year=1959) was held in Romania in 1959, with seven countries participating.
 * It has since been held annually, except in 1980.
-* Currently, it has expanded to over 100 countries across the globe.
+* Currently, it has expanded to over [100 countries](https://www.imo-official.org/year_info.aspx?year=2023) across the globe.
 * Each country sends a team of up to six students. 
 * In the recent past,
   * Japan was the host for [IMO2023](https://imo2023.jp/en/),
