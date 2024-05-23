@@ -179,6 +179,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   
 ## [Participation of India in EGMO](https://www.egmo.org/countries/country35/)
 
+* India has been participating in EGMO since [2015](https://www.egmo.org/countries/country35/).
 
 ## Mathematical Olympiad program in India
 
