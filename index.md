@@ -57,7 +57,7 @@ title: Home
 >
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
-## IMO
+## [IMO](https://www.imo-official.org/)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
 
@@ -79,7 +79,7 @@ title: Home
 * IMO is held over two consecutive days with 3 problems each. Each day, the contestants have four-and-a-half hours to solve three problems. Each problem is worth 7 points for a maximum total score of 42 points.
 * The problems are arranged so that the order in increasing difficulty is Q1, Q4, Q2, Q5, Q3 and Q6, where the Day 1 problems Q1, Q2, and Q3 are in increasing difficulty, and the Day 2 problems Q4, Q5, and Q6 are in increasing difficulty. 
 
-## Participation of India in IMO
+## [Participation of India in IMO](https://www.imo-official.org/country_info.aspx?code=IND)
 * [India](https://www.imo-official.org/country_info.aspx?code=IND) has been participating in IMO since 1989, and has been a host in the year 1996.
 * [India](https://www.imo-official.org/country_info.aspx?code=IND) has received 16 Gold medals (G), 73 Silver medals (S), 79 Bronze medals (B), and 28 Honourable mentions (HM).
 * India [ranked](https://www.imo-official.org/country_team_r.aspx?code=IND)
@@ -116,7 +116,7 @@ title: Home
   * 2023 
 -->
 
-## APMO
+## [APMO](https://www.apmo-official.org/)
 
 * The Asian Pacific Mathematics Olympiad ([APMO](https://www.apmo-official.org/)) is a mathematical competition for countries in the Pacific-Rim Region.
 * One of its [aims](https://www.apmo-official.org/) is
@@ -128,7 +128,7 @@ title: Home
   * The APMO contest consists of one four-hour paper consisting of five questions of varying difficulty and each having a maximum score of 7 points.
   * Country representatives organize the competition locally. Any number of students may sit the exam in each country, but the results of at most 10 per country can be sent for official participation.
 
-## Participation of India in APMO
+## [Participation of India in APMO](https://www.apmo-official.org/country_report/IND/all)
 
 * India has been participating in APMO [since 2015](https://www.apmo-official.org/country_report/IND/all).
 * India has received 4 Gold medals (G), 15 Silver medals (S), 36 Bronze medals (B), and 22 Honourable mentions (HM).
