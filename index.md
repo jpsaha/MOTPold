@@ -19,7 +19,7 @@ title: Home
 * [AoPS](#AoPS)
 -->
 
-## Problem Solving Sessions at IISER Bhopal
+## [Problem Solving Sessions at IISER Bhopal](https://jpsaha.github.io/MOTP/pssb/)
 
 * A series of Problem Solving Sessions will be organized at IISER Bhopal in person.
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
