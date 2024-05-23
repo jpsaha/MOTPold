@@ -261,8 +261,6 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
     * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in IMO in 2022 (B), 2023 (G), and in APMO in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
     * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), who received bronze medals in EGMO in 2019, 2020, 2022. 
 
-<!--* [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), participated in IMO in 2022 (B), 2023 (B).  -->
-
 ## [References](https://jpsaha.github.io/MOTP/references/)
 
 * Mathematical circles (Russian experience) by Fomin, Genkin, Itenberg.
