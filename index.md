@@ -37,7 +37,7 @@ title: Home
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
 
-## The following provides some information about 
+## [The following provides some information about]()
 * **THE** <span style="color: green"> **International** </span> **Mathematical Olympiad**<span style="color: green">**s**</span>, <br>
 * Participation of India in these <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>, and <br>
 * # The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the <span style="color: green"> International </span> Mathematical Olympiads. <span style="color: red"> No other contests are recognized. </span>
