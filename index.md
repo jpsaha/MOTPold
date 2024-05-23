@@ -158,7 +158,7 @@ title: Home
 * In the recent past,
   * Georgia was the host for [EGMO2024](https://www.egmo.org/egmos/egmo13/),
   * Slovenia was the host for [EGMO2023](https://www.egmo.org/egmos/egmo12/),
-  * Hungary was the host for [EGMO2023](https://www.egmo.org/egmos/egmo11/).
+  * Hungary was the host for [EGMO2022](https://www.egmo.org/egmos/egmo11/).
 * The forthcoming EGMOs have been scheduled.
   * [EGMO2025](https://www.egmo.org/egmos/egmo14/) will take place in Kosovo.
   * [EGMO2026](https://www.egmo.org/egmos/egmo14/) will take place in France.
