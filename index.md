@@ -34,11 +34,10 @@ title: Home
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
 
 ## [The following provides some information about]()
-
-
-* **[International]()** Mathematical Olympiad**[s]()**, <br>
-* Participation of India in these **[International]()** Mathematical Olympiad**[s]()**, and <br>
-* ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the [International]() Mathematical Olympiad[s](). <span style="color: red"> No other contests are recognized. </span>
+* **[International]()** Mathematical Olympiad**[s]()**, 
+* Participation of India in these **[International]()** Mathematical Olympiad**[s]()**, and
+* The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf).
+<!-- ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the [International]() Mathematical Olympiad[s](). <span style="color: red"> No other contests are recognized. </span> -->
 
 <!--
 * **THE** <span style="color: green"> **International** </span> **Mathematical Olympiad**<span style="color: green">**s**</span>, <br>
