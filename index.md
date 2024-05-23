@@ -132,8 +132,8 @@ Participation of India in <span style="color: green"> **International** </span> 
 * One of its [aims](https://www.apmo-official.org/) is
 > Discovering, encouraging and challenging mathematically gifted high-school students.
 * The [first](https://www.apmo-official.org/timeline) APMO was held in 1989, with four countries participating.
-* In [2023](https://www.apmo-official.org/year_report/2023), 38 countries participated in APMO.
 * The APMO is held annually.
+* In [2023](https://www.apmo-official.org/year_report/2023), 38 countries participated in APMO.
 * Some of its [regulations](https://www.apmo-official.org/regulations) are as follows. 
   * The APMO contest consists of one four-hour paper consisting of five questions of varying difficulty and each having a maximum score of 7 points.
   * Country representatives organize the competition locally. Any number of students may sit the exam in each country, but the results of at most 10 per country can be sent for official participation.
@@ -163,8 +163,8 @@ Participation of India in <span style="color: green"> **International** </span> 
 * [EGMO](https://www.egmo.org/)
 > aims to inspire girls to take part in national and international mathematics competitions, providing more opportunities for mathematical development. It serves as a platform to amplify the presence of young female mathematicians on the global stage with the possibility to find associates and make remarkable connections while fostering cultural exchange among teenagers worldwide. It encourages young females to become scientists and boosts the number of girls in IMO teams.
 * The [first](https://www.egmo.org/egmos/) EGMO was held in 2012, with [19](https://www.egmo.org/egmos/egmo1/) countries participating.
-* In [2024](https://www.egmo.org/egmos/egmo13/), 54 countries participated in EGMO.
 * The EGMO is held annually.
+* In [2024](https://www.egmo.org/egmos/egmo13/), 54 countries participated in EGMO.
 * Participation in the EGMO is by invitation only. Each invited country sends a team consisting of up to four contestants. 
 * In the recent past,
   * Georgia was the host for [EGMO2024](https://www.egmo.org/egmos/egmo13/),
