@@ -5,9 +5,9 @@ permalink: /pssb/
 ---
 
 
-## [Problem Solving Sessions at IISER Bhopal](https://jpsaha.github.io/MOTP/pssb/)
+## [Mathematics Training for Individual Study (MTIS)](https://jpsaha.github.io/MOTP/pssb/)
 
-* A series of Problem Solving Sessions will be organized at IISER Bhopal in person.
+  * The Department of Mathematics, IISER Bhopal, would like to organize a Mathematics Training program for Individual Study (MTIS).
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The forthcoming sessions will be held on the following dates, during 9:00am to 12:00pm.
     * 3rd, 17th, 31st August, 2024.
