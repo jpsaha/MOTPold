@@ -14,8 +14,8 @@ permalink: /MTIS/
     * 14th, 28th September, 2024.
     * 19th October, 2024.
     * 2nd, 16th, 30th November, 2024.
-  * Applications to be accepted <span style="color: royalblue"> **until 07th July, 2024** </span> through a Google form. (<span style="color: green"> **link to be posted around 20th June, 2024** </span>)
+  * Applications to be accepted <span style="color: royalblue"> **until 07th July, 2024** </span> through a Google form. (<span style="color: green">**link to be posted around 20th June, 2024**</span>)
   * In the Google form, the link to [this problem set](https://jpsaha.github.io/MOTP/MTIS/PS0B24Aug) has been provided. While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
-  * Please refer to the flyer (<span style="color: green"> **to be linked** </span>) for further details. 
+  * Please refer to the flyer (<span style="color: green">**to be linked**</span>) for further details. 
  
