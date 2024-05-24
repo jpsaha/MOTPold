@@ -21,7 +21,7 @@ title: Home
 
 ## [Mathematics Training for Individual Study](https://jpsaha.github.io/MOTP/MTIS/) (MTIS)
 
-  * The Department of Mathematics, IISER Bhopal, would like to organize a Mathematics Training program for Individual Study (MTIS). 
+  * The Department of Mathematics, IISER Bhopal, would like to organize a Mathematics Training program for Individual Study (MTIS). Its flyer is available [here](static_files/MTIS/flyer.pdf).
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
   * The forthcoming sessions will be held on the following dates, during 9:00am to 12:00pm, in person.
     * 3rd, 17th, 31st August, 2024.
