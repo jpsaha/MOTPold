@@ -198,7 +198,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   
 ## Mathematical Olympiad program in India
 
-The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.tifr.res.in/)) organizes the Mathematical Olympiad program in India. 
+The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE) organizes the Mathematical Olympiad program in India. 
 
 ### [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and its [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
 * The students enrolled in the 8th, 9th, 10th, 11th or 12th standard may participate. [^1]
