@@ -19,7 +19,7 @@ title: Home
 * [AoPS](#AoPS)
 -->
 
-## [Mathematics Training for Individual Study (MTIS)](https://jpsaha.github.io/MOTP/pssb/)
+## [Mathematics Training for Individual Study (MTIS)](https://jpsaha.github.io/MOTP/MTIS/)
 
   * The Department of Mathematics, IISER Bhopal, would like to organize a Mathematics Training program for Individual Study (MTIS). 
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
@@ -28,7 +28,7 @@ title: Home
     * 14th, 28th September, 2024.
     * 19th October, 2024.
     * 2nd, 16th, 30th November, 2024.
-  * Further details are available [here](https://jpsaha.github.io/MOTP/pssb/).
+  * Further details are available [here](https://jpsaha.github.io/MOTP/MTIS/).
   * For more information, you may write to
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
