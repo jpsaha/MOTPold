@@ -48,9 +48,9 @@ title: Home
 Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
 -->
 ## Participation of India in [International]() Mathematical Olympiad[s]()
-* [IMO](https://www.imo-official.org/) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
-* [APMO](https://www.apmo-official.org/) since [2015](https://www.apmo-official.org/country_report/IND/all). 
-* [EGMO](https://www.egmo.org/) since [2015](https://www.egmo.org/countries/country35/).
+* [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
+* [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) since [2015](https://www.apmo-official.org/country_report/IND/all). 
+* [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) since [2015](https://www.egmo.org/countries/country35/).
 
 [Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
 
@@ -206,7 +206,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 * Indian Olympiad Qualifier in Mathematics (IOQM) is a three hour examination with 30 questions. 
 * Regional Mathematical Olympiad (RMO) is a three-hour examination with six problems.
 * Indian National Mathematical Olympiad (INMO), held on the third Sunday of January.
-* International Mathematical Olympiad Training Camp (IMOTC), held from April to May, leading to the selection of six students to represent India at IMO.
+* International Mathematical Olympiad Training Camp (IMOTC), held from April to May. Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for [IMO](https://www.imo-official.org/).
 * These also apply to participation in the [EGMO](https://www.egmo.org/) and [APMO](https://www.apmo-official.org/).
 * [INMOTC](https://olympiads.hbcse.tifr.res.in/faq/) is organized before INMO. 
