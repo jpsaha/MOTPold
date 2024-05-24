@@ -27,8 +27,8 @@ items:
   name: Slides
   icon_class: fas fa-user-graduate
 
-- url: /pssb/
-  name: PSSB
+- url: /MTIS/
+  name: MTIS
   icon_class: fas fa-user-graduate
 
 #- url: /lectures/
