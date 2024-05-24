@@ -6,6 +6,13 @@ layout: page
 <ul id="archive">
 {% for combi in site.combinatorics %}
       <li class="archiveposturl" style="background: transparent">
+            {% if lecture.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ lecture.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ lecture.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
         <span><a href="{{ combi.url | prepend: site.baseurl}}">{{ combi.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download pdf (pdf)" href="{{ combi.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
