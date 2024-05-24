@@ -4,7 +4,7 @@ title: MTIS
 permalink: /MTIS/
 ---
 
-## [Mathematics Training for Individual Study](https://jpsaha.github.io/MOTP/MTIS/) (MTIS)
+## [Mathematics Training for Individual Study](/MTIS/) (MTIS)
 
   * The Department of Mathematics, IISER Bhopal, would like to organize a Mathematics Training program for Individual Study (MTIS). Its flyer may be accessed [here](static_files/MTIS/flyer.pdf).
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
