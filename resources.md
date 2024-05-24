@@ -40,7 +40,9 @@ permalink: /resources/
 
 ## Additional resources/links
 
-* [The Sophie Fellowship](https://www.sophiefellowship.in/home)
+* [The Sophie Fellowship](https://www.sophiefellowship.in/home) --- Training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
+  * It is run by a bunch of students who really like math and want to spread it further in the country.
+  * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
 * [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
 * [Online Math Club](https://www.youtube.com/@omath)
   * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
