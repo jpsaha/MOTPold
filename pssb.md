@@ -17,5 +17,5 @@ permalink: /pssb/
   * Applications to be accepted until 07th July, 2024 through a Google form. (**link to be included soon**)
   * In the Google form, the link [this problem set](https://jpsaha.github.io/MOTP/pssb/ProblemSetIISERB24Aug) has been provided. While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
   * The students, selected for participation in the session, will be informed in July 25, 2024.
-  * Please refer to this file (**to be linked**) for further details. 
+  * Please refer to this flyer (**to be linked**) for further details. 
  
