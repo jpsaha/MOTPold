@@ -62,7 +62,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 >
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
-## International Mathematical Olympiad ([IMO](https://www.imo-official.org/))
+## [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
 
@@ -131,7 +131,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 2023 
 -->
 
-## Asian Pacific Mathematics Olympiad ([APMO](https://www.apmo-official.org/))
+## [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO)
 
 * The Asian Pacific Mathematics Olympiad ([APMO](https://www.apmo-official.org/)) is a mathematical competition for countries in the Pacific-Rim Region.
 * One of its [aims](https://www.apmo-official.org/) is
@@ -162,7 +162,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * Arjun Gupta, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (S).
 
 
-## European Girls’ Mathematical Olympiad ([EGMO](https://www.egmo.org/))
+## [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
 
 * The European Girls’ Mathematical Olympiad ([EGMO](https://www.egmo.org/))
 > is the premier European mathematics competition, made exclusively for high school female students who enjoy mathematics beyond the regular school curriculum. Started by the United Kingdom in April 2012, EGMO has grown since then and now includes over fifty countries, welcoming participants from beyond Europe.
