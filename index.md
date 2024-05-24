@@ -219,10 +219,10 @@ The Homi Bhabha Centre for Science Education ([HBCSE](https://olympiads.hbcse.ti
 * [39 students](https://olympiads.hbcse.tifr.res.in/rmo-2023-results/) qualified in RMO 2023
 
 ### Syllabus
-* Algebra
-* Combinatorics
-* Geometry
-* Number Theory
+* [Algebra](https://jpsaha.github.io/MOTP/algebra/)
+* [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)
+* [Geometry](https://jpsaha.github.io/MOTP/geometry/)
+* [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)
 
 ## Let's go through a few problems
 
