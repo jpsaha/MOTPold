@@ -65,7 +65,7 @@ As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
 
-## [The following provides some information about]()
+## The following provides some information about
 * **[International]()** Mathematical Olympiad**[s]()**, 
 * Participation of India in these **[International]()** Mathematical Olympiad**[s]()**, and
 * The [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE).
