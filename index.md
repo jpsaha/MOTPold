@@ -40,7 +40,7 @@ title: Home
 
 If you (the reader!) are aware of these Olympiads, and would like to prepare for them, then you may wish to know about 
 
-### [A few training programs](https://jpsaha.github.io/MOTP/resources/)
+## [A few training programs](https://jpsaha.github.io/MOTP/resources/)
 
 * The [<span style="color: royalblue"> **OTIS program**</span>](https://web.evanchen.cc/otis.html), i.e. Olympiad Training for Individual Study, run by [Evan Chen](https://web.evanchen.cc/) and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**. Some of its [alums](https://web.evanchen.cc/otis.html#staff) are 
     * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), and in APMO in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
