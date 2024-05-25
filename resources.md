@@ -44,9 +44,15 @@ permalink: /resources/
   * It is run by a bunch of students who really like math and want to spread it further in the country.
   * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
 * [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
-* [Online Math Club](https://www.youtube.com/@omath)
-  * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
-  * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
+* Online Math Club
+  * [Blog](https://www.omath.club/)
+  * On [YouTube](https://www.youtube.com/@omath)
+    * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
+    * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
+* An [Olympiad Math Blog](https://sunainalovesmath.blogspot.com/) run by Sunaina Pati, [participated](https://www.egmo.org/people/person2282/) in EGMO in 2023 (S).
+  * A post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html)
+  * An older post on OMC discussing [How to start with Math olympiads](https://www.omath.club/2022/03/how%20to%20start%20with%20math%20olympiads.html)
+  * Another post discussing [How to write a nice solution](https://www.omath.club/2022/04/how-to-write-nice-solution.html)
 * [Evan Chen](https://web.evanchen.cc/) is a graduate student at MIT and a math olympiad [coach](https://web.evanchen.cc/otis.html). He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
   * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them.
   * [Olympiad Articles](https://web.evanchen.cc/olympiad.html)
