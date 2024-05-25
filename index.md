@@ -228,7 +228,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 
 * [A1](static_files/slides/3Mod4NotSumOfTwoSq.pdf)
 * [C1](static_files/slides/Putnam2002A2.pdf)
-* [C2](static_files/slides/MMO2015.pdf)
+* [C2](static_files/slides/RUSMMO2015Grade11Day1P5.pdf)
 * [G1](static_files/slides/Among5PtsIn2by2SqTwoPtsAreSqrt2.pdf)
 * [N1](static_files/slides/AUTJRC2022P4.pdf)
 * N2
