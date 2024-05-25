@@ -40,7 +40,7 @@ title: Home
 
 If you (the reader!) are aware of these Olympiads, and would like to prepare for them, then you may wish to know about 
 
-## A few training programs
+### A few training programs
 
 * The [OTIS](https://web.evanchen.cc/otis.html) program, i.e. Olympiad Training for Individual Study, run by [Evan Chen](https://web.evanchen.cc/) and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**. Some of its [alums](https://web.evanchen.cc/otis.html#staff) are 
     * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), and in APMO in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
@@ -65,17 +65,6 @@ As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
 
-
-[Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
-
->The nations which do consistently well at this competition (IMO) must have at least one (and probably at least two) of the following attributes:
-> * A large population.
-> * A significant proportion of its population in receipt of a good education.
-> * A well-organized training infrastructure to support mathematics competitions.
-> * A culture which values intellectual achievement.
->
-> Alternatively, you need a cloning facility and a relaxed regulatory framework.
-
 ## [The following provides some information about]()
 * **[International]()** Mathematical Olympiad**[s]()**, 
 * Participation of India in these **[International]()** Mathematical Olympiad**[s]()**, and
@@ -90,6 +79,16 @@ As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https
 <!--
 Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
 -->
+
+[Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
+
+>The nations which do consistently well at this competition (IMO) must have at least one (and probably at least two) of the following attributes:
+> * A large population.
+> * A significant proportion of its population in receipt of a good education.
+> * A well-organized training infrastructure to support mathematics competitions.
+> * A culture which values intellectual achievement.
+>
+> Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 ## [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
