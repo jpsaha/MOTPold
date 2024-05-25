@@ -90,7 +90,7 @@ Sunaina Pati, who [received](https://www.egmo.org/people/person2282/) a Silver m
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
 
-* [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/)
+#### [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/)
 
 ## Some links
 
