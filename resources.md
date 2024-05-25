@@ -14,6 +14,10 @@ permalink: /resources/
     * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), participated in IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G), and in APMO in [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G), 
     * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in IMO in 2022 (B), 2023 (G), and in APMO in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
     * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in EGMO in 2019 (B), 2020 (B), 2022 (B). 
+As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html),
+> Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
+
+* 
 
 ## References
 
