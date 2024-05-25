@@ -53,7 +53,7 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
 
 #### [<span style="color: royalblue"> **The Sophie Fellowship**</span>](https://www.sophiefellowship.in/home) --- 
   * It is a training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
-  * The Sophie Fellowship is a student-run initiative to assist selected high schoolers passionate about mathematics, by offering help from people who have performed well at various mathematical contests such as the IMO, APMO, EGMO, and INMO.
+  * It is a student-run initiative to assist selected high schoolers passionate about mathematics, by offering help from people who have performed well at various mathematical contests such as the IMO, APMO, EGMO, and INMO.
   * It is run by a bunch of students who really like math and want to spread it further in the country. They aim to improve the quality of math education in India by making Olympiad math more accessible, as well as improve the gender ratio in the mathematical community.
   * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
   * As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html),
