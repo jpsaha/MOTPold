@@ -227,7 +227,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 ## Let's go through a few problems
 
 * [A1](static_files/slides/3Mod4NotSumOfTwoSq.pdf)
-* [C1](static_files/slides/putnam.pdf)
+* [C1](static_files/slides/Putnam2002A2.pdf)
 * [C2](static_files/slides/MMO2015.pdf)
 
 ## Preparation 
