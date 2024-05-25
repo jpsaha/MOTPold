@@ -7,7 +7,7 @@ permalink: /resources/
 {% include image.html url="/_images/pp/G19.jpg" width=175 align="right" %}
 
 
-## A training program
+## A few training programs
 
 * The [OTIS](https://web.evanchen.cc/otis.html) program, i.e. Olympiad Training for Individual Study, run by [Evan Chen](https://web.evanchen.cc/) and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**. Some of its [alums](https://web.evanchen.cc/otis.html#staff) are 
     * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), and in APMO in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
@@ -18,7 +18,15 @@ permalink: /resources/
 As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html),
 > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
 
-* 
+* [The Sophie Fellowship](https://www.sophiefellowship.in/home) --- Training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
+  * It is run by a bunch of students who really like math and want to spread it further in the country.
+  * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
+* [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
+* Online Math Club
+  * [Blog](https://www.omath.club/)
+  * On [YouTube](https://www.youtube.com/@omath)
+    * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
+    * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
 
 ## References
 
