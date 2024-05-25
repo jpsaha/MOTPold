@@ -21,12 +21,11 @@ As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https
 * [The Sophie Fellowship](https://www.sophiefellowship.in/home) --- Training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
   * It is run by a bunch of students who really like math and want to spread it further in the country.
   * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
-* [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
-
 
 As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html),
 > Sophie Fellowship is the gem! It provides such a nice community and so many resources!
 
+* [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
 * Online Math Club
   * [Blog](https://www.omath.club/)
   * On [YouTube](https://www.youtube.com/@omath)
