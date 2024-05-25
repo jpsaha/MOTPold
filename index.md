@@ -231,7 +231,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 * [C2](static_files/slides/RUSMMO2015Grade11Day1P5.pdf)
 * [G1](static_files/slides/Among5PtsIn2by2SqTwoPtsAreSqrt2.pdf)
 * [N1](static_files/slides/AUTJRC2022P4.pdf)
-* N2
+* [N2](static_files/slides/AUSMC1984.pdf)
 
 ## Preparation 
 Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from [Evan Chen](https://web.evanchen.cc/).
