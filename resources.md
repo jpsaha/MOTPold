@@ -54,6 +54,7 @@ permalink: /resources/
   * An older post on OMC discussing [How to start with Math olympiads](https://www.omath.club/2022/03/how%20to%20start%20with%20math%20olympiads.html)
     * To quote from this post:
     > Sophie Fellowship is the gem! It provides such a nice community and so many resources!
+    > 
     > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
   * Another post discussing [How to write a nice solution](https://www.omath.club/2022/04/how-to-write-nice-solution.html)
 * [Evan Chen](https://web.evanchen.cc/) is a graduate student at MIT and a math olympiad [coach](https://web.evanchen.cc/otis.html). He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
