@@ -188,6 +188,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * Aditya Khurmi, participated in [2020](https://www.apmo-official.org/country_report/IND/2020) (B),
   * Atul Nadig, participated in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
   * Adhitya Mangudy, participated in [2022](https://www.apmo-official.org/country_report/IND/2022) (B), [2023](https://www.apmo-official.org/country_report/IND/2023) (S),
+  * Ananda Bhaduri, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (B),
   * Siddharth Choppara, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (B),
   * Arjun Gupta, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (S).
 
