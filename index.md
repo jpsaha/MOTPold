@@ -22,7 +22,7 @@ title: Home
 ## [Mathematics Training for Individual Study](https://jpsaha.github.io/MOTP/MTIS/) (MTIS)
 
   * The Department of Mathematics, IISER Bhopal, would like to organize a Mathematics Training program for Individual Study (MTIS). Its flyer is available [here](static_files/MTIS/flyer.pdf).
-  * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
+  * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the <span style="color: green"> **Mathematical Olympiad**</span>.
   * The forthcoming sessions will be held on the following dates, during 9:00am to 12:00pm, in person.
     * 3rd, 17th, 31st August, 2024.
     * 14th, 28th September, 2024.
@@ -32,6 +32,21 @@ title: Home
   * For more information, you may write to
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
+
+## Participation of India in [International]() Mathematical Olympiad[s]()
+* [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
+* [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) since [2015](https://www.apmo-official.org/country_report/IND/all). 
+* [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) since [2015](https://www.egmo.org/countries/country35/).
+
+[Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
+
+>The nations which do consistently well at this competition (IMO) must have at least one (and probably at least two) of the following attributes:
+> * A large population.
+> * A significant proportion of its population in receipt of a good education.
+> * A well-organized training infrastructure to support mathematics competitions.
+> * A culture which values intellectual achievement.
+>
+> Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 ## [The following provides some information about]()
 * **[International]()** Mathematical Olympiad**[s]()**, 
@@ -47,20 +62,6 @@ title: Home
 <!--
 Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
 -->
-## Participation of India in [International]() Mathematical Olympiad[s]()
-* [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
-* [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) since [2015](https://www.apmo-official.org/country_report/IND/all). 
-* [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) since [2015](https://www.egmo.org/countries/country35/).
-
-[Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
-
->The nations which do consistently well at this competition (IMO) must have at least one (and probably at least two) of the following attributes:
-> * A large population.
-> * A significant proportion of its population in receipt of a good education.
-> * A well-organized training infrastructure to support mathematics competitions.
-> * A culture which values intellectual achievement.
->
-> Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 ## [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
