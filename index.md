@@ -58,7 +58,7 @@ As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https
 As remarked by Sunaina Pati in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html),
 > Sophie Fellowship is the gem! It provides such a nice community and so many resources!
 
-* [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
+* [<span style="color: royalblue"> **Online Math Club 2.0**</span>](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
 * Online Math Club
   * [Blog](https://www.omath.club/)
   * On [YouTube](https://www.youtube.com/@omath)
