@@ -48,16 +48,16 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
   * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), participated in IMO in 2018 (S), 2019 (G), 2021 (G), 2022 (G), and in APMO in [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G), 
   * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in IMO in 2022 (B), 2023 (G), and in APMO in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
   * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in EGMO in 2019 (B), 2020 (B), 2022 (B).
-  * [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
+  * [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
    > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
 
-#### [<span style="color: royalblue"> **The Sophie Fellowship**</span>](https://www.sophiefellowship.in/home) --- 
+#### [<span style="color: royalblue"> **The Sophie Fellowship**</span>](https://www.sophiefellowship.in/home)
   * It is a training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
   * It is a student-run initiative to assist selected high schoolers passionate about mathematics, by offering help from people who have performed well at various mathematical contests such as the IMO, APMO, EGMO, and INMO.
   * The program will be completely free of cost.
   * It is run by a bunch of students who really like math and want to spread it further in the country. They aim to improve the quality of math education in India by making Olympiad math more accessible, as well as improve the gender ratio in the mathematical community.
   * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
-  * [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
+  * [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
    > Sophie Fellowship is the gem! It provides such a nice community and so many resources!
 
 #### [<span style="color: royalblue"> **Online Math Club 2.0**</span>](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
@@ -287,7 +287,7 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
     * [Atul Shatavart Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in IMO in 2022 (B), 2023 (G), and in APMO in [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G),
     * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in EGMO in 2019 (B), 2020 (B), 2022 (B). 
 
-[Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO?](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
+[Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
 > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
 
 ## [References](https://jpsaha.github.io/MOTP/references/)
