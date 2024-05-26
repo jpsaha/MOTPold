@@ -75,7 +75,6 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
   * Camp
   > About 30 of the best scorers across the three disclipines of STEMS will be selected for a 3-day, fully-funded camp at CMI. Past students selected for this camp include various medalists at the IMO, IOI and few of the brightest school and college students across India.
 * [PROMYS India](https://promys-india.org/)
-  * 
   > A challenging six-week residential mathematics summer programme, PROMYS India is open to mathematically talented secondary and higher secondary students (Standards IX - XII or equivalent). Meticulously selected students from across India will gather on the campus of the Indian Institute of Science (IISc) Bengaluru to immerse themselves in rigorous mathematics.
   
 * [Purple Comet! Math Meet!](https://purplecomet.org/)
