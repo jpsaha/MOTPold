@@ -67,7 +67,7 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
 
-## A few programs and contests of interest
+## A few programs and contests
 
 * [STEMS](https://tessellate.cmi.ac.in/stems/)
   * Test
