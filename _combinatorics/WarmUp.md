@@ -8,4 +8,4 @@ tex: /static_files/combinatorics/WarmUp.tex
 solutions: /static_files/combinatorics/WarmUp.pdf
 ---
 
-Some illustrations of Example 1.7 may be found [here](/static_files/combinatorics/WarmUpCircum.pdf).
+Some illustrations of Example 1.7 may be found [here](MOTP/static_files/combinatorics/WarmUpCircum.pdf).
