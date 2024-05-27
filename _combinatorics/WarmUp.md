@@ -9,4 +9,3 @@ solutions: /static_files/combinatorics/WarmUp.pdf
 ---
 
 Some illustrations of Example 1.7 may be found [here](../static_files/combinatorics/WarmUpCircum.pdf).
-* [C2](static_files/slides/RUSMMO2015Grade11Day1P5.pdf)
