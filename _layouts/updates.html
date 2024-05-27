@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for upd in site.updates %}
+      <li class="archiveposturl" style="background: transparent">
+            {% if upd.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ upd.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ upd.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+        <span><a href="{{ upd.url | prepend: site.baseurl}}">{{ upd.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download pdf (pdf)" href="{{ upd.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
+{% if upd.tex %}
+&nbsp; <a title="Download tex (tex)" href="{{ upd.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% endif %}
+</strong> 
+      </li>
+{% endfor %}
+</ul>
