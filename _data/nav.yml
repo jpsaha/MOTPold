@@ -33,7 +33,7 @@ items:
 
 - url: /updates/
   name: Updates
-  icon_class: fas fa-book-graduate
+  icon_class: fas fa-user-graduate
 
 #- url: /lectures/
 #  name: Lectures
