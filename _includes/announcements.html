@@ -1,4 +1,5 @@
 {% assign all_events = site.events | concat: site.lectures %}
+{% assign all_events = all_events | concat: site.algebra %}
 {% assign all_events = all_events | concat: site.combinatorics %}
 {% assign all_events = all_events | concat: site.slides %}
 
@@ -22,8 +23,10 @@
             {% if n.type == 'lecture' %}
                 New Lecture is up: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
-            {% elsif n.type == 'combinatoric' %}
+            {% elsif n.type == 'algebrass' %}
                 New Combinatorics handout released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+            {% elsif n.type == 'algebrass' %}
+                New Algebra handout released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% elsif n.type == 'slide' %}
                 New Slide released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
