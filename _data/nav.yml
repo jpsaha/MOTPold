@@ -35,9 +35,9 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-#- url: /schedule/
-#  name: Schedule
-#  icon_class: fas fa-calendar-alt
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
 
 - url: /assignments/
   name: Assignments
