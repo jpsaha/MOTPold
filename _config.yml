@@ -77,3 +77,8 @@ defaults:
       type: "MTIS"
     values:
       layout: "MTISl"
+  - scope:
+      path: ""
+      type: "updates"
+    values:
+      layout: "update"
