@@ -1,4 +1,4 @@
-{% assign all_events = site.events | concat: site.slides %}
+{% assign all_events = site.events | concat: site.lectures %}
 {% assign all_events = all_events | concat: site.assignments %}
 
 {% assign events_to_show = "" | split: "" %}
@@ -18,9 +18,9 @@
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
         {% if n.type %}
-            {% if n.type == 'slide' %}
+            {% if n.type == 'lecture' %}
                 New Lecture is up: {{ n.title }}
-                {% include slide_links.html slide=n %}
+                {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
