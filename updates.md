@@ -1,5 +1,5 @@
 ---
-layout: updates
+layout: home
 title: Updates
 permalink: /updates/
 ---
