@@ -25,7 +25,7 @@
             {% elsif n.type == 'combinatoric' %}
                 New Combinatorics handout released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% elsif n.type == 'slide' %}
-                New Slide handout released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                New Slide released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
