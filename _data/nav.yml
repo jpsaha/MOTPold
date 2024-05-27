@@ -31,17 +31,17 @@ items:
   name: MTIS
   icon_class: fas fa-user-graduate
 
-- url: /lectures/
-  name: Lectures
-  icon_class: fas fa-book-reader
+#- url: /lectures/
+#  name: Lectures
+#  icon_class: fas fa-book-reader
 
-- url: /schedule/
-  name: Schedule
-  icon_class: fas fa-calendar-alt
+#- url: /schedule/
+#  name: Schedule
+#  icon_class: fas fa-calendar-alt
 
-- url: /assignments/
-  name: Assignments
-  icon_class: fas fa-user-graduate
+#- url: /assignments/
+#  name: Assignments
+#  icon_class: fas fa-user-graduate
 
 #- url: /project/
 #  name: Project
