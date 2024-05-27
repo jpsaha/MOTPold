@@ -6,6 +6,13 @@ layout: page
 <ul id="archive">
 {% for asggg in site.algebra %}
       <li class="archiveposturl" style="background: transparent">
+            {% if asggg.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ asggg.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ asggg.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
         <span><a href="{{ asggg.url | prepend: site.baseurl}}">{{ asggg.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download pdf (pdf)" href="{{ asggg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
