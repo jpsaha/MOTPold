@@ -312,7 +312,7 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to prepare for RMO](https://sunainalovesmath.blogspot.com/2023/06/How%20to%20prepare%20for%20RMO%20India.html).
 > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
 
-## [References](https://jpsaha.github.io/MOTP/references/)
+## [References](https://jpsaha.github.io/MOTP/resources/)
 
 * Mathematical circles (Russian experience) by Fomin, Genkin, Itenberg.
 * Challenge and Thrill of Pre-College Mathematics by V. Krishnamurthy, C.R. Pranesachar, K.N. Ranganathan, B.J. Venkatachala
