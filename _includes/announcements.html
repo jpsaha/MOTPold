@@ -1,4 +1,4 @@
-{% assign all_events = site.events | concat: site.lectures %}
+e{% assign all_events = site.events | concat: site.lectures %}
 {% assign all_events = all_events | concat: site.algebra %}
 {% assign all_events = all_events | concat: site.combinatorics %}
 {% assign all_events = all_events | concat: site.slides %}
@@ -17,7 +17,7 @@
 <div class="announcement-box" style="margin-top:30px">
 <h2>Updates</h2>
 <ul>
-    {% for n in all_events_sorted limit:15 %}
+    {% for n in all_events_sorted limit:8 %}
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
