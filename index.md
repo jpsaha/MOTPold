@@ -89,7 +89,7 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
 * [International Tournament of Young Mathematicians](https://www.itym.org/)
   > A team competition for high school students from all over the world. 
 
-* [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available on English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
+* [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
 * [Tournament of Towns](https://www.turgor.ru/en/)
 
 
