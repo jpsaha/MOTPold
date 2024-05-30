@@ -72,7 +72,7 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
 
-## Programs, Camps, and Contests
+## Programs, Camps, Contests and further Olympiads
 
 * [STEMS](https://tessellate.cmi.ac.in/stems/)
   * Test
@@ -88,6 +88,10 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
 
 * [International Tournament of Young Mathematicians](https://www.itym.org/)
   > A team competition for high school students from all over the world. 
+
+* [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available on English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
+* [Tournament of Towns](https://www.turgor.ru/en/)
+
 
 ## The following provides some information about
 * **[International]()** Mathematical Olympiad**[s]()**, 
