@@ -27,8 +27,8 @@ items:
   name: Slides
   icon_class: fas fa-user-graduate
 
-- url: /MTIS/
-  name: MTIS
+- url: /MOPSS/
+  name: MOPSS
   icon_class: fas fa-user-graduate
 
 - url: /updates/
