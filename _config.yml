@@ -74,9 +74,9 @@ defaults:
       layout: "slide"
   - scope:
       path: ""
-      type: "MTIS"
+      type: "MOPSS"
     values:
-      layout: "MTISl"
+      layout: "MOPS"
   - scope:
       path: ""
       type: "updates"
