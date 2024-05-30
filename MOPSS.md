@@ -1,7 +1,7 @@
 ---
-layout: MTIS
+layout: MOPSS
 title: MOPSS
-permalink: /MTIS/
+permalink: /MOPSS/
 ---
 
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MTIS/) (MOPSS)
