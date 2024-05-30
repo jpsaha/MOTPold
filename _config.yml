@@ -45,7 +45,7 @@ collections:
         output: true
     slides:
         output: true
-    MTIS:
+    MOPSS:
         output: true
     announcements:
         output: false
