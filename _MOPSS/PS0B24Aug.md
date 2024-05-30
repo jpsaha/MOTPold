@@ -1,5 +1,5 @@
 ---
-type: pssbl
+type: MOPS
 date: 2024-06-20T10:00:00+5:30
 title: 'Problem Set 0'
 pdf: /static_files/MTIS/PS0B24Aug.pdf
