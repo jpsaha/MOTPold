@@ -13,7 +13,7 @@ permalink: /MOPSS/
     * 14th, 28th September, 2024.
     * 19th October, 2024.
     * 2nd, 16th, 30th November, 2024.
-  * Applications to be accepted <span style="color: royalblue"> **until 07th July, 2024** </span> through a <span style="color: royalblue"> **Google form**</span>. (<span style="color: green">**Its link is to be posted around 20th June, 2024** (**more specifically, between 18th and 20th June**)</span>)
-  * In the Google form, the link to [**this problem set**](https://jpsaha.github.io/MOTP/MOPSS/PS0B24Aug) has been provided (<span style="color: green">**This link is to be activated around 20th June, 2024** (**more specifically, between 18th and 20th June**)</span>). While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
+  * Applications to be accepted <span style="color: royalblue"> **until 07th July, 2024** </span> through a <span style="color: royalblue"> **Google form**</span>. (<span style="color: green">**Its link is to be posted before 20th June, 2024**</span>. Once it is posted, it will be announced on the [updates](https://jpsaha.github.io/MOTP/updates/) page.)
+  * In the Google form, the link to [**this problem set**](https://jpsaha.github.io/MOTP/MOPSS/PS0B24Aug) has been provided (<span style="color: green">**This link is to be activated before 20th June, 2024**</span>. Once it is posted, it will be announced on the [updates](https://jpsaha.github.io/MOTP/updates/) page.). While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
