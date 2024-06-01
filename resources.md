@@ -109,3 +109,5 @@ permalink: /resources/
 * [Contest problems with connections to deeper mathematics](https://mathoverflow.net/questions/69737/contest-problems-with-connections-to-deeper-mathematics)
 * [The "Why" of Math](https://www.youtube.com/watch?v=Kg0oVnHgj7A) by Po-Shen Loh, TEDxCMU
 * Po-Shen Loh, has been the [national coach of the USA International Mathematical Olympiad team from 2013--2023](https://www.poshenloh.com/about/), interacts in [this video](https://www.youtube.com/watch?v=4oc6qdU0jco)
+* A [Quanta Magazine article](https://www.quantamagazine.org/po-shen-loh-led-the-u-s-math-team-back-to-first-place-20210216) featuring Po-Shen Loh
+* Po-Shen Loh: Mathematics, Math Olympiad, Combinatorics & Contact Tracing --- a [Lex Fridman Podcast](https://www.youtube.com/watch?v=6z1JwZbX4dQ)
