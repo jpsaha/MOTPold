@@ -108,3 +108,4 @@ permalink: /resources/
 * A post by [Timothy Gowers](https://gowers.wordpress.com/2014/07/19/mini-monomath/) related to IMO 2009 P6
 * [Contest problems with connections to deeper mathematics](https://mathoverflow.net/questions/69737/contest-problems-with-connections-to-deeper-mathematics)
 * [The "Why" of Math](https://www.youtube.com/watch?v=Kg0oVnHgj7A) by Po-Shen Loh, TEDxCMU
+* Po-Shen Loh, has been the coach of the US IMO team for the last decade, interacts in [this video](https://www.youtube.com/watch?v=4oc6qdU0jco)
