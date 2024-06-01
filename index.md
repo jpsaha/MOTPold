@@ -97,6 +97,7 @@ If you (the reader!) are aware of these Olympiads, and would like to prepare for
   > A team competition for high school students from all over the world. 
 
 * [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
+* [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
 * [Tournament of Towns](https://www.turgor.ru/en/)
 
 
