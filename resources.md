@@ -66,7 +66,7 @@ permalink: /resources/
     > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
   * Another post discussing [How to write a nice solution](https://www.omath.club/2022/04/how-to-write-nice-solution.html)
 
-#### Royan Goyal maintains a [blog](https://rgtdfg.blogspot.com/). He [participated](https://www.imo-official.org/participant_r.aspx?id=31126) in IMO 2021 (B). 
+#### [Royan Goyal](https://www.cmi.ac.in/people/student-profile.php?id=rohang) maintains a [blog](https://rgtdfg.blogspot.com/). He [participated](https://www.imo-official.org/participant_r.aspx?id=31126) in IMO 2021 (B). 
 * [Recommendations](https://rgtdfg.blogspot.com/2022/02/recommendations-feb-22-version.html) from him. 
 
 #### [Evan Chen](https://web.evanchen.cc/) is a graduate student at MIT and a math olympiad [coach](https://web.evanchen.cc/otis.html). He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
