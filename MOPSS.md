@@ -21,3 +21,9 @@ permalink: /MOPSS/
     * Jyoti Prakash Saha (jpsaha@iiserb.ac.in),
     * Kartick Adhikari (kartick@iiserb.ac.in),
     * Manas Kar (manas@iiserb.ac.in). 
+
+
+<!--
+## Why math olympiads are a valuable experience for high schoolers
+* The post by Evan Chen on [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/) is worth reading.
+-->
