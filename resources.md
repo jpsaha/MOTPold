@@ -67,8 +67,7 @@ permalink: /resources/
   * Another post discussing [How to write a nice solution](https://www.omath.club/2022/04/how-to-write-nice-solution.html)
 
 #### Royan Goyal maintains a [blog](https://rgtdfg.blogspot.com/). He [participated](https://www.imo-official.org/participant_r.aspx?id=31126) in IMO 2021 (B). 
-* a
-* 
+* [Recommendation](https://rgtdfg.blogspot.com/2022/02/recommendations-feb-22-version.html)
 
 #### [Evan Chen](https://web.evanchen.cc/) is a graduate student at MIT and a math olympiad [coach](https://web.evanchen.cc/otis.html). He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
   * [FAQs](https://web.evanchen.cc/faq-contest.html) about math contests and particularly how to go about training for them.
