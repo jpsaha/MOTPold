@@ -38,7 +38,7 @@ title: Home
     * Manas Kar (manas@iiserb.ac.in). 
 
 
-## <span style="color: royalblue"> Why math olympiads are a valuable experience for high schoolers </span>
+## <span style="color: green"> Why math olympiads are a valuable experience for high schoolers </span>
 * The post by Evan Chen on [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/) is worth reading.
   * In a previous post, titled [Against the “Research vs. Olympiads” Mantra](https://blog.evanchen.cc/2016/08/13/against-the-research-vs-olympiads-mantra/), Evan Chen discussed why math olympiads should not be judged by their relevance to research mathematics. He mentions that in that post, he failed to actually explain why he thinks math olympiads are a valuable experience for high schoolers. In the post [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/), he puts the amends. 
 
