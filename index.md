@@ -33,8 +33,9 @@ title: Home
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
   * For more information, you may write to
+    * Jyoti Prakash Saha (jpsaha@iiserb.ac.in),
     * Kartick Adhikari (kartick@iiserb.ac.in),
-    * Jyoti Prakash Saha (jpsaha@iiserb.ac.in). 
+    * Manas Kar (manas@iiserb.ac.in). 
 
 ## Participation of India in <span style="color: green"> **International Mathematical Olympiads**</span>
 * [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) since [1989](https://www.imo-official.org/country_team_r.aspx?code=IND).
