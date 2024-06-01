@@ -20,10 +20,14 @@ permalink: /resources/
 
 #### [The Sophie Fellowship](https://www.sophiefellowship.in/home)
   * It is a training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
-  * It is run by a bunch of students who really like math and want to spread it further in the country.
+  * It is a student-run initiative to assist selected high schoolers passionate about mathematics, by offering help from people who have performed well at various mathematical contests such as the IMO, APMO, EGMO, and INMO.
+  * The program will be completely free of cost.
+  * It is run by a bunch of students who really like math and want to spread it further in the country. They aim to improve the quality of math education in India by making Olympiad math more accessible, as well as improve the gender ratio in the mathematical community.
   * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
   * [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to start with Math olympiads](https://www.omath.club/2022/03/how%20to%20start%20with%20math%20olympiads.html).
-> Sophie Fellowship is the gem! It provides such a nice community and so many resources!
+   > Sophie Fellowship is the gem! It provides such a nice community and so many resources!
+
+
 
 #### [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
 * Online Math Club
