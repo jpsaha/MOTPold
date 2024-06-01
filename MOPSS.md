@@ -17,3 +17,7 @@ permalink: /MOPSS/
   * In the Google form, the link to [**this problem set**](https://jpsaha.github.io/MOTP/MOPSS/PS0B24Aug) has been provided (<span style="color: green">**This link is to be activated before 20th June, 2024**</span>. Once it is posted, it will be announced on the [updates](https://jpsaha.github.io/MOTP/updates/) page.). While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
+  * For more information, you may write to
+    * Jyoti Prakash Saha (jpsaha@iiserb.ac.in),
+    * Kartick Adhikari (kartick@iiserb.ac.in),
+    * Manas Kar (manas@iiserb.ac.in). 
