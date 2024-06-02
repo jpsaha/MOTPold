@@ -19,7 +19,7 @@ title: Home
 * [AoPS](#AoPS)
 -->
 
-{% include image.html url="/_images/pp/MOPSS.jpg" width=300 align="right" %}
+{% include image.html url="/_images/pp/MOPSS.jpg" width=350 align="right" %}
 
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
 
