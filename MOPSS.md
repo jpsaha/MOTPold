@@ -4,6 +4,14 @@ title: MOPSS
 permalink: /MOPSS/
 ---
 
+
+{% include image.html url="/_images/pp/MOPSS.pdf" width=175 align="right" %}
+{% include image.html url="/_images/pp/MOPSS.pdf" width=175 align="left" %}
+
+# a
+
+{% include image.html url="/_images/pp/MOPSS.pdf" width=175 align="center" %}
+
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
 
   * The Department of Mathematics, IISER Bhopal, would like to organize a series of Mathematics Olympiad Problem Solving Sessions (MOPSS). 
