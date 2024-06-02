@@ -5,12 +5,12 @@ permalink: /MOPSS/
 ---
 
 
-{% include image.html url="/_images/pp/MOPSS.pdf" width=175 align="right" %}
-{% include image.html url="/_images/pp/MOPSS.pdf" width=175 align="left" %}
+{% include image.html url="/_images/pp/MOPSS.jpg" width=175 align="right" %}
+{% include image.html url="/_images/pp/MOPSS.jpg" width=175 align="left" %}
 
 # a
 
-{% include image.html url="/_images/pp/MOPSS.pdf" width=175 align="center" %}
+{% include image.html url="/_images/pp/MOPSS.jpg" width=475 align="center" %}
 
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
 
