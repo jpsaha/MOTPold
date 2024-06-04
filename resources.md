@@ -27,14 +27,17 @@ permalink: /resources/
   * [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to start with Math olympiads](https://www.omath.club/2022/03/how%20to%20start%20with%20math%20olympiads.html).
    > Sophie Fellowship is the gem! It provides such a nice community and so many resources!
 
+#### [<span style="color: royalblue"> **Online Math Club 2.0**</span>](https://sites.google.com/view/online-math-club)
+* To quote from [this post](https://sunainalovesmath.blogspot.com/2022/05/reflecting-on-past.html) of [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), 
+> The Online Math Club is an initiative to reach high school students interested in math and give them a platform to learn more and interact with others. The Club aims to increase exposure to olympiad mathematics and advanced mathematics. And OMC is free and open to all!
 
-
-#### [Online Math Club 2.0](https://sites.google.com/view/online-math-club) is a student-run mathematical program.
-* Online Math Club
   * [Blog](https://www.omath.club/)
   * On [YouTube](https://www.youtube.com/@omath)
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
+
+#### [<span style="color: royalblue"> **The Philomath Club**</span>](https://thephillomathclub.weebly.com/)
+* It is a math club founded by [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), which aims to motivate the elementary and middle school students to do Mathematics but in a fun way. The club wants to spread the awareness towards non-routine mathematics.
 
 ## References
 
