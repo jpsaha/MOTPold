@@ -29,7 +29,7 @@ items:
 
 - url: /MOPSS/
   name: MOPSS
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-chalkboard-user
 
 - url: /updates/
   name: Updates
