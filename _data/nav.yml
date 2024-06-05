@@ -25,7 +25,7 @@ items:
 
 - url: /slides/
   name: Slides
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-display
 
 - url: /MOPSS/
   name: MOPSS
