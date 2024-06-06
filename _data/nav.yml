@@ -3,7 +3,7 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /mo/
+- url: /matholympiad/
   name: MO
   icon_class: fas fa-book-reader
 
@@ -11,7 +11,7 @@ items:
   name: MOPSS
   icon_class: fas fa-chalkboard
 
-- url: /tp/
+- url: /trainingprogram/
   name: TP
   icon_class: fas fa-book-reader
 
