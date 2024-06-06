@@ -1,13 +1,13 @@
 # Site settings
 course_name: # MO # MOTP #second top most item next to the logo
 course_description: # "This sentence is located in _config.yml in MOTP repo. Write down a description."
-course_semester: # "20" #"2024" #third top most item next to the logo
+course_semester: "20244" #"2024" #third top most item next to the logo
 
 baseurl: "/MOTP" # the subpath of your site, e.g. /blog/
 url: "http://jpsaha.github.io/" # the base hostname & protocol for your site
 
-schoolname: # "1MOTP" #top most item next to the logo
-schoolurl: # "https://hogwarts.edu"
+schoolname: "1MOTP" #top most item next to the logo
+schoolurl: "https://jpsaha.github.io/MOTP/"
 twitter_username: # username 
 
 address: | # MOTP
