@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for mo in site.matholympiad %}
+      <li class="archiveposturl" style="background: transparent">
+            {% if mo.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ mo.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ mo.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+        <span><a href="{{ mo.url | prepend: site.baseurl}}">{{ mo.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download pdf (pdf)" href="{{ mo.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
+{% if mo.tex %}
+&nbsp; <a title="Download tex (tex)" href="{{ mo.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% endif %}
+</strong> 
+      </li>
+{% endfor %}
+</ul>
