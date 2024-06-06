@@ -98,6 +98,7 @@ permalink: /resources/
     * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in EGMO in 2019 (B), 2020 (B), 2022 (B). 
   * He [runs](https://web.evanchen.cc/videos.html) a [Twitch stream](https://www.twitch.tv/vEnhance), where he primarily live-solves math problems.
 
+<!--
 #### [The Sophie Fellowship](https://www.sophiefellowship.in/home) --- Training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
   * It is run by a bunch of students who really like math and want to spread it further in the country.
   * The [team](https://www.sophiefellowship.in/team) consists of many IMO and EGMO medalists, as well as others who have attended the Indian IMO training camp. They have previously participated in Olympiads, we understand the challenges students in the math community face and want to help them. 
@@ -107,7 +108,7 @@ permalink: /resources/
   * On [YouTube](https://www.youtube.com/@omath)
     * An [interview](https://www.youtube.com/watch?v=OwZ8nx54a20) with the [Indian IMO team 2022](https://www.imo-official.org/team_r.aspx?code=IND&year=2022)
     * An [interview](https://www.youtube.com/watch?v=HSuWLw4l_yY) with the [Indian IMO team 2023](https://www.imo-official.org/team_r.aspx?code=IND&year=2023)
-
+-->
 #### [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/)
 
 ## Some links
