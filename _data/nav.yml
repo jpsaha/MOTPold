@@ -37,7 +37,7 @@ items:
 
 - url: /resources/
   name: Resources
-  icon_class: fas fa-folder-open
+  icon_class: fas fa-folder-open #fa-book
 
 - url: /slides/
   name: Slides
@@ -45,7 +45,7 @@ items:
 
 - url: /updates/
   name: Updates
-  icon_class: fas fa-pen-nib
+  icon_class: fas fa-bullhorn #fa-pen-nib
 
 #- url: /lectures/
 #  name: Lectures
