@@ -17,7 +17,7 @@ items:
 
 - url: /eligibility/
   name: Eligibility
-  icon_class: fas fa-check-square-o
+  icon_class: fas fa-check-square
 
 - url: /algebra/
   name: Algebra
