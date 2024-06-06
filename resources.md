@@ -119,3 +119,6 @@ permalink: /resources/
   * [Write down what you’ve done](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
   * [What are some useful, but little-known, features of the tools used in professional mathematics?](https://terrytao.wordpress.com/2017/07/07/what-are-some-useful-but-little-known-features-of-the-tools-used-in-professional-mathematics/)
   * <iframe src="https://mathstodon.xyz/@tao/111002007618655272/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mathstodon.xyz/embed.js" async="async"></script>
+  * Evan Chen on [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
+  > what is the purpose of writing? It turns out that there is one, and ... It’s that writing clarifies thinking.
+  * .
