@@ -2,13 +2,10 @@
 layout: page
 title: Home
 ---
-:email: jpsaha@iiserb.ac.in
 
 <i class="fas fa-phone-square"></i>
 
- fa-phone-square
-
- <a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-phone-square"></i></a> 
+<a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-phone-square"></i></a> 
 
 A brief decription of the layout of https://jpsaha.github.io/MOTP/, and its content is provided below. 
 
