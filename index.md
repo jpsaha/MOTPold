@@ -82,7 +82,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 * [Geometry](https://jpsaha.github.io/MOTP/geometry/)
 * [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)
 
-
+<!--
 ## [Evan Chen](https://web.evanchen.cc/)
 * Evan Chen is a graduate student at MIT and a math olympiad coach. He received a [Gold medal](https://www.imo-official.org/participant_r.aspx?id=24870) in IMO 2014. There are a lot of useful material available on his [webpage](https://web.evanchen.cc/) and [blog](https://blog.evanchen.cc/).
   * He runs the Olympiad Training for Individual Study ([OTIS](https://web.evanchen.cc/otis.html)), **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**. Some of its [alums](https://web.evanchen.cc/otis.html#staff) are 
@@ -94,7 +94,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to start with Math olympiads](https://www.omath.club/2022/03/how%20to%20start%20with%20math%20olympiads.html).
 > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
 
-<!--
+
 ## [References](https://jpsaha.github.io/MOTP/resources/)
 
 * Mathematical circles (Russian experience) by Fomin, Genkin, Itenberg.
