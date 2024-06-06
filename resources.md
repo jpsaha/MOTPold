@@ -6,7 +6,7 @@ permalink: /resources/
 
 {% include image.html url="/_images/pp/G19.jpg" width=175 align="right" %}
 
-
+<!--
 ## A few training programs
 
 #### The [OTIS program](https://web.evanchen.cc/otis.html)
@@ -38,7 +38,8 @@ permalink: /resources/
 
 #### [<span style="color: royalblue"> **The Philomath Club**</span>](https://thephillomathclub.weebly.com/)
 * It is a math club founded by [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), which aims to motivate the elementary and middle school students to do Mathematics but in a fun way. The club wants to spread the awareness towards non-routine mathematics.
-
+-->
+  
 ## References
 
 * Mathematical circles (Russian experience) by Fomin, Genkin, Itenberg.
