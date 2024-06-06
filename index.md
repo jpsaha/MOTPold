@@ -94,6 +94,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), who [received](https://www.egmo.org/people/person2282/) a Silver medal in [EGMO 2023](https://www.egmo.org/egmos/egmo12/), remarked the following in a post discussing [How to start with Math olympiads](https://www.omath.club/2022/03/how%20to%20start%20with%20math%20olympiads.html).
 > Do join OTIS! It is simply so good. Evan is also very kind with financial aid. Moreover, do not be scared of applying! And if there is some financial burden, do tell to Evan.
 
+<!--
 ## [References](https://jpsaha.github.io/MOTP/resources/)
 
 * Mathematical circles (Russian experience) by Fomin, Genkin, Itenberg.
@@ -104,12 +105,7 @@ The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.
 * [Olympiad NT through Challenging Problems](https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf), by Justin Stevens, is an introductory olympiad text on number theory. 
 * [Modern Olympiad Number Theory](https://artofproblemsolving.com/community/c6h2344755), by [Aditya Khurmi](https://www.linkedin.com/in/adityakhurmi), is olympiad-oriented. 
 * Problems from the Book by Titu Andreescu and Gabriel Dospinescu. Intermediate-advanced textbook covering topics in inequalities, algebra, analysis, combinatorics, and number theory.
-
-## [AoPS](https://artofproblemsolving.com/)
-* On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Contest, together with community-contributed solutions.
-
-
-
+-->
 
 <!-- **_data/previous_offering.yml** contains the details of the previous offerings. -->
 <!-- **_data/people.yml** contains the details of instructor and TAs. -->
