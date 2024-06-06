@@ -6,7 +6,7 @@ permalink: /eligibility/
 
 ## Mathematical Olympiad program in India
 
-The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE) organizes the Mathematical Olympiad program in India. 
+* The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE) organizes the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India. 
 
 ### [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and its [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
 * The students enrolled in the 8th, 9th, 10th, 11th or 12th standard may participate. [^1]
