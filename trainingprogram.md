@@ -1,6 +1,6 @@
 ---
 layout: trainingprogram
-title: Training Program
+title: Training Programs
 permalink: /trainingprogram/
 ---
 
