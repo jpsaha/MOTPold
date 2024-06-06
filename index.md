@@ -28,6 +28,7 @@ title: Home
 ## [Slides](https://jpsaha.github.io/MOTP/slides/)
 
 ## Handouts 
+The content provided in the following pages could be useful to the interested students. 
 * [Algebra](https://jpsaha.github.io/MOTP/algebra/)
 * [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)
 * [Geometry](https://jpsaha.github.io/MOTP/geometry/)
@@ -35,7 +36,7 @@ title: Home
 
 
 ## [Updates](https://jpsaha.github.io/MOTP/updates/)
-
+* This page provides a list of the recent updates made.
 
 
 <!--
