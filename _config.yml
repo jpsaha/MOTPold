@@ -10,6 +10,7 @@ url: "http://jpsaha.github.io/" # the base hostname & protocol for your site
 schoolname: "MOPSS" #top most item next to the logo
 schoolurl: "https://jpsaha.github.io/MOTP/"
 twitter_username: # username 
+github_username: jpsaha
 
 address: | 
     Department of Mathematics
