@@ -3,6 +3,12 @@ layout: page
 title: Home
 ---
 
+<i class="fas fa-phone-square"></i>
+
+ fa-phone-square
+
+ <a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-phone-square"></i></a> 
+
 A brief decription of the layout of https://jpsaha.github.io/MOTP/, and its content is provided below. 
 
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
