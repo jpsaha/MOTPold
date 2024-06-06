@@ -24,9 +24,9 @@ permalink: /MOPSS/
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
   * For more information, you may write to
-    * Jyoti Prakash Saha (jpsaha@iiserb.ac.in),
-    * Kartick Adhikari (kartick@iiserb.ac.in),
-    * Manas Kar (manas@iiserb.ac.in). 
+    * Jyoti Prakash Saha (<i class="fas fa-envelope"></i>: jpsaha@iiserb.ac.in),
+    * Kartick Adhikari (<i class="fas fa-envelope"></i>: kartick@iiserb.ac.in),
+    * Manas Kar (<i class="fas fa-envelope"></i>: manas@iiserb.ac.in). 
 
 ## <span style="color: royalblue"> Why math olympiads are a valuable experience for high schoolers </span>
 * The post by Evan Chen on [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/) is worth reading.
