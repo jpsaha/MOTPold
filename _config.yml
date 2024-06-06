@@ -44,6 +44,10 @@ collections:
         output: true
     assignments:
         output: true
+    mo:
+        output: true
+    tp:
+        output: true
     algebra:
         output: true
     combinatorics:
@@ -62,6 +66,16 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+  - scope:
+      path: ""
+      type: "mo"
+    values:
+      layout: "moss"
+  - scope:
+      path: ""
+      type: "tp"
+    values:
+      layout: "tpss"
   - scope:
       path: ""
       type: "algebra"
