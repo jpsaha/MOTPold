@@ -43,6 +43,8 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 #### [<span style="color: royalblue"> **Online Math Club 2.0**</span>](https://sites.google.com/view/online-math-club)
 * To quote from [this post](https://sunainalovesmath.blogspot.com/2022/05/reflecting-on-past.html) of [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), 
 > The Online Math Club is an initiative to reach high school students interested in math and give them a platform to learn more and interact with others. The Club aims to increase exposure to olympiad mathematics and advanced mathematics. And OMC is free and open to all!
+* The [Online Math Club 2.0](https://sites.google.com/view/online-math-club/home?authuser=0) is a student-run mathematical program that aims to help students from all over India and internationally prepare for mathematical olympiads. The team consists of a group of math enthusiasts who have taken part in these math olympiads in the past, many of whom are also IMO and EGMO medallists and awardees from the Indian National Mathematical Olympiad. The classes run on a Discord server.
+  * There are weekly olympiad mathematics sessions on each Saturday and Sunday. Through these classes, a wide range of olympiad mathematical topics are covered that are required for RMO and INMO preparation in each of Combinatorics, Geometry, Number Theory and Algebra, starting from the basics and building up to several advanced topics over the course of the year. [This page](https://sites.google.com/view/online-math-club/overview?authuser=0) contains further details. 
 
 * [Blog](https://www.omath.club/)
 * On [YouTube](https://www.youtube.com/@omath)
