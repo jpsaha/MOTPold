@@ -8,11 +8,11 @@ items:
   icon_class: fas fa-chalkboard
 
 - url: /matholympiad/
-  name: MO
+  name: Math Olympiad
   icon_class: fas fa-book-reader
 
 - url: /trainingprogram/
-  name: TP
+  name: Training Program
   icon_class: fas fa-book-reader
 
 - url: /algebra/
