@@ -44,9 +44,9 @@ collections:
         output: true
     assignments:
         output: true
-    mo:
+    matholympiad:
         output: true
-    tp:
+    trainingprogram:
         output: true
     algebra:
         output: true
@@ -68,14 +68,14 @@ defaults:
       layout: "assignment"
   - scope:
       path: ""
-      type: "mo"
+      type: "matholympiad"
     values:
-      layout: "moss"
+      layout: "matholympiadss"
   - scope:
       path: ""
-      type: "tp"
+      type: "trainingprogram"
     values:
-      layout: "tpss"
+      layout: "trainingprogramss"
   - scope:
       path: ""
       type: "algebra"
