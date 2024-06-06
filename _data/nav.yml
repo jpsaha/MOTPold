@@ -15,6 +15,10 @@ items:
   name: Training Program
   icon_class: fas fa-book-reader
 
+- url: /eligibility/
+  name: Eligibility
+  icon_class: fas fa-book-reader
+
 - url: /algebra/
   name: Algebra
   icon_class: fas fa-book-reader
