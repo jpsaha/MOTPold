@@ -2,6 +2,7 @@
 layout: page
 title: Home
 ---
+:email: jpsaha@iiserb.ac.in
 
 <i class="fas fa-phone-square"></i>
 
