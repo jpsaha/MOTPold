@@ -13,8 +13,17 @@
 
       <div class="footer-col  footer-col-2">
        <ul class="social-media-list">
-     
 
+         
+          {% if site.email_username %}
+  <li>
+    <a href="mailto:{{ site.email_username }}" class="social-links__entry" target="_blank">
+      <i class="fab fa-envelope-square" style="color:gray"></i>
+    </a>
+  </li>
+
+{% endif %}
+         
           {% if site.github_username %}
   <li>
     <a href="https://{{ site.github_username }}.github.io">
