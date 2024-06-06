@@ -164,5 +164,12 @@ Participation of India in <span style="color: green"> **International** </span> 
   * [Gunjan Aggarwal](https://www.egmo.org/people/person1867/), participated in 2022 (B), 2023 (S), 2024 (S),
   * [Sanjana Philo Chacko](https://www.egmo.org/people/person2283/), participated in 2023 (B), 2024 (S),
   * [Sunaina Pati](https://www.egmo.org/people/person2282/), participated in 2023 (S).
- 
-  
+
+## Let's go through a few problems
+
+* [A1](static_files/slides/3Mod4NotSumOfTwoSq.pdf)
+* [C1](static_files/slides/Putnam2002A2.pdf)
+* [C2](static_files/slides/RUSMMO2015Grade11Day1P5.pdf)
+* [G1](static_files/slides/Among5PtsIn2by2SqTwoPtsAreSqrt2.pdf)
+* [N1](static_files/slides/AUTJRC2022P4.pdf)
+* [N2](static_files/slides/AUSMC1984.pdf)
