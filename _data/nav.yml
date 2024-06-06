@@ -37,7 +37,7 @@ items:
 
 - url: /resources/
   name: Resources
-  icon_class: fas fa-book
+  icon_class: fas fa-folder-open
 
 - url: /slides/
   name: Slides
