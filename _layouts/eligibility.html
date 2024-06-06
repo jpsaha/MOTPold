@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for eli in site.eligibility %}
+      <li class="archiveposturl" style="background: transparent">
+            {% if eli.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ eli.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ eli.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+        <span><a href="{{ eli.url | prepend: site.baseurl}}">{{ eli.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download pdf (pdf)" href="{{ eli.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
+{% if eli.tex %}
+&nbsp; <a title="Download tex (tex)" href="{{ eli.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% endif %}
+</strong> 
+      </li>
+{% endfor %}
+</ul>
