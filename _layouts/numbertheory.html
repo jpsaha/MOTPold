@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for numbth in site.numbertheory %}
+      <li class="archiveposturl" style="background: transparent">
+            {% if numbth.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ numbth.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ numbth.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+        <span><a href="{{ numbth.url | prepend: site.baseurl}}">{{ numbth.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<a title="Download pdf (pdf)" href="{{ numbth.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
+{% if numbth.tex %}
+&nbsp; <a title="Download tex (tex)" href="{{ numbth.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% endif %}
+</strong> 
+      </li>
+{% endfor %}
+</ul>
