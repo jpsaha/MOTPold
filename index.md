@@ -2,6 +2,30 @@
 layout: page
 title: Home
 ---
+
+## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
+
+## [Mathematics Olympiad](https://jpsaha.github.io/MOTP/matholympiad/)
+
+## [Training Program](https://jpsaha.github.io/MOTP/trainingprogram/)
+
+## [Mathematical Olympiad program in India](https://jpsaha.github.io/MOTP/eligibility/)
+
+## [Resources](https://jpsaha.github.io/MOTP/resources/)
+
+## [Slides](https://jpsaha.github.io/MOTP/slides/)
+
+## Handouts 
+* [Algebra](https://jpsaha.github.io/MOTP/algebra/)
+* [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)
+* [Geometry](https://jpsaha.github.io/MOTP/geometry/)
+* [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)
+
+
+## [Updates](https://jpsaha.github.io/MOTP/updates/)
+
+
+
 <!--
 #### Table of contents
 * [Problem Solving Sessions at IISER Bhopal](#Problem-Solving-Sessions-at-IISER-Bhopal)
