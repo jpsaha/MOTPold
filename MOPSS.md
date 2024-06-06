@@ -37,4 +37,4 @@ permalink: /MOPSS/
 * [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) since [2015](https://www.apmo-official.org/country_report/IND/all). 
 * [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) since [2015](https://www.egmo.org/countries/country35/).
 
-If you (the reader!) are aware of these Olympiads, and would like to prepare for them, then you may wish to know about a few training programs. 
+If you (the reader!) are aware of these Olympiads, and would like to prepare for them, then you may wish to know about [a few training programs](https://jpsaha.github.io/MOTP/trainingprogram/). 
