@@ -3,6 +3,14 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
+- url: /mo/
+  name: MO
+  icon_class: fas fa-book-reader
+
+- url: /tp/
+  name: TP
+  icon_class: fas fa-book-reader
+
 - url: /algebra/
   name: Algebra
   icon_class: fas fa-book-reader
