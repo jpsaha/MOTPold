@@ -3,13 +3,13 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /matholympiad/
-  name: MO
-  icon_class: fas fa-book-reader
-
 - url: /MOPSS/
   name: MOPSS
   icon_class: fas fa-chalkboard
+
+- url: /matholympiad/
+  name: MO
+  icon_class: fas fa-book-reader
 
 - url: /trainingprogram/
   name: TP
