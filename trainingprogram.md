@@ -58,29 +58,3 @@ permalink: /trainingprogram/
 * [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
 * [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
 * [Tournament of Towns](https://www.turgor.ru/en/)
-
-
-## The following provides some information about
-* **[International]()** Mathematical Olympiad**[s]()**, 
-* Participation of India in these **[International]()** Mathematical Olympiad**[s]()**, and
-* The [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE).
-<!-- ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the [International]() Mathematical Olympiad[s](). <span style="color: red"> No other contests are recognized. </span> -->
-
-<!--
-* **THE** <span style="color: green"> **International** </span> **Mathematical Olympiad**<span style="color: green">**s**</span>, <br>
-* Participation of India in these <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>, and <br>
-* ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the <span style="color: green"> International </span> Mathematical Olympiads. <span style="color: red"> No other contests are recognized. </span>
--->
-<!--
-Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
--->
-
-[Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
-
->The nations which do consistently well at this competition (IMO) must have at least one (and probably at least two) of the following attributes:
-> * A large population.
-> * A significant proportion of its population in receipt of a good education.
-> * A well-organized training infrastructure to support mathematics competitions.
-> * A culture which values intellectual achievement.
->
-> Alternatively, you need a cloning facility and a relaxed regulatory framework.
