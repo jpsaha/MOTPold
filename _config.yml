@@ -46,6 +46,8 @@ collections:
         output: true
     matholympiad:
         output: true
+    eligibility:
+        output: true
     trainingprogram:
         output: true
     algebra:
@@ -76,6 +78,11 @@ defaults:
       type: "trainingprogram"
     values:
       layout: "trainingprogramss"
+  - scope:
+      path: ""
+      type: "eligibility"
+    values:
+      layout: "eligibilityss"
   - scope:
       path: ""
       type: "algebra"
