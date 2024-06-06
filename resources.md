@@ -64,6 +64,11 @@ permalink: /resources/
 * The IMO compendium by Djukić, Janković, Matić, Petrović.
 * [Contest collections](https://artofproblemsolving.com/community/c13_contests) at [AoPS](https://artofproblemsolving.com/).
 
+
+## [AoPS](https://artofproblemsolving.com/)
+* On [Art of Problem-Solving](https://artofproblemsolving.com/), there is an [archive](https://artofproblemsolving.com/community/c13_contest_collections) of problems from basically every Math Contest, together with community-contributed solutions.
+
+
 ## Additional resources/links
 
 #### An [Olympiad Math Blog](https://sunainalovesmath.blogspot.com/) maintained by [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), [participated](https://www.egmo.org/people/person2282/) in EGMO in 2023 (S).
