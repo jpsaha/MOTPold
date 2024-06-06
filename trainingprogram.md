@@ -61,7 +61,7 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
   > STEMS (Scholastic Test of Excellence in Mathematical Sciences) is an annual first-of-its-kind open resource examination conducted for students from 8th grade to undergraduates across India. The exam will be held in Mathematics, Physics, and (theoretical) Computer Science in December. The relaxed duration of the exam and original conceptual questions promote academic creativity over rote learning and research interest, increasing the interest and awareness of mathematical sciences amongst the students.
   * Camp
   > About 30 of the best scorers across the three disclipines of STEMS will be selected for a 3-day, fully-funded camp at CMI. Past students selected for this camp include various medalists at the IMO, IOI and few of the brightest school and college students across India.
-    * [STEMS 2024 Final Camp](https://www.youtube.com/playlist?list=PLNh_spmAPSMFiwJDjfWZVa_NQX6yohx-C)
+  * [STEMS 2024 Final Camp](https://www.youtube.com/playlist?list=PLNh_spmAPSMFiwJDjfWZVa_NQX6yohx-C)
 * [PROMYS India](https://promys-india.org/)
   > A challenging six-week residential mathematics summer programme, PROMYS India is open to mathematically talented secondary and higher secondary students (Standards IX - XII or equivalent). Meticulously selected students from across India will gather on the campus of the Indian Institute of Science (IISc) Bengaluru to immerse themselves in rigorous mathematics.
   
