@@ -7,6 +7,10 @@ items:
   name: MO
   icon_class: fas fa-book-reader
 
+- url: /MOPSS/
+  name: MOPSS
+  icon_class: fas fa-chalkboard
+
 - url: /tp/
   name: TP
   icon_class: fas fa-book-reader
@@ -34,10 +38,6 @@ items:
 - url: /slides/
   name: Slides
   icon_class: fas fa-tv
-
-- url: /MOPSS/
-  name: MOPSS
-  icon_class: fas fa-chalkboard
 
 - url: /updates/
   name: Updates
