@@ -4,6 +4,20 @@ title: Training Program
 permalink: /trainingprogram/
 ---
 
+Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from [Evan Chen](https://web.evanchen.cc/) regarding the preparation of Math Olympiad. 
+
+> * Pick up any standard textbook to work through, so you learn some of the standard theory that is tested in math contests. 
+> * Go through some past problems from previous contests. 
+> * Rope some friends into learning with you. It’s more fun that way, and you can learn from each other. 
+> * You should repeat these steps until you have some comfort with the kinds of problems that appear.
+> * As you get experience, you will automatically start to know what deep understanding feels like. 
+> * Be aware that you will see many, many problems which you can’t solve, where you read the solution and ask, “how was I supposed to think of that?”. This is okay and expected: it’s not because you’re dumb, it’s because you are learning.
+
+<!--
+> [!NOTE]
+> The above are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0) from Evan Chen.
+-->
+
 ## [A few training programs](https://jpsaha.github.io/MOTP/resources/)
 
 #### The [<span style="color: royalblue"> **OTIS program**</span>](https://web.evanchen.cc/otis.html)
