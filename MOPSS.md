@@ -4,7 +4,11 @@ title: MOPSS
 permalink: /MOPSS/
 ---
 
+<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
+      <i class="fas fa-fw fa-envelope" style="color:gray"></i> {{ site.email_username }}
+    </a>
 
+    
 <!--{% include image.html url="/_images/pp/MOPSS.jpg" width=175 align="right" %} -->
 <!--{% include image.html url="/_images/pp/MOPSS.jpg" width=175 align="left" %} -->
 
