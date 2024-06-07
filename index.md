@@ -42,7 +42,7 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
   
 
 ## [Slides](https://jpsaha.github.io/MOTP/slides/)
-* The abobve is a repository of the slides of some of the talks about Mathematical Olympiad. 
+* The above is a repository of the slides of some of the talks about Mathematical Olympiad. 
 
 
 ## Handouts 
