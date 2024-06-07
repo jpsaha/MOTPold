@@ -55,7 +55,8 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 * It is a math club founded by [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), which aims to motivate the elementary and middle school students to do Mathematics but in a fun way. The club wants to spread the awareness towards non-routine mathematics.
 
 ## Programs, Camps, Contests and further Olympiads
-
+* [Maths Beyond Limits](https://mathsbeyondlimits.eu/mbl/)
+* [Maths Beyond Limits Balkans](https://mathsbeyondlimits.eu/balkans/)
 * [STEMS](https://tessellate.cmi.ac.in/stems/)
   * Test
   > STEMS (Scholastic Test of Excellence in Mathematical Sciences) is an annual first-of-its-kind open resource examination conducted for students from 8th grade to undergraduates across India. The exam will be held in Mathematics, Physics, and (theoretical) Computer Science in December. The relaxed duration of the exam and original conceptual questions promote academic creativity over rote learning and research interest, increasing the interest and awareness of mathematical sciences amongst the students.
