@@ -105,8 +105,21 @@ permalink: /resources/
   * He also [maintains](https://web.evanchen.cc/discord.html) a [Discord server](https://discord.gg/KzFXYwqRFX). 
 
 ##### Some of the posts from his blog [Power Overwhelming](https://blog.evanchen.cc/)
+
+* [Writing Olympiad Geometry](https://blog.evanchen.cc/2014/07/01/writing-olympiad-geometry/)
+* [Some Advice for Olympiad Geometry](https://blog.evanchen.cc/2016/01/19/some-advice-for-olympiad-geometry/)
+* [Against the “Research vs. Olympiads” Mantra](https://blog.evanchen.cc/2016/08/13/against-the-research-vs-olympiads-mantra/)
+* [Stop Paying Me Per Hour](https://blog.evanchen.cc/2016/02/07/stop-paying-me-per-hour/)
+* [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/)
+* [An opening speech for MOP](https://blog.evanchen.cc/2019/06/01/an-opening-speech-for-mop/)
+* [IMO 2019 Aftermath](https://blog.evanchen.cc/2019/07/23/imo-2019-aftermath/)
+* [MOHS hardness scale](https://blog.evanchen.cc/2019/11/26/mohs-hardness-scale/)
 * [USEMO Problem Development, Behind the Scenes](https://blog.evanchen.cc/2020/12/16/usemo-problem-development-behind-the-scenes/)
+* [MOHS was a mistake](https://blog.evanchen.cc/2024/01/05/mohs-was-a-mistake/)
+* [January newsflash](https://blog.evanchen.cc/2024/01/18/january-newsflash/)
 * [Against exploitable rubrics](https://blog.evanchen.cc/2024/02/01/rubrics/)
+
+
 <!--
 #### [The Sophie Fellowship](https://www.sophiefellowship.in/home) --- Training program and fellowship for students preparing for IMO, EGMO, INMO and other national and international mathematical competitions.
   * It is run by a bunch of students who really like math and want to spread it further in the country.
