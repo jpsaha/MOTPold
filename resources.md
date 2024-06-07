@@ -112,6 +112,7 @@ permalink: /resources/
 * [Stop Paying Me Per Hour](https://blog.evanchen.cc/2016/02/07/stop-paying-me-per-hour/)
 * [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/)
 * [A few shockingly linear graphs](https://blog.evanchen.cc/2018/12/10/a-few-shockingly-linear-graphs/)
+  * A [working paper](https://www.imf.org/~/media/Files/Publications/WP/2018/wp18268.ashx) by economists Ruchir Agarwal and Patrick Gaulé. 
 * [Math contest platitudes, v3](https://blog.evanchen.cc/2019/01/31/math-contest-platitudes-v3/)
   * [What leads to success at math contests?](https://blog.evanchen.cc/2014/07/27/what-leads-to-success-at-math-contests/)
   * [Stop looking for the "right" training](https://artofproblemsolving.com/community/c5h520900)
