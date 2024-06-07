@@ -32,7 +32,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 
 ## [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
-* The [IMO Foundation](https://imof.co/) is a charity which supports the IMO.
+* The [IMO Foundation](https://imof.co/) is a charity which supports the IMO. Its [vision](https://imof.co/) is as follows. 
 
 > It is the aim of the IMO to bring young people together from all over the world to enjoy the challenges of mathematics in a spirit of friendly competition. This provides a stimulus for Mathematics in each of the participating countries as young people strive for selection. Whist clearly it is a competitive event, for most participants, it is the people that they meet and the shared joy of discovery that is what they regard as most worthwhile. It is common that lifelong friendships are forged at IMO events.
 
