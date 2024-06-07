@@ -20,7 +20,7 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 
 ## [Training Program](https://jpsaha.github.io/MOTP/trainingprogram/)
 * A few training programs have been mentioned as [this page](https://jpsaha.github.io/MOTP/trainingprogram/), including
-  * The [<span style="color: royalblue"> **OTIS program**</span>](https://web.evanchen.cc/otis.html)
+  * [<span style="color: royalblue"> **The OTIS program**</span>](https://web.evanchen.cc/otis.html)
     * Olympiad Training for Individual Study, run by [Evan Chen](https://web.evanchen.cc/) and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**.
   * [<span style="color: royalblue"> **The Sophie Fellowship**</span>](https://www.sophiefellowship.in/home)
     * An initiative run by a bunch of students who really like math and want to spread it further in the country. They aim to improve the quality of math education in India by making Olympiad math more accessible, as well as improve the gender ratio in the mathematical community.
