@@ -3,11 +3,6 @@ layout: MOPSS
 title: MOPSS
 permalink: /MOPSS/
 ---
-
-<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
-      <i class="fas fa-fw fa-envelope" style="color:gray"></i> {{ site.email_username }}
-    </a>
-
     
 <!--{% include image.html url="/_images/pp/MOPSS.jpg" width=175 align="right" %} -->
 <!--{% include image.html url="/_images/pp/MOPSS.jpg" width=175 align="left" %} -->
@@ -28,9 +23,15 @@ permalink: /MOPSS/
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
   * For more information, you may write to
-    * Jyoti Prakash Saha (<i class="fas fa-envelope"></i>: jpsaha@iiserb.ac.in),
-    * Kartick Adhikari (<i class="fas fa-envelope"></i>: kartick@iiserb.ac.in),
-    * Manas Kar (<i class="fas fa-envelope"></i>: manas@iiserb.ac.in). 
+    * Jyoti Prakash Saha (<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
+      <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
+    </a>),
+    * Kartick Adhikari (<a href="mailto:{{ kartick@iiserb.ac.in }}?subject=[MOPSS]"> 
+      <i class="fas fa-envelope" style="color:gray"></i> {{ kartick@iiserb.ac.in }}
+    </a>),
+    * Manas Kar (<a href="mailto:{{ manas@iiserb.ac.in }}?subject=[MOPSS]"> 
+      <i class="fas fa-envelope" style="color:gray"></i> {{ manas@iiserb.ac.in }}
+    </a>). 
 
 ## <span style="color: royalblue"> Why math olympiads are a valuable experience for high schoolers </span>
 * The post by Evan Chen on [Lessons from math olympiads](https://blog.evanchen.cc/2018/01/05/lessons-from-math-olympiads/) is worth reading.
