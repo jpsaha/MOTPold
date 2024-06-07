@@ -31,8 +31,19 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 * [This page](https://jpsaha.github.io/MOTP/eligibility/) discusses the [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and the [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/) of the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE).
 
 ## [Resources](https://jpsaha.github.io/MOTP/resources/)
+* The title is self-explanatory. It includes
+  * References
+  * Problems and Solutions
+  * AoPS
+  * References to the webpages maintained by 
+    * Sunaina Pati
+    * Rohan Goyal
+    * Evan Chen
+  
 
 ## [Slides](https://jpsaha.github.io/MOTP/slides/)
+* The abobve is a repository of the slides of some of the talks about Mathematical Olympiad. 
+
 
 ## Handouts 
 The content provided in the following pages could be useful to the interested students. 
