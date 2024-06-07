@@ -119,6 +119,7 @@ permalink: /resources/
 * [IMO 2019 Aftermath](https://blog.evanchen.cc/2019/07/23/imo-2019-aftermath/)
 * [MOHS hardness scale](https://blog.evanchen.cc/2019/11/26/mohs-hardness-scale/)
 * [USEMO Problem Development, Behind the Scenes](https://blog.evanchen.cc/2020/12/16/usemo-problem-development-behind-the-scenes/)
+* [Everything I need is on the ground](https://blog.evanchen.cc/2023/03/11/everything-i-need-is-on-the-ground/)
 * [MOHS was a mistake](https://blog.evanchen.cc/2024/01/05/mohs-was-a-mistake/)
 * [January newsflash](https://blog.evanchen.cc/2024/01/18/january-newsflash/)
 * [Against exploitable rubrics](https://blog.evanchen.cc/2024/02/01/rubrics/)
