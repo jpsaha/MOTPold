@@ -4,6 +4,10 @@ title: Eligibility
 permalink: /eligibility/
 ---
 
+On the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/), it has been announced that <span style="color: fuchsia"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published on the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/) in the month of June 2024.**</span>
+
+On the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/), it has been announced that <span style="color: green"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published on the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/) in the month of June 2024.**</span>
+
 ## Mathematical Olympiad program in India
 
 * The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE) organizes the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India. 
