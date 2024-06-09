@@ -54,7 +54,16 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 #### [<span style="color: royalblue"> **The Philomath Club**</span>](https://thephillomathclub.weebly.com/)
 * It is a math club founded by [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), which aims to motivate the elementary and middle school students to do Mathematics but in a fun way. The club wants to spread the awareness towards non-routine mathematics.
 
-## Programs, Camps, Contests and further Olympiads
+## Further Olympiads, Contests, Programs, Camps
+
+* [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
+* [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
+* [Tournament of Towns](https://www.turgor.ru/en/)
+* [Purple Comet! Math Meet!](https://purplecomet.org/)
+  > A team mathematics competition designed for middle and high school students conducted annually since 2003. 
+
+* [International Tournament of Young Mathematicians](https://www.itym.org/)
+  > A team competition for high school students from all over the world. 
 * [Maths Beyond Limits](https://mathsbeyondlimits.eu/mbl/)
 * [Maths Beyond Limits Balkans](https://mathsbeyondlimits.eu/balkans/)
 * [STEMS](https://tessellate.cmi.ac.in/stems/)
@@ -66,12 +75,4 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 * [PROMYS India](https://promys-india.org/)
   > A challenging six-week residential mathematics summer programme, PROMYS India is open to mathematically talented secondary and higher secondary students (Standards IX - XII or equivalent). Meticulously selected students from across India will gather on the campus of the Indian Institute of Science (IISc) Bengaluru to immerse themselves in rigorous mathematics.
   
-* [Purple Comet! Math Meet!](https://purplecomet.org/)
-  > A team mathematics competition designed for middle and high school students conducted annually since 2003. 
 
-* [International Tournament of Young Mathematicians](https://www.itym.org/)
-  > A team competition for high school students from all over the world. 
-
-* [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
-* [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
-* [Tournament of Towns](https://www.turgor.ru/en/)
