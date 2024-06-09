@@ -59,11 +59,11 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 * [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
 * [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
 * [Tournament of Towns](https://www.turgor.ru/en/)
+* [International Tournament of Young Mathematicians](https://www.itym.org/)
+  > A team competition for high school students from all over the world. 
 * [Purple Comet! Math Meet!](https://purplecomet.org/)
   > A team mathematics competition designed for middle and high school students conducted annually since 2003. 
 
-* [International Tournament of Young Mathematicians](https://www.itym.org/)
-  > A team competition for high school students from all over the world. 
 * [Maths Beyond Limits](https://mathsbeyondlimits.eu/mbl/)
 * [Maths Beyond Limits Balkans](https://mathsbeyondlimits.eu/balkans/)
 * [STEMS](https://tessellate.cmi.ac.in/stems/)
