@@ -10,6 +10,8 @@ permalink: /MOPSS/
 ## [Mathematics Olympiad Problem Solving Sessions](https://jpsaha.github.io/MOTP/MOPSS/) (MOPSS)
 
 {% include image.html url="/_images/pp/MOPSS.jpg" width=800 align="center" %}
+<iframe src="/static_files/MOPSS/flyer.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 
   * The Department of Mathematics, IISER Bhopal, would be organizing a series of Mathematics Olympiad Problem Solving Sessions (MOPSS). 
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
@@ -21,7 +23,7 @@ permalink: /MOPSS/
   * Applications to be accepted <span style="color: royalblue"> **until 07th July, 2024** </span> through the <span style="color: royalblue"> Google form</span> posted at [**this link**](https://forms.gle/B9wQteEtGXvCj3AH9). 
   * In the Google form, the link to [**this problem set**](https://jpsaha.github.io/MOTP/MOPSS/PS0B24Aug) has been provided. While filling in the form, the solutions to these problems (or the details of the progress made) are to be submitted.
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
-  * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
+  * Please refer to the [flyer](MOTP/static_files/MOPSS/flyer.pdf) for further information.
   * For more information, you may write to
     * Jyoti Prakash Saha (<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
