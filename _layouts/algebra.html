@@ -13,17 +13,18 @@ layout: page
       </div>
     </div>
     {% endif %}
-            <p style="margin-bottom:3cm;">
+#            <p style="margin-bottom:3cm;">
         <span><a href="{{ alg.url | prepend: site.baseurl}}">{{ alg.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
 {% if alg.tex %}
 &nbsp; <a title="Download tex (tex)" href="{{ alg.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
 {% endif %}
-      {% if alg.pdf %}
-<iframe src="/MOTP/{{ alg.pdf }}" width="30%" height="150" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-      {% endif %}
-</strong> </p>
+#      {% if alg.pdf %}
+#<iframe src="/MOTP/{{ alg.pdf }}" width="30%" height="150" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+#      {% endif %}
+</strong> 
+#            </p>
       </li>
 {% endfor %}
 </ul>
