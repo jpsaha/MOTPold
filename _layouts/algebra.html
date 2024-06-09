@@ -8,25 +8,23 @@ layout: page
       <li class="archiveposturl" style="background: transparent">
             {% if alg.thumbnail %}
     <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:50px;margin-bottom:50px;background-image: url('{{ alg.thumbnail | prepend: site.baseurl }}');">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ alg.thumbnail | prepend: site.baseurl }}');">
         <img src="{{ alg.thumbnail | prepend: site.baseurl }}"/>
       </div>
     </div>
     {% endif %}
-            <p style="margin-bottom:6cm;"> 
+<!--            <p style="margin-bottom:6cm;"> -->
         <span><a href="{{ alg.url | prepend: site.baseurl}}">{{ alg.title }}</a></span>
-                  <br>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
 {% if alg.tex %}
 &nbsp; <a title="Download tex (tex)" href="{{ alg.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
 {% endif %}
-      <br>
-      {% if alg.pdf %}
+<!--      {% if alg.pdf %}
  <iframe src="/MOTP/{{ alg.pdf }}" width="150%" height="150" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-      {% endif %} 
+      {% endif %} -->
 </strong> 
-            </p> 
+<!--            </p> -->
       </li>
 {% endfor %}
 </ul>
