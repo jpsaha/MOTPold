@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 
-<span style="color: fuchsia"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span>
+<span style="color: fuchsia"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span> Please visit the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/ for the relevant details. 
 
-<span style="color: green"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span>
+<span style="color: green"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span> Please visit the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/ for the relevant details. 
 
 <!--
 <i class="fas fa-phone-square"></i>
