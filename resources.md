@@ -156,4 +156,4 @@ permalink: /resources/
   * <iframe src="https://mathstodon.xyz/@tao/111002007618655272/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mathstodon.xyz/embed.js" async="async"></script>
   * Evan Chen on [Writing](https://blog.evanchen.cc/2015/03/14/writing/)
   > what is the purpose of writing? It turns out that there is one, and ... It’s that writing clarifies thinking.
-  * .
+  * Nikhil Banerjee provides advice on studying Indian Music [practice](https://www.youtube.com/watch?v=tXLBiQrySGA&t=939s) during 15:39--16:31. 
