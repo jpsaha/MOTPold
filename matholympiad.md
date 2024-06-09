@@ -175,6 +175,6 @@ Participation of India in <span style="color: green"> **International** </span> 
 
 
      
-<iframe src="/MOTP/{{ static_files/slides/3Mod4NotSumOfTwoSq.pdf }}" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/3Mod4NotSumOfTwoSq.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
      
       
