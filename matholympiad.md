@@ -179,6 +179,11 @@ Participation of India in <span style="color: green"> **International** </span> 
 <iframe src="/MOTP/static_files/slides/Putnam2002A2.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
     -->
 
-<iframe src="/MOTP/static_files/slides/3Mod4NotSumOfTwoSq.pdf" src="/MOTP/static_files/slides/Putnam2002A2.pdf" src="/MOTP/static_files/slides/RUSMMO2015Grade11Day1P5.pdf" src="/MOTP/static_files/slides/Among5PtsIn2by2SqTwoPtsAreSqrt2.pdf" src="/MOTP/static_files/slides/AUTJRC2022P4.pdf" src="/MOTP/static_files/slides/AUSMC1984.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/3Mod4NotSumOfTwoSq.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/Putnam2002A2.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/RUSMMO2015Grade11Day1P5.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/Among5PtsIn2by2SqTwoPtsAreSqrt2.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/AUTJRC2022P4.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/MOTP/static_files/slides/AUSMC1984.pdf" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
      
       
