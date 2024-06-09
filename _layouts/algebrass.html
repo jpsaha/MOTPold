@@ -24,6 +24,9 @@ title: page.title
       [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
       {% endif %}
     </p>
+      {% if page.pdf %}
+<iframe src="/MOTP/{{ page.pdf }}" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+      {% endif %}
 <!--
     <div style="color: gray;">
       <h3>Late Policy</h3>
