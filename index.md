@@ -7,14 +7,6 @@ title: Home
 
 <span style="color: green"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span>
 
-<span style="color: lime"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span>
-
-<span style="color: purple"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span>
-
-<span style="color: navy"> **IOQM 2024 will be held at centers across India on Sunday, 8th September 2024. Further details will be published in the month of June 2024.**</span>
-
-
-
 <!--
 <i class="fas fa-phone-square"></i>
 <a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-phone-square"></i></a> 
