@@ -55,6 +55,10 @@ collections:
         output: true
     combinatorics:
         output: true
+    geometry:
+        output: true
+    numbertheory:
+        output: true
     slides:
         output: true
     MOPSS:
@@ -94,6 +98,11 @@ defaults:
       type: "combinatorics"
     values:
       layout: "combinatoric"
+  - scope:
+      path: ""
+      type: "numbertheory"
+    values:
+      layout: "numbertheoryss"
   - scope:
       path: ""
       type: "slides"
