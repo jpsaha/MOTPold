@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: geometry
 title: Geometry
 permalink: /geometry/
 ---
