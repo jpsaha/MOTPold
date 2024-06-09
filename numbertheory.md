@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: numbertheory
 title: Number Theory
 permalink: /numbertheory/
 ---
