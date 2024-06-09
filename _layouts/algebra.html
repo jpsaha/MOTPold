@@ -13,6 +13,7 @@ layout: page
       </div>
     </div>
     {% endif %}
+            <p style="margin-bottom:3cm;">
         <span><a href="{{ alg.url | prepend: site.baseurl}}">{{ alg.title }}</a></span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
 <a title="Download pdf (pdf)" href="{{ alg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
@@ -22,7 +23,7 @@ layout: page
       {% if alg.pdf %}
 <iframe src="/MOTP/{{ alg.pdf }}" width="10%" height="50" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
       {% endif %}
-</strong> 
+</strong> </p>
       </li>
 {% endfor %}
 </ul>
