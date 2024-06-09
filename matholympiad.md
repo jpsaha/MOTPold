@@ -172,3 +172,9 @@ Participation of India in <span style="color: green"> **International** </span> 
 * [G1](static_files/slides/Among5PtsIn2by2SqTwoPtsAreSqrt2.pdf)
 * [N1](static_files/slides/AUTJRC2022P4.pdf)
 * [N2](static_files/slides/AUSMC1984.pdf)
+
+
+     
+<iframe src="/MOTP/{{ static_files/slides/3Mod4NotSumOfTwoSq.pdf }}" width="50%" height="250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+     
+      
