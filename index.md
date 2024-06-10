@@ -28,12 +28,9 @@ title: Home
 
 
 -------
-<h2 align="center">👋 The layout and the content of this website --- a brief description. </h2>
+<h2 align="center">👋 The layout and the content of [this website](https://jpsaha.github.io/MOTP/) --- a brief description. </h2>
 
 
-<br>
-A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), and its content is provided below. 
-<br>
 
 | Page | Description |
 | :---: | :--- |
