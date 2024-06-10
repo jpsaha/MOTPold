@@ -164,6 +164,23 @@ Participation of India in <span style="color: green"> **International** </span> 
   * [Sanjana Philo Chacko](https://www.egmo.org/people/person2283/), participated in 2023 (B), 2024 (S),
   * [Sunaina Pati](https://www.egmo.org/people/person2282/), participated in 2023 (S).
 
+## [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
+
+## [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
+
+## [Tournament of Towns](https://www.turgor.ru/en/)
+
+
+  * Ananda Bhaduri qualified for the final round of the Sharygin Olympiad in 2020 and 2021. He also received a Silver medal in IMO2023.
+  * Gunjan Aggarwal received a Silver medal in IGO (Iranian Geometry Olympiad). She has a qualifier diploma in the Sharygin Geometry Olympiad and a Diploma in Tournament of Towns.
+  * Amaan Khan qualified for the final round of the Sharygin Olympiad in 2020 and won a 3rd diploma.
+  * Atul Nadig received a Silver medal in IGO (Iranian Geometry Olympiad) 2022.
+  * Adhitya Venkata Ganesh Mangudy received a Gold medal in IGO 2019, and a Bronze medal in IGO 2023.
+  * Kanav Talwar received a Bronze medal in IGO.
+  * Rohan Goyal received a Silver medal in IGO 2021.
+  * Anish Y. Kulkarni received a Bronze medal in IGO 2021.
+  * Pranjal Srivastava received a Bronze medal in IGO 2021.
+
 ## Let's go through a few problems
 
 * [A1](static_files/slides/3Mod4NotSumOfTwoSq.pdf)
