@@ -22,10 +22,10 @@ title: Home
 | `Math Olympiad` |  [Math Olympiad](https://jpsaha.github.io/MOTP/matholympiad/)   |   [This page](https://jpsaha.github.io/MOTP/matholympiad/) provides some information about **International** Mathematical Olympiad**s**, and participation of India in these **International** Mathematical Olympiad**s**.  |
 | `Training Program` |     |     |
 | `Eligibility` |     |     |
-| `Algebra` |     |     |
-| `Combinatorics` |     |     |
-| `Geometry` |     |     |
-| `Number Theory` |     |     |
+| `Algebra` |  [Algebra](https://jpsaha.github.io/MOTP/algebra/)   |  Several handouts on Algebra have been posted on this page.   |
+| `Combinatorics` |  [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)   |  Several handouts on Combinatorics have been posted on this page.   |
+| `Geometry` |   [Geometry](https://jpsaha.github.io/MOTP/geometry/)  |  Several handouts on Geometry have been posted on this page.   |
+| `Number Theory` |  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Several handouts on Number Theory have been posted on this page.   |
 | `Resources` |  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes References, Problems and Solutions, AoPS, and References to the webpages maintained by Sunaina Pati, Rohan Goyal, Evan Chen.  |
 | `Slides` |  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 | `Updates` |   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
