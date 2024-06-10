@@ -26,8 +26,7 @@ title: Home
 | `Combinatorics` |     |     |
 | `Geometry` |     |     |
 | `Number Theory` |     |     |
-| `Resources` |  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes References, Problems and Solutions, AoPS, and References to the webpages maintained by 
-Sunaina Pati, Rohan Goyal, Evan Chen   |
+| `Resources` |  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes References, Problems and Solutions, AoPS, and References to the webpages maintained by Sunaina Pati, Rohan Goyal, Evan Chen   |
 | `Slides` |  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 | `Updates` |   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
 
