@@ -41,7 +41,7 @@ title: Home
 |     |     |     |
 | `Updates` |   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
 
-
+<!--
 <details>
 
 <summary>Tips for collapsed sections</summary>
@@ -49,7 +49,7 @@ title: Home
 Some collapsed content
 
 </details>
-
+-->
 
 <!--
 <i class="fas fa-phone-square"></i>
