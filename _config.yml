@@ -64,6 +64,8 @@ collections:
         output: true
     MOPSS:
         output: true
+    sitemap:
+        output: true
     announcements:
         output: false
 
@@ -114,6 +116,11 @@ defaults:
       type: "MOPSS"
     values:
       layout: "MOPS"
+  - scope:
+      path: ""
+      type: "sitemap"
+    values:
+      layout: "sitemapss"
   - scope:
       path: ""
       type: "updates"
