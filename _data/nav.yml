@@ -3,10 +3,6 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /sitemap/
-  name: Site Map
-  icon_class: fas fa-chalkboard
-
 - url: /MOPSS/
   name: MOPSS
   icon_class: fas fa-chalkboard
