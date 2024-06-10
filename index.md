@@ -26,6 +26,11 @@ title: Home
 
 -------
 
+
+-------
+<h2 align="center">👋 The layout and the content of this website --- a brief description. </h2>
+
+
 <br>
 A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), and its content is provided below. 
 <br>
@@ -57,6 +62,9 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 | `Updates` <br>   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
 |     |     |     
 | `Footer` <br>    |   The footer of this page has several links.  |
+
+
+-------
 
 <!--
 <details>
