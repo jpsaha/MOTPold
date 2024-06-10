@@ -17,9 +17,9 @@ title: Home
 <h2 align="center">👋 Goal of this website. </h2>
 
 - To provide a brief introduction to Mathematical Olympiad.
-- To serve as a website for the MOPSS program at IISER Bhopal, to be held in person, from August 2024 to November 2024.
+- To serve as a website for the [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) program at IISER Bhopal, to be held in person, from August 2024 to November 2024.
   - We have plans to post notes containing the details of those sessions. 
-- To provide handouts on the topics of Algebra, Combinatorics, Geometry, and Number Theory, and to keep it posted in an organized manner across different sub-topics.
+- To provide handouts on the topics of [Algebra](https://jpsaha.github.io/MOTP/algebra/), [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/), [Geometry](https://jpsaha.github.io/MOTP/geometry/), and [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/), and to keep it posted in an organized manner across different sub-topics.
   - These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.
   - These notes may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. 
 - To provide assistance to anyone on Mathematics Olympiad.
