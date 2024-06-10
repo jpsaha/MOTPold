@@ -16,7 +16,7 @@ permalink: /MOPSS/
 
   * The Department of Mathematics, IISER Bhopal, would be organizing a series of Mathematics Olympiad Problem Solving Sessions (MOPSS). 
   * The aim is to develop an interest in mathematics among the students by encouraging them to work on problems falling broadly within the scope of the Mathematical Olympiad.
-  * The forthcoming sessions will be held on the following dates, during 9:00am to 12:00pm.
+  * The forthcoming sessions will be held on the following dates, during 9:00am to 12:00pm in IISER Bhopal in person.
     * 3rd, 17th, 31st August, 2024.
     * 14th, 28th September, 2024.
     * 19th October, 2024.
