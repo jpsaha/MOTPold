@@ -14,9 +14,11 @@ title: Home
     </a> 
 
 -------
+A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), and its content is provided below. 
 
 | Page | Link | Description |
 | :--- | :---: | :--- |
+|   `Home`  |  [Home](https://jpsaha.github.io/MOTP/)   |   You are right here! Have a look! Scroll throughout the page!  |
 | `MOPSS` | [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) |  The Department of Mathematics, IISER Bhopal, would be organizing Mathematics Olympiad Problem Solving Sessions (MOPSS). Its aim is to develop an interest for mathematics among the students, through encouraging them to work on problems falling broadly within the scope of Mathematical Olympiad. Applications are invited from the interested students, enrolled in the 7th, 8th, 9th or 10th standard. The timetable and instructions for the application process may be found at [this page](https://jpsaha.github.io/MOTP/MOPSS/).    |
 |     |     |     |
 | `Math Olympiad` |  [Math Olympiad](https://jpsaha.github.io/MOTP/matholympiad/)   |   [This page](https://jpsaha.github.io/MOTP/matholympiad/) provides some information about <br> **International** Mathematical Olympiad**s**, and <br> Participation of India in these **International** Mathematical Olympiad**s**.  |
@@ -38,6 +40,7 @@ title: Home
 | `Slides` |  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 |     |     |     |
 | `Updates` |   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
+| `Footer` |     |   The footed of this page has several links.  |
 
 <!--
 <details>
