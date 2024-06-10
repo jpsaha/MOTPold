@@ -14,7 +14,9 @@ title: Home
     </a> 
 
 -------
+<br>
 A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), and its content is provided below. 
+<br>
 
 | Page | Link | Description |
 | :--- | :---: | :--- |
@@ -28,7 +30,7 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 |     |     |     |
 | `Eligibility` |   [Eligibility](https://jpsaha.github.io/MOTP/eligibility/)  |  This page discusses the [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and the [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/) of the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE). <br> These program leads to participation to the following three International Olympiads --- <br> [IMO](https://www.imo-official.org/), <br> [APMO](https://www.apmo-official.org/), <br> [EGMO](https://www.egmo.org/). |
 |     |     |     |
-| `Algebra` |  [Algebra](https://jpsaha.github.io/MOTP/algebra/)   |  Several handouts on Algebra have been posted on this page.   |
+| `Algebra` |  [Algebra](https://jpsaha.github.io/MOTP/algebra/)   |  Several handouts on Algebra have been posted on this page, and have been organized across different topics. These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.  Moreover, this may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. |
 |     |     |     |
 | `Combinatorics` |  [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)   |  Several handouts on Combinatorics have been posted on this page.   |
 |     |     |     |
@@ -42,7 +44,7 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 |     |     |     |
 | `Updates` |   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
 |     |     |     |
-| `Footer` |     |   The footed of this page has several links.  |
+| `Footer` |     |   The footer of this page has several links.  |
 
 <!--
 <details>
