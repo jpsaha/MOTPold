@@ -55,11 +55,8 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 #### [<span style="color: royalblue"> **The Philomath Club**</span>](https://thephillomathclub.weebly.com/)
 * It is a math club founded by [Sunaina Pati](https://www.cmi.ac.in/people/student-profile.php?id=sunaina.ug2023), which aims to motivate the elementary and middle school students to do Mathematics but in a fun way. The club wants to spread the awareness towards non-routine mathematics.
 
-## Further Olympiads, Contests, Programs, Camps
+## Contests, Programs, Camps
 
-* [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) ([Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php))
-* [Iranian Geometry Olympiad](https://igo-official.com/?lang=en)
-* [Tournament of Towns](https://www.turgor.ru/en/)
 * [International Tournament of Young Mathematicians](https://www.itym.org/)
   > A team competition for high school students from all over the world. 
 * [Purple Comet! Math Meet!](https://purplecomet.org/)
