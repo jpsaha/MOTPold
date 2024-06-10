@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive">
+{% for psb in site.sitemap %}
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="{{ psb.url | prepend: site.baseurl}}">{{ psb.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+<!-- <a title="Download pdf (pdf)" href="{{ psb.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> -->
+<!-- {% if psb.tex %}
+&nbsp; <a title="Download tex (tex)" href="{{ psb.tex | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a>
+{% endif %} -->
+</strong> 
+      </li>
+{% endfor %}
+</ul>
