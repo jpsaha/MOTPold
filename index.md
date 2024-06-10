@@ -35,7 +35,7 @@ title: Home
 |     |     |     |
 | `Number Theory` |  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Several handouts on Number Theory have been posted on this page.   |
 |     |     |     |
-| `Resources` |  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes References, Problems and Solutions, AoPS, and References to the webpages maintained by Sunaina Pati, Rohan Goyal, Evan Chen.  |
+| `Resources` |  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> AoPS, and <br> References to the webpages maintained by <br> Sunaina Pati, <br> Rohan Goyal, <br> Evan Chen.  |
 |     |     |     |
 | `Slides` |  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 |     |     |     |
