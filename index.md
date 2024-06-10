@@ -14,7 +14,7 @@ title: Home
     </a> 
 
 -------
-<h2 align="center">👋 The Goal of this website. </h2>
+<h2 align="center">👋 Goal of this website. </h2>
 
 - To provide a brief introduction to Mathematical Olympiad.
 - To serve as a website for the MOPSS program at IISER Bhopal, to be held in person, from August 2024 to November 2024.
@@ -32,7 +32,7 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 
 | Page | Link | Description |
 | :---: | :---: | :--- |
-|   `Home`  |  [Home](https://jpsaha.github.io/MOTP/)   |   You are right here! Have a look! Scroll throughout the page!  |
+|   `Home`  <br> [Home](https://jpsaha.github.io/MOTP/)   |   You are right here! Have a look! Scroll throughout the page!  |
 |     |     |     |
 | `MOPSS` | [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) |  The Department of Mathematics, IISER Bhopal, would be organizing Mathematics Olympiad Problem Solving Sessions (MOPSS). Its aim is to develop an interest for mathematics among the students, through encouraging them to work on problems falling broadly within the scope of Mathematical Olympiad. Applications are invited from the interested students, enrolled in the 7th, 8th, 9th or 10th standard. The timetable and instructions for the application process may be found at [this page](https://jpsaha.github.io/MOTP/MOPSS/).    |
 |     |     |     |
