@@ -25,6 +25,15 @@
 
 {% endif %}
          
+          {% if site.discord_username %}
+  <li>
+    <a rel="me" href="https://mathstodon.xyz/@{{ site.mathstodon_username }}">
+      <i class="fa-brands fa-discord" style="color:gray"></i> {{ site.discord_username }}
+    </a>
+  </li>
+
+{% endif %}
+         
           {% if site.email_username %}
   <li>
     <a href="mailto:{{ site.email_username }}"> 
