@@ -8,8 +8,8 @@ title: Home
 
 
 - 🔭 I’m currently working at the Department of Mathematics, [IISER Bhopal](https://knowbe4.com) as an Assistant Professor
-- I am the Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region.
-- 📫 For any queries related to the Mathematics Olympiad program, please feel free to reach me at <a href="mailto:jpsaha@iiserb.ac.in?subject=[MOPSS]"> 
+- I am the **Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region**.
+- 📫 For any **queries related to the Mathematics Olympiad** program, please feel free to **reach me at** <a href="mailto:jpsaha@iiserb.ac.in?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> jpsaha@iiserb.ac.in
     </a> 
 
