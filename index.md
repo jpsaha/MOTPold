@@ -30,32 +30,32 @@ title: Home
 A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), and its content is provided below. 
 <br>
 
-| Page | Link | Description |
-| :---: | :---: | :--- |
+| Page | Description |
+| :---: | :--- |
 |   `Home`  <br> [Home](https://jpsaha.github.io/MOTP/)   |   You are right here! Have a look! Scroll throughout the page!  |
-|     |     |     |
+|     |     |     
 | `MOPSS` <br>  [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) |  The Department of Mathematics, IISER Bhopal, would be organizing Mathematics Olympiad Problem Solving Sessions (MOPSS). Its aim is to develop an interest for mathematics among the students, through encouraging them to work on problems falling broadly within the scope of Mathematical Olympiad. Applications are invited from the interested students, enrolled in the 7th, 8th, 9th or 10th standard. The timetable and instructions for the application process may be found at [this page](https://jpsaha.github.io/MOTP/MOPSS/).    |
-|     |     |     |
+|     |     |     
 | `Math Olympiad` <br> [Math Olympiad](https://jpsaha.github.io/MOTP/matholympiad/)   |   [This page](https://jpsaha.github.io/MOTP/matholympiad/) provides some information about <br> **International** Mathematical Olympiad**s**, and <br> Participation of India in these **International** Mathematical Olympiad**s**.  |
-|     |     |     |
+|     |     |     
 | `Training Program` <br>  [Training Program](https://jpsaha.github.io/MOTP/trainingprogram/)   |  A few training programs have been mentioned as [this page](https://jpsaha.github.io/MOTP/trainingprogram/), including <br> [<span style="color: royalblue"> **The OTIS program**</span>](https://web.evanchen.cc/otis.html) <br> (Olympiad Training for Individual Study, run by [Evan Chen](https://web.evanchen.cc/) and [people](https://web.evanchen.cc/otis.html#people), is **a proof-based olympiad training program, with over [300 students](https://web.evanchen.cc/upload/public-CV.pdf) per year from across the world**), <br> [<span style="color: royalblue"> **The Sophie Fellowship**</span>](https://www.sophiefellowship.in/home) <br> (An initiative run by a bunch of students who really like math and want to spread it further in the country. They aim to improve the quality of math education in India by making Olympiad math more accessible, as well as improve the gender ratio in the mathematical community.), <br> [<span style="color: royalblue"> **Online Math Club 2.0**</span>](https://sites.google.com/view/online-math-club) <br> (An initiative to reach high school students interested in math and give them a platform to learn more and interact with others. The Club aims to increase exposure to olympiad mathematics and advanced mathematics. And OMC is free and open to all!).|
-|     |     |     |
+|     |     |     
 | `Eligibility` <br>  [Eligibility](https://jpsaha.github.io/MOTP/eligibility/)  |  This page discusses the [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and the [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/) of the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE). <br> These program leads to participation to the following three International Olympiads --- <br> [IMO](https://www.imo-official.org/), <br> [APMO](https://www.apmo-official.org/), <br> [EGMO](https://www.egmo.org/). |
-|     |     |     |
+|     |     |     
 | `Algebra` <br>  [Algebra](https://jpsaha.github.io/MOTP/algebra/)   |  Several handouts on Algebra have been posted on this page, and have been organized across different topics. <br> These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.  Moreover, this may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. |
-|     |     |     |
+|     |     |     
 | `Combinatorics` <br>  [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)   |  Several handouts on Combinatorics have been posted on this page, and have been organized across different topics. <br> These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.  Moreover, this may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. |
-|     |     |     |
+|     |     |     
 | `Geometry` <br>  [Geometry](https://jpsaha.github.io/MOTP/geometry/)  |  Several handouts on Geometry have been posted on this page, and have been organized across different topics. <br> These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.  Moreover, this may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. |
-|     |     |     |
+|     |     |     
 | `Number Theory` <br>  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Several handouts on Number Theory have been posted on this page, and have been organized across different topics. <br> These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.  Moreover, this may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. |
-|     |     |     |
+|     |     |     
 | `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by <br> [Sunaina Pati](https://sunainalovesmath.blogspot.com/), <br> [Rohan Goyal](https://rgtdfg.blogspot.com/), <br> [Evan Chen](https://web.evanchen.cc/).  |
-|     |     |     |
+|     |     |     
 | `Slides` <br>  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
-|     |     |     |
+|     |     |     
 | `Updates` <br>   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
-|     |     |     |
+|     |     |     
 | `Footer` <br>    |   The footer of this page has several links.  |
 
 <!--
