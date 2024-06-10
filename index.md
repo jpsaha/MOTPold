@@ -40,6 +40,7 @@ A brief decription of the layout of [https://jpsaha.github.io/MOTP/](https://jps
 | `Slides` |  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 |     |     |     |
 | `Updates` |   [Updates](https://jpsaha.github.io/MOTP/updates/)  |   This page provides a list of the recent updates made.  |
+|     |     |     |
 | `Footer` |     |   The footed of this page has several links.  |
 
 <!--
