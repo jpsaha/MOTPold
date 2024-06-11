@@ -66,13 +66,13 @@ title: Home
 | `Eligibility` <br>  [Eligibility](https://jpsaha.github.io/MOTP/eligibility/)  |  This page discusses the [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and the [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/) of the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE). These program leads to participation to the following three International Olympiads --- [IMO](https://www.imo-official.org/), [APMO](https://www.apmo-official.org/), [EGMO](https://www.egmo.org/). |
 |     |     |     
 |     |     |     
-| `Algebra` <br>  [Algebra](https://jpsaha.github.io/MOTP/algebra/)   |  Several handouts on Algebra have been posted on this page, and have been organized across different topics. |
+| `Algebra` <br>  [Algebra](https://jpsaha.github.io/MOTP/algebra/)   |  Handouts on Algebra posted on this page, and organized across different topics. |
 |     |     |     
-| `Combinatorics` <br>  [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)   |  Several handouts on Combinatorics have been posted on this page, and have been organized across different topics. |
+| `Combinatorics` <br>  [Combinatorics](https://jpsaha.github.io/MOTP/combinatorics/)   |  Handouts on Combinatorics posted on this page, and organized across different topics. |
 |     |     |     
-| `Geometry` <br>  [Geometry](https://jpsaha.github.io/MOTP/geometry/)  |  Several handouts on Geometry have been posted on this page, and have been organized across different topics. |
+| `Geometry` <br>  [Geometry](https://jpsaha.github.io/MOTP/geometry/)  |  Handouts on Geometry posted on this page, and organized across different topics. |
 |     |     |     
-| `Number Theory` <br>  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Several handouts on Number Theory have been posted on this page, and have been organized across different topics. |
+| `Number Theory` <br>  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Handouts on Number Theory posted on this page, and organized across different topics. |
 |     |     |     
 |     |     |     
 | `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by [Sunaina Pati](https://sunainalovesmath.blogspot.com/), [Rohan Goyal](https://rgtdfg.blogspot.com/), [Evan Chen](https://web.evanchen.cc/).  |
