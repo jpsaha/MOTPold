@@ -14,7 +14,7 @@ title: Home
 
 -------
 
-<h2 align="center">👋 Goal of <a href="https://web.evanchen.cc/otis.html#staff">this website</a> (aka Why another website? What is its use?!) </h2>
+<h2 align="center">👋 Goal of <a href="https://jpsaha.github.io/MOTP/">this website</a> (aka Why another website? What is its use?!) </h2>
 
 - To provide a brief introduction to Mathematical Olympiad.
 - To serve as a website for the [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) program at IISER Bhopal, to be held in person, from August 2024 to November 2024.
@@ -48,7 +48,7 @@ title: Home
 -------
 
 -------
-<h2 align="center">👋 Layout and Content of <a href="https://web.evanchen.cc/otis.html#staff">this website</a> --- a brief description (aka Site map!). </h2>
+<h2 align="center">👋 Layout and Content of <a href="https://jpsaha.github.io/MOTP/">this website</a> --- a brief description (aka Site map!). </h2>
 
 | Page | Description |
 | :---: | :--- |
