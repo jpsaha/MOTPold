@@ -23,6 +23,7 @@ title: Home
   - These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.
   - These notes may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. 
 - To provide assistance to anyone on Mathematics Olympiad.
+
 -------
 <h2 align="center">👋 I am enthusiastic about math/math olympiads and/or teaching math to high schoolers. How I may contribute? </h2>
 
