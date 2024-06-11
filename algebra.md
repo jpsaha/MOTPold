@@ -4,7 +4,7 @@ title: Algebra
 permalink: /algebra/
 ---
 
-These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it. Moreover, this may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics.
+{% include notes-usage.html %}
 
 ## References/Resources
 
