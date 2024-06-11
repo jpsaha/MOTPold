@@ -26,20 +26,6 @@ permalink: /MOPSS/
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
   * For more information, you may write to
-
-
-|   Name    |    Email   |
-| :---: | :---: |
-|   `Jyoti Prakash Saha`  |  <a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username } </a>   |
-|     |     |   
-|   `Kartick Adhikari`  |    |
-|     |     |   
-|   `Manas Kar`  |  |
-|     |     |    
-
--------
-
-
     * Jyoti Prakash Saha (<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
     </a>),
