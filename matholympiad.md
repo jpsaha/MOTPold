@@ -30,6 +30,55 @@ Participation of India in <span style="color: green"> **International** </span> 
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 
+| Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   `Anant Mudgal`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=25764)  2015 (HM), 2016 (B), 2017 (B), 2018 (S)  | [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S) |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|  `Pranjal Srivastava`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=28249) 2018 (S), 2019 (G), 2021 (G), 2022 (G)  |   [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G)  |     |     | 2021 (B)|     |
+|      |     |      |      |                            |                           |                     |
+|  `Atul Shatavart Nadig`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31725) 2022 (B), 2023 (G)   |   [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G)  |     |     |   2022 (S)  |     |
+|      |     |      |      |                            |                           |                     |
+|   `Anushka Aggarwal`  |     |     |  [EGMO](https://www.egmo.org/people/person1429/) 2019 (B), 2020 (B), 2022 (B)  |     |     |     |
+|      |     |      |      |                            |                           |                     |
+|  `Ananda Bhaduri`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33405) 2023 (S)   |  [2023](https://www.apmo-official.org/country_report/IND/2023) (B)   |     |  Qualified for the final round in 2020 and 2021   |     |     |
+|      |     |      |      |                            |                           |                     |
+|   `Gunjan Aggarwal`  |     |     | [EGMO](https://www.egmo.org/people/person1867/) 2022 (B), 2023 (S), 2024 (S)    |  Qualified diploma   |  Silver   |   Diploma  |
+|      |     |      |      |                            |                           |                     |
+|  `Amaan Khan`   |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.   |      |     |
+|      |     |      |      |                            |                           |                     |
+|  `Adhitya Venkata Ganesh Mangudy`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31724) 2022 (B), 2023 (B)    |  [2022](https://www.apmo-official.org/country_report/IND/2022) (B), [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |     |     |  2019 (G), 2023 (B)   |     |
+|      |     |      |      |                            |                           |                     |
+|   `Ananya Rajas Ranade`   |     |      |  [EGMO](https://www.egmo.org/people/person1866/) 2021 (S), 2022 (B)    |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|   `Kanav Talwar`  |     |     |     |     |   Bronze  |     |
+|      |     |      |      |                            |                           |                     |
+|   `Rohan Goyal`  |     |     |     |     |  2021 (S)   |     |
+|      |     |      |      |                            |                           |                     |
+|  `Sanjana Philo Chacko`    |     |      | [EGMO](https://www.egmo.org/people/person2283/) 2023 (B), 2024 (S)   |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|  `Sunaina Pati`    |     |      |  [EGMO](https://www.egmo.org/people/person2282/) 2023 (S)    |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|   `Aditya Khurmi`   |     |  [2020](https://www.apmo-official.org/country_report/IND/2020) (B)    |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|   `Siddharth Choppara`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33406) 2023 (S)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (B)   |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|   `Arjun Gupta`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=31722) 2022 (B), 2023 (G)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+
+
+
+
+
+-------
+
 ## [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
 * The [IMO Foundation](https://imof.co/) is a charity which supports the IMO. Its [vision](https://imof.co/) is as follows. 
@@ -209,54 +258,6 @@ Participation of India in <span style="color: green"> **International** </span> 
 -->
 
 
-| Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|   `Anant Mudgal`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=25764)  2015 (HM), 2016 (B), 2017 (B), 2018 (S)  | [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S) |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|  `Pranjal Srivastava`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=28249) 2018 (S), 2019 (G), 2021 (G), 2022 (G)  |   [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G)  |     |     | 2021 (B)|     |
-|      |     |      |      |                            |                           |                     |
-|  `Atul Shatavart Nadig`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31725) 2022 (B), 2023 (G)   |   [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G)  |     |     |   2022 (S)  |     |
-|      |     |      |      |                            |                           |                     |
-|   `Anushka Aggarwal`  |     |     |  [EGMO](https://www.egmo.org/people/person1429/) 2019 (B), 2020 (B), 2022 (B)  |     |     |     |
-|      |     |      |      |                            |                           |                     |
-|  `Ananda Bhaduri`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33405) 2023 (S)   |  [2023](https://www.apmo-official.org/country_report/IND/2023) (B)   |     |  Qualified for the final round in 2020 and 2021   |     |     |
-|      |     |      |      |                            |                           |                     |
-|   `Gunjan Aggarwal`  |     |     | [EGMO](https://www.egmo.org/people/person1867/) 2022 (B), 2023 (S), 2024 (S)    |  Qualified diploma   |  Silver   |   Diploma  |
-|      |     |      |      |                            |                           |                     |
-|  `Amaan Khan`   |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.   |      |     |
-|      |     |      |      |                            |                           |                     |
-|  `Adhitya Venkata Ganesh Mangudy`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31724) 2022 (B), 2023 (B)    |  [2022](https://www.apmo-official.org/country_report/IND/2022) (B), [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |     |     |  2019 (G), 2023 (B)   |     |
-|      |     |      |      |                            |                           |                     |
-|   `Ananya Rajas Ranade`   |     |      |  [EGMO](https://www.egmo.org/people/person1866/) 2021 (S), 2022 (B)    |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|   `Kanav Talwar`  |     |     |     |     |   Bronze  |     |
-|      |     |      |      |                            |                           |                     |
-|   `Rohan Goyal`  |     |     |     |     |  2021 (S)   |     |
-|      |     |      |      |                            |                           |                     |
-|  `Sanjana Philo Chacko`    |     |      | [EGMO](https://www.egmo.org/people/person2283/) 2023 (B), 2024 (S)   |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|  `Sunaina Pati`    |     |      |  [EGMO](https://www.egmo.org/people/person2282/) 2023 (S)    |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|   `Aditya Khurmi`   |     |  [2020](https://www.apmo-official.org/country_report/IND/2020) (B)    |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|   `Siddharth Choppara`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33406) 2023 (S)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (B)   |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|   `Arjun Gupta`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=31722) 2022 (B), 2023 (G)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-
-
-
-
-
--------
 
 
 ## Let's go through a few problems
