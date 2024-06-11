@@ -30,7 +30,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 
-| Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
+| Name | [IMO](https://www.imo-official.org/) | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |   `Anant Mudgal`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=25764)  2015 (HM), 2016 (B), 2017 (B), 2018 (S)  | [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S) |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
