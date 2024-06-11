@@ -29,8 +29,8 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 -------
 <h2 align="center">👋  </h2>
 
-| Page | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |   Anant Mudgal   | [IMO](https://www.imo-official.org/participant_r.aspx?id=25764)  2015 (HM), 2016 (B), 2017 (B), 2018 (S)  | [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S) |
 |     |     |     |     |
 
