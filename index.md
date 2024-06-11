@@ -37,14 +37,14 @@ title: Home
   - Chemistry
   - Junior Science
   - Physics
-  
--------
 
 -------
 <h2 align="center">👋 I do not have much time for the above, but I find it interesting. Is there something that I can do? </h2>
 - Yes! You could spread the message by 
   - sharing the link [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/)
   - and suggeting to go through this page, that is the homepage [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), to find what all this is about!
+
+-------
 
 -------
 <h2 align="center">👋 Layout and Content of this website --- a brief description. </h2>
