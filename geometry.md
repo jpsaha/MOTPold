@@ -4,6 +4,7 @@ title: Geometry
 permalink: /geometry/
 ---
 
+{% include message.html %}
 {% include notes-usage.html %}
 
 ## References/Resources
