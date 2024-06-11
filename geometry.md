@@ -4,6 +4,8 @@ title: Geometry
 permalink: /geometry/
 ---
 
+{% include notes-usage.html %}
+
 ## References/Resources
 
 * [A Beautiful Journey Through Olympiad Geometry](https://www.olympiadgeometry.com/) by Stefan Lozanovski
