@@ -26,12 +26,9 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
   * Some of its [alums](https://web.evanchen.cc/otis.html#staff) are
 
 
-<a href="[https://www.w3schools.com/](https://web.evanchen.cc/otis.html#staff)">alums</a>
--------
-<h2 align="center">👋 Some of its a <a href="https://web.evanchen.cc/otis.html#staff">alums</a> a [alums](https://web.evanchen.cc/otis.html#staff) are </h2>
 
 -------
-<h2 align="center">👋 Some of its [alums](https://web.evanchen.cc/otis.html#staff) are </h2>
+<h2 align="center">👋 Some of its <a href="https://web.evanchen.cc/otis.html#staff">alums</a> are </h2>
 
 | Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
