@@ -30,7 +30,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
 
-| Name | [IMO](https://www.imo-official.org/) | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
+| Name | [IMO](https://www.imo-official.org/) | [APMO](https://www.apmo-official.org/) | [EGMO](https://www.egmo.org/) | [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) | [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) | [Tournament of Towns](https://www.turgor.ru/en/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |   `Anant Mudgal`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=25764)  2015 (HM), 2016 (B), 2017 (B), 2018 (S)  | [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S) |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
@@ -215,7 +215,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * [Sunaina Pati](https://www.egmo.org/people/person2282/), participated in 2023 (S).
 -->
 
-## [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) 
+## [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php)
 * [Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php)
 * Would imagine that this post on [Quora](https://www.quora.com/How-do-I-register-for-the-Sharygin-Geometry-Olympiad-from-India) is still relevant, though not sure (and have no knowledge). 
 
