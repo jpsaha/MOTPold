@@ -14,7 +14,7 @@ permalink: /eligibility/
 
 
 
-### [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and its [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
+### [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and the [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/) of IMO
 * The students enrolled in the 8th, 9th, 10th, 11th or 12th standard may participate. [^1]
   [^1]: provided certain additional conditions are met. The precise details are available at the [webpage](https://olympiads.hbcse.tifr.res.in/) of the Homi Bhabha Centre for Science Education (HBCSE).
 
