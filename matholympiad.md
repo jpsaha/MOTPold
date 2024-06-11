@@ -74,13 +74,6 @@ Participation of India in <span style="color: green"> **International** </span> 
 |   `Arjun Gupta`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=31722) 2022 (B), 2023 (G)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
-|      |     |      |      |                            |                           |                     |
 
 
 
