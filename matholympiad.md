@@ -202,9 +202,9 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 |  `Adhitya Venkata Ganesh Mangudy`   |     |     |     |     |  2019 (G), 2023 (B)   |     |
 |      |     |      |      |                            |                           |                     |
-|   `Kanav Talwar`  |     |     |     |     |     |   Bronze  |
+|   `Kanav Talwar`  |     |     |     |     |   Bronze  |     |
 |      |     |      |      |                            |                           |                     |
-|   `Rohan Goyal`  |     |     |     |     |     |  2021 (S)   |
+|   `Rohan Goyal`  |     |     |     |     |  2021 (S)   |     |
 |      |     |      |      |                            |                           |                     |
 
 
