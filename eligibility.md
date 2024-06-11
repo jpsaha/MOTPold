@@ -30,7 +30,7 @@ permalink: /eligibility/
 
 |  |  | Duration |   Questions  |   (To be/Was/Is usually) Held during    | Remarks |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        | 10 questions worth 2 points, 10 questions worth 3 points, 10 questions worth 5 points |
+|  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        | 10 questions worth 2 marks, 10 questions worth 3 marks, 10 questions worth 5 marks |
 |      |      |       |       |       |       |
 |   `RMO`        |    Regional Mathematical Olympiad       |   3hr        |    6 problems       |           | Each problem worth 17 marks | 
 |      |      |       |       |       |       |
