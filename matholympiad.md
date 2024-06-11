@@ -63,6 +63,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 9th in 2023 (G, G, S, S, B, B).
 <!-- ~~In 1991 - 1995, 1999 - 2000, 2003 - 2010, 2013 - 2018, there were no Gold medalists.~~ -->
 * In each IMO held during 2019 - 2023, at least one participant from India [received](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
+<!--
 * Some of the participants of the recent IMOs are
   * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), 
   * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), participated in 2018 (S), 2019 (G), 2021 (G), 2022 (G). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). [He](https://www.npskrm.com/hall-of-fame-pranjal.html) is the first participant from India to receive three Gold medals in IMO. He also received a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). 
@@ -71,7 +72,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * [Ananda Bhaduri](https://www.imo-official.org/participant_r.aspx?id=33405), participated in 2023 (S),
   * [Siddharth Choppara](https://www.imo-official.org/participant_r.aspx?id=33406), participated in 2023 (S),
   * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), participated in 2022 (B), 2023 (B).
-  
+-->
 * Some of the past [contestants](https://www.imo-official.org/country_individual_r.aspx?code=IND) are
   * Chetan Balwe
   * Riddhipratim Basu
@@ -118,6 +119,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 8th in 2020 (G, S, S, B, B, B, B, HM, HM, HM),
   * 6th in 2022 (G, S, S, B, B, B, B, HM, HM, HM),
   * 6th in 2023 (G, S, S, B, B, B, B, HM, HM, HM).
+<!--
 * Some of the past contestants are
   * Anant Mudgal, participated in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
   * Pranjal Srivastava, participated in [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G), 
@@ -127,7 +129,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * Ananda Bhaduri, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (B),
   * Siddharth Choppara, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (B),
   * Arjun Gupta, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (S).
-
+-->
 
 ## [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
 
@@ -155,12 +157,14 @@ Participation of India in <span style="color: green"> **International** </span> 
 
 * India has been participating in EGMO since [2015](https://www.egmo.org/countries/country35/).
 * India has received 6 Silver medals (S), 15 Bronze medals (B), and 4 Honourable mentions (HM).
+<!--
 * Some of the past contestants are
   * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in 2019 (B), 2020 (B), 2022 (B),
   * [Ananya Rajas Ranade](https://www.egmo.org/people/person1866/), participated in 2021 (S), 2022 (B),
   * [Gunjan Aggarwal](https://www.egmo.org/people/person1867/), participated in 2022 (B), 2023 (S), 2024 (S),
   * [Sanjana Philo Chacko](https://www.egmo.org/people/person2283/), participated in 2023 (B), 2024 (S),
   * [Sunaina Pati](https://www.egmo.org/people/person2282/), participated in 2023 (S).
+-->
 
 ## [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) 
 * [Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php)
