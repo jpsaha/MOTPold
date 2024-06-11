@@ -20,7 +20,7 @@ permalink: /eligibility/
 * Indian Olympiad Qualifier in Mathematics (IOQM) is a three hour examination with 30 questions. 
 * Regional Mathematical Olympiad (RMO) is a three-hour examination with six problems.
 * Indian National Mathematical Olympiad (INMO), held on the third Sunday of January.
-* International Mathematical Olympiad Training Camp (IMOTC), held from April to May. Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.
+* International Mathematical Olympiad Training Camp (IMOTC), held from April to May. 
 * Pre-Departure Camp (PDC) held before leaving for [IMO](https://www.imo-official.org/).
 
 
@@ -29,7 +29,7 @@ permalink: /eligibility/
 |  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        |
 |   `RMO`        |    Regional Mathematical Olympiad       |   3hr        |    6 problems       |           |
 |    `INMO`       |      Indian National Mathematical Olympiad     |   4hr  30min      |    6 problems       |    Third Sunday of January       |
-|     `IMOTC`      |      International Mathematical Olympiad Training Camp     |            |           |    Held from April to May       |
+|     `IMOTC`      |      International Mathematical Olympiad Training Camp     |            |           |    Held from April to May       |  Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.|
 |    `PDC`       |      Pre-Departure Camp     |           |           |    Before leaving for [IMO](https://www.imo-official.org/)       |
 
 
