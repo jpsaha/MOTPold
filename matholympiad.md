@@ -196,15 +196,23 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 |  `Ananda Bhaduri`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33405) 2023 (S)   |     |     |  Qualified for the final round in 2020 and 2021   |     |     |
 |      |     |      |      |                            |                           |                     |
-|   `Gunjan Aggarwal`  |     |     |     |  Qualified diploma   |  Silver   |   Diploma  |
+|   `Gunjan Aggarwal`  |     |     | [EGMO](https://www.egmo.org/people/person1867/) 2022 (B), 2023 (S), 2024 (S)    |  Qualified diploma   |  Silver   |   Diploma  |
 |      |     |      |      |                            |                           |                     |
 |  `Amaan Khan`   |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.   |      |     |
 |      |     |      |      |                            |                           |                     |
 |  `Adhitya Venkata Ganesh Mangudy`   |     |     |     |     |  2019 (G), 2023 (B)   |     |
 |      |     |      |      |                            |                           |                     |
+|   `Ananya Rajas Ranade`   |     |      |  [EGMO](https://www.egmo.org/people/person1866/) 2021 (S), 2022 (B)    |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
 |   `Kanav Talwar`  |     |     |     |     |   Bronze  |     |
 |      |     |      |      |                            |                           |                     |
 |   `Rohan Goyal`  |     |     |     |     |  2021 (S)   |     |
+|      |     |      |      |                            |                           |                     |
+|  `Sanjana Philo Chacko`    |     |      | [EGMO](https://www.egmo.org/people/person2283/) 2023 (B), 2024 (S)   |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|  `Sunaina Pati`    |     |      |  [EGMO](https://www.egmo.org/people/person2282/) 2023 (S)    |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
 
 
