@@ -1,6 +1,6 @@
 ---
 layout: eligibility
-title: Eligibility
+title: Eligibility and Stages
 permalink: /eligibility/
 ---
 
@@ -10,7 +10,7 @@ permalink: /eligibility/
 
 * The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE) organizes the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India. 
 
-
+## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <span style="color: red"> only one </span> leading to participation in the following <span style="color: green"> International </span> Mathematical Olympiads --- <span style="color: green"> IMO, APMO, EGMO</span>. <span style="color: red"> No other contests are recognized. </span>
 
 
 
@@ -46,8 +46,6 @@ permalink: /eligibility/
 
 * These also apply to participation in the [EGMO](https://www.egmo.org/) and [APMO](https://www.apmo-official.org/).
 * [INMOTC](https://olympiads.hbcse.tifr.res.in/faq/) is organized before INMO. 
-
-## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), is the <span style="color: red"> only one </span> leading to participation in the following <span style="color: green"> International </span> Mathematical Olympiads --- <span style="color: green"> IMO, APMO, EGMO</span>. <span style="color: red"> No other contests are recognized. </span>
 
 
 ### From Madhya Pradesh
