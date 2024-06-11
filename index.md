@@ -14,7 +14,7 @@ title: Home
     </a> 
 
 -------
-<h2 align="center">👋 Goal of this website. </h2>
+<h2 align="center">👋 Goal of this website (aka Why another website? What is its use?!) </h2>
 
 - To provide a brief introduction to Mathematical Olympiad.
 - To serve as a website for the [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) program at IISER Bhopal, to be held in person, from August 2024 to November 2024.
@@ -23,6 +23,17 @@ title: Home
   - These notes may be useful to the students who would like to have a look at some of the past RMO problem before getting started, or just curious about it.
   - These notes may also serve as a reference to anyone who would like to provide guidance to students, and but may not have enough time to organize the relevant questions across the topics and sub-topics. 
 - To provide assistance to anyone on Mathematics Olympiad.
+-------
+<h2 align="center">👋 I am enthusiastic about math/math olympiads and/or teaching math to high schoolers.How I may contribute? </h2>
+
+- One may reach to schools, to high schoolers. 
+- One may explain about Olympiads, and spread awareness about it.
+- One may encourage people (for instance, students, teachers or anyone enthusiastic/curious about math olympiad) to go through this website (and suggest a careful reading of the homepage!).
+- Next, a student interested in math olympiad, may browse through the handouts posted here (this is grow with time).
+- A person with passion in teaching high school students could use the handouts as a problem bag, or in other way.
+- What else? For instance, if one has interest in a science subject other than (or parallel to) mathematics, then one refer to the page of HBCSE, which has information about the following olympiads, and may repeat the same process as above adapted to that subject!
+
+
 
 -------
 
