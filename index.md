@@ -47,7 +47,7 @@ title: Home
 -------
 
 -------
-<h2 align="center">👋 Layout and Content of this website --- a brief description. </h2>
+<h2 align="center">👋 Layout and Content of this website --- a brief description (aka Site map!). </h2>
 
 | Page | Description |
 | :---: | :--- |
