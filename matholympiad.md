@@ -113,7 +113,8 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 11th in 2012 (G, G, S, S, S, HM),
   * 9th in 2023 (G, G, S, S, B, B).
 <!-- ~~In 1991 - 1995, 1999 - 2000, 2003 - 2010, 2013 - 2018, there were no Gold medalists.~~ -->
-* In each IMO held during 2019 - 2023, at least one participant from India [received](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal. 
+* In each IMO held during 2019 - 2023, at least one participant from India [received](https://www.imo-official.org/country_team_r.aspx?code=IND) a Gold medal.
+
 <!--
 * Some of the participants of the recent IMOs are
   * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), 
@@ -124,6 +125,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * [Siddharth Choppara](https://www.imo-official.org/participant_r.aspx?id=33406), participated in 2023 (S),
   * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), participated in 2022 (B), 2023 (B).
 -->
+
 * Some of the past [contestants](https://www.imo-official.org/country_individual_r.aspx?code=IND) are
   * Chetan Balwe
   * Riddhipratim Basu
@@ -170,6 +172,7 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 8th in 2020 (G, S, S, B, B, B, B, HM, HM, HM),
   * 6th in 2022 (G, S, S, B, B, B, B, HM, HM, HM),
   * 6th in 2023 (G, S, S, B, B, B, B, HM, HM, HM).
+
 <!--
 * Some of the past contestants are
   * Anant Mudgal, participated in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
@@ -208,6 +211,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 
 * India has been participating in EGMO since [2015](https://www.egmo.org/countries/country35/).
 * India has received 6 Silver medals (S), 15 Bronze medals (B), and 4 Honourable mentions (HM).
+
 <!--
 * Some of the past contestants are
   * [Anushka Aggarwal](https://www.egmo.org/people/person1429/), participated in 2019 (B), 2020 (B), 2022 (B),
