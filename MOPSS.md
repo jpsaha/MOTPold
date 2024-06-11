@@ -30,17 +30,11 @@ permalink: /MOPSS/
 
 |       |       |
 | :---: | :---: |
-|   `Jyoti Prakash Saha`  |   <a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
-      <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
-    </a>  |
+|   `Jyoti Prakash Saha`  |   <a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username } </a>  |
 |     |     |   
-|   `Kartick Adhikari`  |   <a href="mailto:kartick@iiserb.ac.in?subject=[MOPSS]"> 
-      <i class="fas fa-envelope" style="color:gray"></i> kartick@iiserb.ac.in
-    </a>  |
+|   `Kartick Adhikari`  |   <a href="mailto:kartick@iiserb.ac.in?subject=[MOPSS]"> <i class="fas fa-envelope" style="color:gray"></i> kartick@iiserb.ac.in </a>  |
 |     |     |   
-|   `Manas Kar`  |   <a href="mailto:manas@iiserb.ac.in?subject=[MOPSS]"> 
-      <i class="fas fa-envelope" style="color:gray"></i> manas@iiserb.ac.in
-    </a>  |
+|   `Manas Kar`  |   <a href="mailto:manas@iiserb.ac.in?subject=[MOPSS]"> <i class="fas fa-envelope" style="color:gray"></i> manas@iiserb.ac.in </a>  |
 |     |     |    
 
 -------
