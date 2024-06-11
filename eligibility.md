@@ -10,6 +10,10 @@ permalink: /eligibility/
 
 * The [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE) organizes the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India. 
 
+
+
+
+
 ### [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and its [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
 * The students enrolled in the 8th, 9th, 10th, 11th or 12th standard may participate. [^1]
   [^1]: provided certain additional conditions are met. The precise details are available at the [webpage](https://olympiads.hbcse.tifr.res.in/) of the Homi Bhabha Centre for Science Education (HBCSE).
@@ -18,6 +22,20 @@ permalink: /eligibility/
 * Indian National Mathematical Olympiad (INMO), held on the third Sunday of January.
 * International Mathematical Olympiad Training Camp (IMOTC), held from April to May. Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.
 * Pre-Departure Camp (PDC) held before leaving for [IMO](https://www.imo-official.org/).
+
+
+|  |  | Duration |     |       |
+| :---: | :---: | :---: | :---: | :---: |
+|  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        |
+|   `RMO`        |    Regional Mathematical Olympiad       |   3hr        |    6 problems       |           |
+|    `INMO`       |      Indian National Mathematical Olympiad     |   4hr        |    6 problems       |    3rd Sunday of January       |
+|     `IMOTC`      |      International Mathematical Olympiad Training Camp     |    Held from April to May       |           |    Held from April to May       |
+|    `PDC`       |      Pre-Departure Camp     |           |           |    Before leaving for [IMO](https://www.imo-official.org/)       |
+
+
+-------
+
+
 * These also apply to participation in the [EGMO](https://www.egmo.org/) and [APMO](https://www.apmo-official.org/).
 * [INMOTC](https://olympiads.hbcse.tifr.res.in/faq/) is organized before INMO. 
 
