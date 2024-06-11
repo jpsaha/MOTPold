@@ -29,6 +29,13 @@ Participation of India in <span style="color: green"> **International** </span> 
 >
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
 
+## The following provides some information about participation of a few Indian contestants in 
+- [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) 
+- [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO)
+- [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
+- [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) 
+- [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) 
+- [Tournament of Towns](https://www.turgor.ru/en/) 
 
 | Name | [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) | [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) | [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) | [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) | [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) | [Tournament of Towns](https://www.turgor.ru/en/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
