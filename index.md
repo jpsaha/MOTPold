@@ -31,7 +31,7 @@ title: Home
 - One may encourage people (for instance, students, teachers or anyone enthusiastic/curious about math olympiad) to go through this website (and suggest a careful reading of the homepage!).
 - Next, a student interested in math olympiad, may browse through the handouts posted here (this will grow with time).
 - A person with passion in teaching high school students could use the handouts as a problem bag, or in other way.
-- What else? For instance, if one has interest in a science subject other than (or parallel to) mathematics, then one refer to the page of HBCSE, which has information about the following olympiads, and may repeat the same process as above adapted to that subject!
+- What else? For instance, if one has interest in a science subject(s) other than (or parallel to) mathematics, then one may refer to the webpage of HBCSE, which has information about the following olympiads ([past papers](https://olympiads.hbcse.tifr.res.in/how-to-prepare/past-papers/)), and may repeat the same process as above adapted to that subject/those subjects!
   - Astronomy
   - Biology
   - Chemistry
