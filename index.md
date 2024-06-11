@@ -24,7 +24,7 @@ title: Home
 - To provide assistance to anyone on Mathematics Olympiad.
 
 -------
-<h2 align="center">👋 I am enthusiastic about math/math olympiads and/or teaching math to high schoolers. How I may contribute? </h2>
+<h2 align="center">👋 I am enthusiastic about math/math olympiads and/or teaching math to high schoolers. How may I contribute? </h2>
 
 - One may reach to schools, to high schoolers. 
 - One may explain about Olympiads, and spread awareness about it.
