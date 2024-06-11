@@ -28,7 +28,7 @@ permalink: /MOPSS/
   * For more information, you may write to
 
 
-|    a   |    a   |
+|   Name    |    Email   |
 | :---: | :---: |
 |   `Jyoti Prakash Saha`  |     |
 |     |     |   
