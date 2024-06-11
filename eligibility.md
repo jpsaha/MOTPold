@@ -26,6 +26,8 @@ permalink: /eligibility/
 * Pre-Departure Camp (PDC) held before leaving for [IMO](https://www.imo-official.org/).
 -->
 
+-------
+
 |  |  | Duration |     |   (To be/Was/Is usually) Held during    | Remarks |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        |
