@@ -27,7 +27,7 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 
 
 -------
-<h2 align="center">👋  </h2>
+<h2 align="center">👋 Some of its [alums](https://web.evanchen.cc/otis.html#staff) are </h2>
 
 | Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
