@@ -63,6 +63,8 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 |   `Rohan Goyal`  |     |     |     |     |  2021 (S)   |     |
 |      |     |      |      |                            |                           |                     |
+|  `Saee Vitthal Patil`    |     |      |  [EGMO](https://www.egmo.org/people/person2568/) 2024 (B)    |                            |                           |                     |
+|      |     |      |      |                            |                           |                     |
 |  `Sanjana Philo Chacko`    |     |      | [EGMO](https://www.egmo.org/people/person2283/) 2023 (B), 2024 (S)   |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
 |  `Sunaina Pati`    |     |      |  [EGMO](https://www.egmo.org/people/person2282/) 2023 (S)    |                            |                           |                     |
