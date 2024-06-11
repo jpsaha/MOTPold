@@ -196,7 +196,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 |     |     |     |     |     |     |     |     |
 |  `Ananda Bhaduri`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33405) 2023 (S)   |     |     |  Qualified for the final round in 2020 and 2021   |     |     |     |
 |     |     |     |     |     |     |     |     |
-|   `Gunjan Aggarwal`  |     |     |     |     |  Qualified diploma   |  Silver   |   Diploma  |
+|   `Gunjan Aggarwal`  |     |     |     |  Qualified diploma   |  Silver   |   Diploma  |
 |  `Amaan Khan`   |     |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.    |     |     |
 |     |     |     |     |     |     |     |     |
 |  `Adhitya Venkata Ganesh Mangudy`   |     |     |     |     |     |  2019 (G), 2023 (B)   |     |
