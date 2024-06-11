@@ -24,12 +24,12 @@ permalink: /eligibility/
 * Pre-Departure Camp (PDC) held before leaving for [IMO](https://www.imo-official.org/).
 
 
-|  |  | Duration |     |       |
-| :---: | :---: | :---: | :---: | :---: |
+|  |  | Duration |     |   (To be/Was/Is usually) Held during    | Remarks |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 |  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        |
 |   `RMO`        |    Regional Mathematical Olympiad       |   3hr        |    6 problems       |           |
 |    `INMO`       |      Indian National Mathematical Olympiad     |   4hr        |    6 problems       |    3rd Sunday of January       |
-|     `IMOTC`      |      International Mathematical Olympiad Training Camp     |    Held from April to May       |           |    Held from April to May       |
+|     `IMOTC`      |      International Mathematical Olympiad Training Camp     |            |           |    Held from April to May       |
 |    `PDC`       |      Pre-Departure Camp     |           |           |    Before leaving for [IMO](https://www.imo-official.org/)       |
 
 
