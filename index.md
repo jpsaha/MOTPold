@@ -51,7 +51,7 @@ title: Home
 <h2 align="center">👋 Layout and Content of <a href="https://jpsaha.github.io/MOTP/">this website</a> --- a brief description (aka Site map!). </h2>
 
 | Page | Description |
-| :---: | :--- |
+| ---: | :--- |
 |   `Home`  <br> [Home](https://jpsaha.github.io/MOTP/)   |   You are right here! Have a look! Scroll throughout the page!  |
 |     |     |     
 | `MOPSS` <br>  [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) |  The Department of Mathematics, IISER Bhopal, would be organizing Mathematics Olympiad Problem Solving Sessions (MOPSS). Its aim is to develop an interest for mathematics among the students, through encouraging them to work on problems falling broadly within the scope of Mathematical Olympiad. Applications are invited from the interested students, enrolled in the 7th, 8th, 9th or 10th standard. The timetable and instructions for the application process may be found at [this page](https://jpsaha.github.io/MOTP/MOPSS/).    |
