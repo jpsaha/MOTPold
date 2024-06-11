@@ -192,9 +192,25 @@ Participation of India in <span style="color: green"> **International** </span> 
 |     |     |     |     |     |     |     |     |
 |  `Pranjal Srivastava`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=28249) 2018 (S), 2019 (G), 2021 (G), 2022 (G)  |   [2018](https://www.apmo-official.org/country_report/IND/2018) (HM), [2019](https://www.apmo-official.org/country_report/IND/2019) (G), [2022](https://www.apmo-official.org/country_report/IND/2022) (G)  |     |     | 2021 (B)|     |
 |     |     |     |     |     |     |     |     |
-|  `Atul Shatavart Nadig`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31725) 2022 (B), 2023 (G)   |   [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G)  |     |     |     |     |     |
+|  `Atul Shatavart Nadig`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31725) 2022 (B), 2023 (G)   |   [2022](https://www.apmo-official.org/country_report/IND/2022) (S), [2023](https://www.apmo-official.org/country_report/IND/2023) (G)  |     |     |     |   2022 (S)  |     |
 |     |     |     |     |     |     |     |     |
 |   `Anushka Aggarwal`  |     |     |  [EGMO](https://www.egmo.org/people/person1429/) 2019 (B), 2020 (B), 2022 (B)  |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|  `Ananda Bhaduri`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33405) 2023 (S)   |     |     |  Qualified for the final round in 2020 and 2021   |     |     |     |
+|     |     |     |     |     |     |     |     |
+|   `Gunjan Aggarwal`  |     |     |     |     |  Qualified diploma   |  Silver   |   Diploma  |
+|  `Amaan Khan`   |     |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.    |     |     |
+|     |     |     |     |     |     |     |     |
+|  `Adhitya Venkata Ganesh Mangudy`   |     |     |     |     |     |  2019 (G), 2023 (B)   |     |
+|     |     |     |     |     |     |     |     |
+|   `Kanav Talwar`  |     |     |     |     |     |   Bronze  |     |
+|     |     |     |     |     |     |     |     |
+|   `Rohan Goyal`  |     |     |     |     |     |  2021 (S)   |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+
+
+
 
 -------
 
