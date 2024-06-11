@@ -28,13 +28,13 @@ permalink: /eligibility/
 
 -------
 
-|  |  | Duration |     |   (To be/Was/Is usually) Held during    | Remarks |
+|  |  | Duration |   Questions  |   (To be/Was/Is usually) Held during    | Remarks |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        |
+|  `IOQM`   |  Indian Olympiad Qualifier in Mathematics   | 3hr    | 30 questions |   8th September, 2024        | 10 questions worth 2 points, 10 questions worth 3 points, 10 questions worth 5 points |
 |      |      |       |       |       |       |
-|   `RMO`        |    Regional Mathematical Olympiad       |   3hr        |    6 problems       |           |
+|   `RMO`        |    Regional Mathematical Olympiad       |   3hr        |    6 problems       |           | Each problem worth 17 marks | 
 |      |      |       |       |       |       |
-|    `INMO`       |      Indian National Mathematical Olympiad     |   4hr  30min      |    6 problems       |    Third Sunday of January       |
+|    `INMO`       |      Indian National Mathematical Olympiad     |   4hr  30min      |    6 problems       |    Third Sunday of January       | Each problem worth 17 marks | 
 |      |      |       |       |       |       |
 |     `IMOTC`      |      International Mathematical Olympiad Training Camp     |            |           |    Held from April to May       |  Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.|
 |      |      |       |       |       |       |
