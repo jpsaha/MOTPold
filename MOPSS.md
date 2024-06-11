@@ -28,8 +28,8 @@ permalink: /MOPSS/
   * For more information, you may write to
 
 
-|  |  |
-| ---: | :--- |
+|       |       |
+| :---: | :---: |
 |   `Jyoti Prakash Saha`  |   <a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
     </a>  |
@@ -43,6 +43,7 @@ permalink: /MOPSS/
     </a>  |
 |     |     |    
 
+-------
 
     * Jyoti Prakash Saha (<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
