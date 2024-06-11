@@ -3,6 +3,7 @@ layout: numbertheory
 title: Number Theory
 permalink: /numbertheory/
 ---
+{% include notes-usage.html %}
 
 ## References/Resources
 
