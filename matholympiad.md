@@ -5,9 +5,11 @@ permalink: /matholympiad/
 ---
 {% include message.html %}
 
+<!--
 ## The following provides some information about
 * **[International]()** Mathematical Olympiad**[s]()**, 
 * Participation of India in these **[International]()** Mathematical Olympiad**[s]()**.
+-->
 <!-- ## The [Math Olympiad program organized by HBCSE](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf), which is the <span style="color: red"> only one </span> leading to participation in the [International]() Mathematical Olympiad[s](). <span style="color: red"> No other contests are recognized. </span> -->
 
 <!--
@@ -19,6 +21,14 @@ permalink: /matholympiad/
 Participation of India in <span style="color: green"> **International** </span> Mathematical Olympiad<span style="color: green">**s**</span>
 -->
 
+## The following provides some information about participation of a few Indian contestants in 
+- [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) 
+- [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO)
+- [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
+- [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) 
+- [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) 
+- [Tournament of Towns](https://www.turgor.ru/en/) 
+
 [Geoff Smith](https://people.bath.ac.uk/masgcs/advice.html) remarked the following in the foreword to the text [Infinity](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/o/infinity.pdf) by Hojoo Lee, Tom Lovering, and Cosmin Pohoata.
 
 >The nations which do consistently well at this competition (IMO) must have at least one (and probably at least two) of the following attributes:
@@ -28,14 +38,6 @@ Participation of India in <span style="color: green"> **International** </span> 
 > * A culture which values intellectual achievement.
 >
 > Alternatively, you need a cloning facility and a relaxed regulatory framework.
-
-## The following provides some information about participation of a few Indian contestants in 
-- [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) 
-- [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO)
-- [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
-- [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) 
-- [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) 
-- [Tournament of Towns](https://www.turgor.ru/en/) 
 
 | Name | [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) | [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) | [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) | [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) | [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) | [Tournament of Towns](https://www.turgor.ru/en/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
