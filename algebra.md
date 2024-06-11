@@ -4,6 +4,7 @@ title: Algebra
 permalink: /algebra/
 ---
 
+{% include message.html %}
 {% include notes-usage.html %}
 
 ## References/Resources
