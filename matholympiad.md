@@ -198,7 +198,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 |   `Gunjan Aggarwal`  |     |     |     |  Qualified diploma   |  Silver   |   Diploma  |
 |      |     |      |      |                            |                           |                     |
-|  `Amaan Khan`   |     |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.    |     |
+|  `Amaan Khan`   |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.   |      |     |
 |      |     |      |      |                            |                           |                     |
 |  `Adhitya Venkata Ganesh Mangudy`   |     |     |     |     |  2019 (G), 2023 (B)   |     |
 |      |     |      |      |                            |                           |                     |
