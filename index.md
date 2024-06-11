@@ -30,24 +30,25 @@ title: Home
 - One may reach to schools, to high schoolers. 
 - One may explain about Olympiads, and spread awareness about it.
 - One may encourage people (for instance, students, teachers or anyone enthusiastic/curious about math olympiad) to go through this website (and suggest a careful reading of the homepage!).
-- Next, a student interested in math olympiad, may browse through the handouts posted here (this is grow with time).
+- Next, a student interested in math olympiad, may browse through the handouts posted here (this will grow with time).
 - A person with passion in teaching high school students could use the handouts as a problem bag, or in other way.
 - What else? For instance, if one has interest in a science subject other than (or parallel to) mathematics, then one refer to the page of HBCSE, which has information about the following olympiads, and may repeat the same process as above adapted to that subject!
-  - Astronomy 
-
-Biology 
-Chemistry 
-Junior Science 
-Physics 
-
-
+  - Astronomy
+  - Biology
+  - Chemistry
+  - Junior Science
+  - Physics
+  
 -------
 
+-------
+<h2 align="center">👋 I do not have much time for the above, but I find it interesting. Is there something that I can do? </h2>
+- Yes! You could spread the message by 
+  - sharing the link [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/)
+  - and suggeting to go through this page, that is the homepage [https://jpsaha.github.io/MOTP/](https://jpsaha.github.io/MOTP/), to find what all this is about!
 
 -------
 <h2 align="center">👋 Layout and Content of this website --- a brief description. </h2>
-
-
 
 | Page | Description |
 | :---: | :--- |
