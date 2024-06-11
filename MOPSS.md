@@ -26,6 +26,24 @@ permalink: /MOPSS/
   * The students, selected for participation in the session, will be informed by <span style="color: royalblue"> **25th July, 2024** </span>.
   * Please refer to the [flyer](static_files/MOPSS/flyer.pdf) for further information.
   * For more information, you may write to
+
+
+|  |  |
+| ---: | :--- |
+|   `Jyoti Prakash Saha`  |   <a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
+      <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
+    </a>  |
+|     |     |   
+|   `Kartick Adhikari`  |   <a href="mailto:kartick@iiserb.ac.in?subject=[MOPSS]"> 
+      <i class="fas fa-envelope" style="color:gray"></i> kartick@iiserb.ac.in
+    </a>  |
+|     |     |   
+|   `Manas Kar`  |   <a href="mailto:manas@iiserb.ac.in?subject=[MOPSS]"> 
+      <i class="fas fa-envelope" style="color:gray"></i> manas@iiserb.ac.in
+    </a>  |
+|     |     |    
+
+
     * Jyoti Prakash Saha (<a href="mailto:{{ site.email_username }}?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> {{ site.email_username }}
     </a>),
