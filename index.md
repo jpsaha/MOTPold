@@ -75,7 +75,7 @@ title: Home
 | `Number Theory` <br>  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Several handouts on Number Theory have been posted on this page, and have been organized across different topics. |
 |     |     |     
 |     |     |     
-| `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by <br> [Sunaina Pati](https://sunainalovesmath.blogspot.com/), <br> [Rohan Goyal](https://rgtdfg.blogspot.com/), <br> [Evan Chen](https://web.evanchen.cc/).  |
+| `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by [Sunaina Pati](https://sunainalovesmath.blogspot.com/), [Rohan Goyal](https://rgtdfg.blogspot.com/), [Evan Chen](https://web.evanchen.cc/).  |
 |     |     |     
 | `Slides` <br>  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 |     |     |     
