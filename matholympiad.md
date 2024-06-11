@@ -197,6 +197,16 @@ Participation of India in <span style="color: green"> **International** </span> 
   * Arjun Gupta, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (S).
 
 
+  * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), 
+  * [Pranjal Srivastava](https://www.imo-official.org/participant_r.aspx?id=28249), participated in 2018 (S), 2019 (G), 2021 (G), 2022 (G). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx). [He](https://www.npskrm.com/hall-of-fame-pranjal.html) is the first participant from India to receive three Gold medals in IMO. He also received a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). 
+<!--  * [Pranjal Srivastava](https://www.npskrm.com/hall-of-fame-pranjal.html) is the first participant from India who [received](https://www.imo-official.org/participant_r.aspx?id=28249) three Gold medals in IMO (2019, 2021, 2022). He also received a Silver medal in IMO2018, and a bronze medal in [IOI 2021](https://stats.ioinformatics.org/people/7475). He appears in IMO's [Hall of Fame](https://www.imo-official.org/hall.aspx).
+-->
+  * [Atul Nadig](https://www.imo-official.org/participant_r.aspx?id=31725), participated in 2022 (B), 2023 (G), 
+  * [Arjun Gupta](https://www.imo-official.org/participant_r.aspx?id=31722), participated in 2022 (B), 2023 (G), 
+  * [Ananda Bhaduri](https://www.imo-official.org/participant_r.aspx?id=33405), participated in 2023 (S),
+  * [Siddharth Choppara](https://www.imo-official.org/participant_r.aspx?id=33406), participated in 2023 (S),
+  * [Adhitya Mangudy](https://www.imo-official.org/participant_r.aspx?id=31724), participated in 2022 (B), 2023 (B).
+  
 
 | Name | IMO | APMO | EGMO | Sharygin Geometry Olympiad | Iranian Geometry Olympiad | Tournament of Towns |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -214,7 +224,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 |  `Amaan Khan`   |     |     |     |  Qualified for the final round in 2020 and won a 3rd diploma.   |      |     |
 |      |     |      |      |                            |                           |                     |
-|  `Adhitya Venkata Ganesh Mangudy`   |     |  [2022](https://www.apmo-official.org/country_report/IND/2022) (B), [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |     |     |  2019 (G), 2023 (B)   |     |
+|  `Adhitya Venkata Ganesh Mangudy`   | [IMO](https://www.imo-official.org/participant_r.aspx?id=31724) 2022 (B), 2023 (B)    |  [2022](https://www.apmo-official.org/country_report/IND/2022) (B), [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |     |     |  2019 (G), 2023 (B)   |     |
 |      |     |      |      |                            |                           |                     |
 |   `Ananya Rajas Ranade`   |     |      |  [EGMO](https://www.egmo.org/people/person1866/) 2021 (S), 2022 (B)    |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
@@ -228,9 +238,9 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 |   `Aditya Khurmi`   |     |  [2020](https://www.apmo-official.org/country_report/IND/2020) (B)    |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
-|   `Siddharth Choppara`   |     |   [2023](https://www.apmo-official.org/country_report/IND/2023) (B)   |      |                            |                           |                     |
+|   `Siddharth Choppara`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=33406) 2023 (S)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (B)   |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
-|   `Arjun Gupta`   |     |   [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |      |                            |                           |                     |
+|   `Arjun Gupta`   |  [IMO](https://www.imo-official.org/participant_r.aspx?id=31722) 2022 (B), 2023 (G)   |   [2023](https://www.apmo-official.org/country_report/IND/2023) (S)   |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
 |      |     |      |      |                            |                           |                     |
