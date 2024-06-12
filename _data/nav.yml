@@ -19,6 +19,10 @@ items:
   name: Number Theory
   icon_class: fas fa-book-reader
 
+- url: /resources/
+  name: Resources
+  icon_class: fas fa-folder-open #fa-book
+
 - url: /MOPSS/
   name: MOPSS
   icon_class: fas fa-chalkboard
@@ -34,10 +38,6 @@ items:
 - url: /eligibility/
   name: Eligibility
   icon_class: fas fa-check-square
-
-- url: /resources/
-  name: Resources
-  icon_class: fas fa-folder-open #fa-book
 
 - url: /slides/
   name: Slides
