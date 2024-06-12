@@ -3,22 +3,6 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /MOPSS/
-  name: MOPSS
-  icon_class: fas fa-chalkboard
-
-- url: /matholympiad/
-  name: Math Olympiad
-  icon_class: fas fa-book-reader
-
-- url: /trainingprogram/
-  name: Training Program
-  icon_class: fas fa-users
-
-- url: /eligibility/
-  name: Eligibility
-  icon_class: fas fa-check-square
-
 - url: /algebra/
   name: Algebra
   icon_class: fas fa-book-reader
@@ -34,6 +18,22 @@ items:
 - url: /numbertheory/
   name: Number Theory
   icon_class: fas fa-book-reader
+
+- url: /MOPSS/
+  name: MOPSS
+  icon_class: fas fa-chalkboard
+
+- url: /matholympiad/
+  name: Math Olympiad
+  icon_class: fas fa-book-reader
+
+- url: /trainingprogram/
+  name: Training Program
+  icon_class: fas fa-users
+
+- url: /eligibility/
+  name: Eligibility
+  icon_class: fas fa-check-square
 
 - url: /resources/
   name: Resources
