@@ -34,7 +34,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 
 
 
-## The following provides some information about participation of a few Indian contestants in 
+## The following provides some information about participation of a few Indian contestants in the Olympiads mentioned below. Next, we provide a brief introduction to these Olympiads. 
 - [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) 
 - [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO)
 - [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
@@ -42,7 +42,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 - [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) 
 - [Tournament of Towns](https://www.turgor.ru/en/) 
 
-## Next, we provide a brief introduction to the above Olympiads. 
+
 
 | Name | [International Mathematical Olympiad](https://www.imo-official.org/) (IMO) | [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO) | [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO) | [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php) | [Iranian Geometry Olympiad](https://igo-official.com/?lang=en) (IGO) | [Tournament of Towns](https://www.turgor.ru/en/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
