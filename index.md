@@ -65,6 +65,8 @@ title: Home
 |     |     |     
 | `Number Theory` <br>  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Handouts on Number Theory posted on this page, and organized across different topics. |
 |     |     |    
+| `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by [Sunaina Pati](https://sunainalovesmath.blogspot.com/), [Rohan Goyal](https://rgtdfg.blogspot.com/), [Evan Chen](https://web.evanchen.cc/).  |
+|     |     |     
 |     |     |       
 | `MOPSS` <br>  [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) |  The Department of Mathematics, IISER Bhopal, would be organizing Mathematics Olympiad Problem Solving Sessions (MOPSS). Its aim is to develop an interest for mathematics among the students, through encouraging them to work on problems falling broadly within the scope of Mathematical Olympiad. Applications are invited from the interested students, enrolled in the 7th, 8th, 9th or 10th standard. The timetable and instructions for the application process may be found at [this page](https://jpsaha.github.io/MOTP/MOPSS/).    |
 |     |     |     
@@ -74,8 +76,6 @@ title: Home
 |     |     |     
 | `Eligibility` <br>  [Eligibility](https://jpsaha.github.io/MOTP/eligibility/)  |  This page discusses the [Eligibility](https://olympiads.hbcse.tifr.res.in/how-to-participate/eligibility/mathematical-olympiad/) and the [stages](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/) of the [Math Olympiad program](https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2023/12/brochure-maths-Olympiad-2023-24.pdf) in India organized by the [Homi Bhabha Centre for Science Education](https://olympiads.hbcse.tifr.res.in/) (HBCSE). These program leads to participation to the following three International Olympiads --- [IMO](https://www.imo-official.org/), [APMO](https://www.apmo-official.org/), [EGMO](https://www.egmo.org/). |
 |     |     |    
-|     |     |     
-| `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by [Sunaina Pati](https://sunainalovesmath.blogspot.com/), [Rohan Goyal](https://rgtdfg.blogspot.com/), [Evan Chen](https://web.evanchen.cc/).  |
 |     |     |     
 | `Slides` <br>  [Slides](https://jpsaha.github.io/MOTP/slides/)   |  The above is a repository of the slides of some of the talks about Mathematical Olympiad.    |
 |     |     |     
