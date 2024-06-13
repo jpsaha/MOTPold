@@ -65,7 +65,7 @@ title: Home
 |     |     |     
 | `Number Theory` <br>  [Number Theory](https://jpsaha.github.io/MOTP/numbertheory/)   |  Handouts on Number Theory posted on this page, and organized across different topics. |
 |     |     |    
-| `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes <br> References, <br> Problems and Solutions, <br> [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by [Sunaina Pati](https://sunainalovesmath.blogspot.com/), [Rohan Goyal](https://rgtdfg.blogspot.com/), [Evan Chen](https://web.evanchen.cc/).  |
+| `Resources` <br>  [Resources](https://jpsaha.github.io/MOTP/resources/)   |  The title is self-explanatory. It includes References, Problems and Solutions, [AoPS](https://artofproblemsolving.com/), and <br> References to some of the webpages maintained by [Sunaina Pati](https://sunainalovesmath.blogspot.com/), [Rohan Goyal](https://rgtdfg.blogspot.com/), [Evan Chen](https://web.evanchen.cc/).  |
 |     |     |     
 |     |     |       
 | `MOPSS` <br>  [MOPSS](https://jpsaha.github.io/MOTP/MOPSS/) |  The Department of Mathematics, IISER Bhopal, would be organizing Mathematics Olympiad Problem Solving Sessions (MOPSS). Its aim is to develop an interest for mathematics among the students, through encouraging them to work on problems falling broadly within the scope of Mathematical Olympiad. Applications are invited from the interested students, enrolled in the 7th, 8th, 9th or 10th standard. The timetable and instructions for the application process may be found at [this page](https://jpsaha.github.io/MOTP/MOPSS/).    |
