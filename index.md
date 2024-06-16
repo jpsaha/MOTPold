@@ -13,7 +13,7 @@ A few problems from IOQM 2023 have been discussed [here](static_files/IOQM/IOQM2
 <h2 align="center">👋 Hello! I'm Jyoti Prakash Saha. </h2>
 
 - 🔭 I’m currently working at the [Department of Mathematics](https://maths.iiserb.ac.in/), [IISER Bhopal](https://www.iiserb.ac.in/) as an Assistant Professor.
-- I am the **Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region**. I work together with Dr. [Kartick Adhikari](https://sites.google.com/site/kartickmath/), who is the **Joint Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region**. 
+- I am the **Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region**. For regional coordination, I work together with Dr. [Kartick Adhikari](https://sites.google.com/site/kartickmath/), who is the **Joint Regional Coordinator of the Mathematics Olympiad program for the Madhya Pradesh region**. 
 - 📫 For any **queries related to the Mathematics Olympiad** program, please feel free to **reach me at** <a href="mailto:jpsaha@iiserb.ac.in?subject=[MOPSS]"> 
       <i class="fas fa-envelope" style="color:gray"></i> jpsaha@iiserb.ac.in
     </a> 
