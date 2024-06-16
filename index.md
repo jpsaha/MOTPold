@@ -5,6 +5,9 @@ title: Home
 <span style="color: fuchsia"> **Indian Olympiad Qualifier in Mathematics (IOQM) 2024 will be held**</span> <span style="color: fuchsia"> **on Sunday, 8th September 2024.**</span>
 <span style="color: green"> **Further details will be published in the month of June 2024**</span> on the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/).
 
+
+A few problems from IOQM 2023 have discussed [here](static_files/IOQM/IOQM23.pdf).
+
 -------
 
 <h2 align="center">👋 Hello! I'm Jyoti Prakash Saha. </h2>
