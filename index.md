@@ -6,7 +6,7 @@ title: Home
 
 - <span style="color: green"> **Further details will be published in the month of June 2024**</span> on the webpage of [Mathematics Teachers’ Association](https://www.mtai.org.in/).
 
-A few problems from IOQM 2023 have been discussed [here](../static_files/IOQM/IOQM23.pdf).
+- A few problems from IOQM 2023 have been discussed [here](../static_files/IOQM/IOQM23.pdf).
 
 -------
 
