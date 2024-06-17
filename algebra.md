@@ -7,7 +7,7 @@ permalink: /algebra/
 {% include message.html %}
 {% include notes-usage.html %}
 
-## References/Resources
+<h2 align="center">👋 References/Resources </h2
 
 * Mathematical Olympiad Treasures by Titu Andreescu, Bogdan Enescu
 * Mathematical Olympiad Challenges by Titu Andreescu, Răzvan Gelca
