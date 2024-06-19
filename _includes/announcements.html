@@ -26,9 +26,9 @@
             {% elsif n.type == 'algebrass' %}
                 Algebra handout posted: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>] (updated on {{ n.upd }})
             {% elsif n.type == 'combinatoric' %}
-                Combinatorics handout posted: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                Combinatorics handout posted: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>] (updated on {{ n.upd }})
             {% elsif n.type == 'slide' %}
-                Slide released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                Slide released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>] (updated on {{ n.upd }})
             {% else%}
                 {{ n.description }}
             {% endif %}
