@@ -24,7 +24,7 @@
                 New Lecture is up: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'algebrass' %}
-                Algebra handout posted: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>] (updated on n.upd )
+                Algebra handout posted: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>] (updated on {{ n.upd }})
             {% elsif n.type == 'combinatoric' %}
                 Combinatorics handout posted: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% elsif n.type == 'slide' %}
