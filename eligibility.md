@@ -63,6 +63,7 @@ permalink: /eligibility/
 |    `PDC`       |      Pre-Departure Camp     |       |       |       |       |   Before leaving for [IMO](https://www.imo-official.org/)       |
 |       |       |       |       |       |       |       |
 
+Please visit [this webpage](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) for the updates and further details.
 
 -------
 
