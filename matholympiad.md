@@ -86,12 +86,12 @@ Participation of India in <span style="color: green"> **International** </span> 
 |      |     |      |      |                            |                           |                     |
 
 
-
+-------
 
 
 -------
 
-
+<h2 align="center">👋 IMO </h2>
 
 ## [International Mathematical Olympiad](https://www.imo-official.org/) (IMO)
 * The International Mathematical Olympiad ([IMO](https://www.imo-official.org/)) is the World Championship Mathematics Competition for High School students. It is held annually in a different country.
@@ -163,6 +163,10 @@ Participation of India in <span style="color: green"> **International** </span> 
   * 2023 
 -->
 
+-------
+
+<h2 align="center">👋 APMO </h2>
+
 ## [Asian Pacific Mathematics Olympiad](https://www.apmo-official.org/) (APMO)
 
 * The Asian Pacific Mathematics Olympiad ([APMO](https://www.apmo-official.org/)) is a mathematical competition for countries in the Pacific-Rim Region.
@@ -196,6 +200,10 @@ Participation of India in <span style="color: green"> **International** </span> 
   * Siddharth Choppara, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (B),
   * Arjun Gupta, participated in [2023](https://www.apmo-official.org/country_report/IND/2023) (S).
 -->
+
+-------
+
+<h2 align="center">👋 EGMO </h2>
 
 ## [European Girls’ Mathematical Olympiad](https://www.egmo.org/) (EGMO)
 
@@ -232,6 +240,10 @@ Participation of India in <span style="color: green"> **International** </span> 
   * [Sanjana Philo Chacko](https://www.egmo.org/people/person2283/), participated in 2023 (B), 2024 (S),
   * [Sunaina Pati](https://www.egmo.org/people/person2282/), participated in 2023 (S).
 -->
+
+-------
+
+<h2 align="center">👋 Sharygin Geometry Olympiad, Iranian Geometry Olympiad, Tournament of Towns </h2>
 
 ## [Sharygin Geometry Olympiad](https://geometry.ru/olimp/olimpsharygin.php)
 * [Google translate](https://translate.google.co.in/?sl=auto&tl=en&op=translate) may be used. The past problems and solutions are also available in English on the [webpage](https://geometry.ru/olimp/olimpsharygin.php)
@@ -276,9 +288,9 @@ Participation of India in <span style="color: green"> **International** </span> 
 -->
 
 
+-------
 
-
-## Let's go through a few problems
+<h2 align="center">👋 Let's go through a few problems </h2>
 
 * [A1](static_files/slides/3Mod4NotSumOfTwoSq.pdf)
 * [C1](static_files/slides/Putnam2002A2.pdf)
