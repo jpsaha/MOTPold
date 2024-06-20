@@ -57,9 +57,13 @@ Please visit [this webpage](https://olympiads.hbcse.tifr.res.in/mathematical-oly
 * [INMOTC](https://olympiads.hbcse.tifr.res.in/faq/) is a camp, organized before INMO. 
 
 
+-------
+
 ### From Madhya Pradesh
 * [144 students](https://www.mtai.org.in/ioqm-2023/) qualified in IOQM 2023
 * [39 students](https://olympiads.hbcse.tifr.res.in/rmo-2023-results/) qualified in RMO 2023
+
+-------
 
 ### Syllabus
 * [Algebra](https://jpsaha.github.io/MOTP/algebra/)
