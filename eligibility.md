@@ -32,19 +32,19 @@ permalink: /eligibility/
 
 -------
 
-|  |  | Date | Time | Total marks | Number of Questions | Remarks | 
+|    | Date | Time | Total marks | Number of Questions | Remarks | Website(s) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |       |       |       |       |       |       |       |
-| `IOQM` | Indian Olympiad Qualifier in Mathematics | 8th September, 2024 | 10:00hrs --- 13:00hrs | 100 marks | 30 |   10 questions worth 2 marks, 10 questions worth 3 marks, 10 questions worth 5 marks   |
-|       |       |       |       |       |       |       |
-| `RMO` | Regional Mathematical Olympiad | 3rd November, 2024 | 13:00hrs --- 16:00hrs | 102 marks | 6 |      |
-|       |       |       |       |       |       |       |
-| `INMO` | Indian National Mathematical Olympiad | 19th January, 2025 | 12:00hrs --- 16:30hrs | 102 marks | 6 |        |
-|       |       |       |       |       |       |       |
-|  `IMOTC`     |   International Mathematical Olympiad Training Camp    |  Held from April to May     |   --    |   --    |  --     |  Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.     |
-|       |       |       |       |       |       |       |
-|    `PDC`       |      Pre-Departure Camp     |       |       |       |       |   Before leaving for [IMO](https://www.imo-official.org/)       |
-|       |       |       |       |       |       |       |
+| `IOQM` <br> Indian Olympiad Qualifier in Mathematics | 8th September, 2024 | 10:00hrs --- 13:00hrs | 100 marks | 30 |   10 questions worth 2 marks, 10 questions worth 3 marks, 10 questions worth 5 marks   | [MTAI](https://www.mtai.org.in), [HBCSE](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) |
+|       |       |       |       |       |       |       
+| `RMO` <br> Regional Mathematical Olympiad | 3rd November, 2024 | 13:00hrs --- 16:00hrs | 102 marks | 6 |      | [HBCSE](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) |
+|       |       |       |       |       |       |       
+| `INMO` <br> Indian National Mathematical Olympiad | 19th January, 2025 | 12:00hrs --- 16:30hrs | 102 marks | 6 |        | [HBCSE](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) |
+|       |       |       |       |       |       |       
+|  `IMOTC`     <br>   International Mathematical Olympiad Training Camp    |  Held from April to May     |   --    |   --    |  --     |  Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.     | [HBCSE](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) |
+|       |       |       |       |       |       |       
+|    `PDC`       <br>      Pre-Departure Camp     |       |       |       |       |   Before leaving for [IMO](https://www.imo-official.org/)       | [HBCSE](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) |
+|       |       |       |       |       |       |       
 
 Please visit [this webpage](https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2024-2025/) for the updates and further details.
 
