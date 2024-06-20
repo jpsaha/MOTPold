@@ -44,7 +44,7 @@ permalink: /eligibility/
 -------
 
 
-<h2 align="center">👋 Some of the stages of the Math Olympiad program 2024 --- 2025</a> are </h2>
+<h2 align="center">👋 Some of the stages of the Math Olympiad program 2024 --- 2025 are </h2>
 
 
 -------
