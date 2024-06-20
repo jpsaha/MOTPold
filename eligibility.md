@@ -44,6 +44,29 @@ permalink: /eligibility/
 -------
 
 
+<h2 align="center">👋 Some of the stages of the Math Olympiad program 2024 --- 2025</a> are </h2>
+
+
+-------
+
+|  |  | Date | Time | Total marks | Number of Questions | Remarks | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|       |       |       |       |       |       |       |
+| `IOQM` | Indian Olympiad Qualifier in Mathematics | 8th September, 2024 | 10:00hrs --- 13:00hrs | 100 marks | 30 |     |
+|       |       |       |       |       |       |       |
+| `RMO` | Regional Mathematical Olympiad | 3rd November, 2024 | 13:00hrs --- 16:00hrs | 102 marks | 6 |      |
+|       |       |       |       |       |       |       |
+| `INMO` | Indian National Mathematical Olympiad | 19th January, 2025 | 12:00hrs --- 16:30hrs | 102 marks | 6 |        |
+|       |       |       |       |       |       |       |
+|  `IMOTC`     |   International Mathematical Olympiad Training Camp    |  Held from April to May     |   --    |   --    |  --     |  Through the TSTs (Team Selection Tests), it leads to the selection of six students to represent India at IMO.     |
+|       |       |       |       |       |       |       |
+|    `PDC`       |      Pre-Departure Camp     |       |       |       |       |   Before leaving for [IMO](https://www.imo-official.org/)       |
+|       |       |       |       |       |       |       |
+
+
+-------
+
+
 * For [EGMO](https://www.egmo.org/), the stages are IOQM, RMO, INMO, EGMOTC, EGMOPDC, EGMO (along with certain criteria at the stages).
 * For [APMO](https://www.apmo-official.org/), the stages are IOQM, RMO, INMO, APMO (along with certain criteria at the stages).
 
