@@ -41,8 +41,6 @@ Here are some of the [suggestions](https://web.evanchen.cc/faq-contest.html#C-0)
 |     |     |     |     |     |     |     |     |
 |   `Anushka Aggarwal`  |     |     |  [EGMO](https://www.egmo.org/people/person1429/) 2019 (B), 2020 (B), 2022 (B)  |     |     |     |     |
 
--------
-
 
   <!--
     * [Anant Mudgal](https://www.imo-official.org/participant_r.aspx?id=25764), participated in IMO in 2015 (HM), 2016 (B), 2017 (B), 2018 (S), and in APMO in [2016](https://www.apmo-official.org/country_report/IND/2016) (B), [2017](https://www.apmo-official.org/country_report/IND/2017) (S),
