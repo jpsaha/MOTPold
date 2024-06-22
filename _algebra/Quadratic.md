@@ -1,6 +1,6 @@
 ---
 type: algebrass
-date: 2024-06-22T11:00:00+5:30
+date: 2024-06-03T10:10:00+5:30
 upd: 2024-06-22
 title: 'Quadratic'
 pdf: /static_files/algebra/Quadratic.pdf
