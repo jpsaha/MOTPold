@@ -22,7 +22,7 @@ Participation of India in <span style="color: green"> **International** </span> 
 -->
 
 
-<h2 align="center">👋 Participation of a few Indian contestants in International Olympiads </h2>
+<h2 align="center">👋 Participation of a few Indian contestants in some International Olympiads </h2>
 
 <!-- 
 ## The following provides some information about participation of a few Indian contestants in the Olympiads mentioned below. Next, we provide a brief introduction to these Olympiads. 
